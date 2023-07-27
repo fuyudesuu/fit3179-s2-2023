@@ -1,1 +1,1 @@
-# fit3179-vizproj
+# FIT3179 - Data Visualization 2
