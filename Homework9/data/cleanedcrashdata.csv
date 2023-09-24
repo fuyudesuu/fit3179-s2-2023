@@ -1,9 +1,9 @@
-﻿State,CrashCount,Proportion,PercentageTotal,Population
-ACT,7,0.006,0.60,464601
-NSW,310,0.267,26.70,8293965
-NT,16,0.014,1.38,251654
-QLD,269,0.232,23.17,5418453
-SA,94,0.081,8.10,1844616
-TAS,33,0.028,2.84,572660
-VIC,257,0.221,22.14,6766559
-WA,175,0.151,15.07,2855594
+﻿State,CrashCount,Proportion,PercentageTotal,Population,FullStateName
+ACT,7,0.006,0.60,464601,Australian Capital Territory 
+NSW,310,0.267,26.70,8293965,New South Wales
+NT,16,0.014,1.38,251654,Northern Territory
+QLD,269,0.232,23.17,5418453,Queensland 
+SA,94,0.081,8.10,1844616,South Australia
+TAS,33,0.028,2.84,572660,Tasmania 
+VIC,257,0.221,22.14,6766559,Victoria 
+WA,175,0.151,15.07,2855594,Western Australia 
