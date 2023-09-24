@@ -7,7 +7,7 @@
     "url": "https://raw.githubusercontent.com/fuyudesuu/fit3179-s2-2023/main/Homework9/js/STE_2021_AUST_GDA2020.json",
     "format": {"type": "topojson", "feature": "STE_2021_AUST_GDA2020"}
   },
-  "projection": {"type": "equirectangular"},
+  "projection": {"type": "conicEqualArea", "parallels": [-16,-38], "rotate": [-134,0,0]},
   "layer": [
     {
       "transform": [
