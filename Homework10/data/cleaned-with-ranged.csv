@@ -1,0 +1,1162 @@
+﻿Crash ID,State,Month,Year,Dayweek,Time,Crash Type,Number of Fatalities,Bus Involvement,Heavy Rigid Truck Involvement, Articulated Truck Involvement,Speed Limit, National Remoteness Areas,SA4 Name 2021,National LGA NAme 2021,National Road Type,Christmas Period,Easter Period,Day of week, Time of Day
+20233071,QLD,8,2023,Saturday,2:00,Single,1,No,No,No,70,Inner Regional Australia,Wide Bay,Bundaberg,Sub-arterial Road,No,No,Weekend,Night
+20231172,NSW,8,2023,Saturday,20:02,Single,1,No,No,No,100,Outer Regional Australia,Central West,Forbes,Sub-arterial Road,No,No,Weekend,Night
+20233073,QLD,8,2023,Friday,3:00,Single,1,No,No,No,100,Inner Regional Australia,Wide Bay,Fraser Coast,Access road,No,No,Weekday,Night
+20235095,WA,8,2023,Thursday,21:22,Single,1,No,No,No,100,,,,,No,No,Weekday,Night
+20235025,WA,8,2023,Tuesday,19:38,Single,1,No,No,No,70,,,,,No,No,Weekday,Night
+20232015,VIC,8,2023,Saturday,16:09,Multiple,1,-9,-9,-9,-9,,,,,No,No,Weekend,Day
+20232131,VIC,8,2023,Sunday,16:30,Multiple,1,-9,-9,-9,-9,,,,,No,No,Weekend,Day
+20235005,WA,8,2023,Saturday,9:00,Single,1,No,No,No,50,,,,,No,No,Weekend,Day
+20235031,WA,8,2023,Sunday,7:00,Single,1,No,No,No,110,,,,,No,No,Weekend,Day
+20235088,WA,8,2023,Sunday,9:05,Single,1,No,No,No,90,,,,,No,No,Weekend,Day
+20231009,NSW,8,2023,Friday,22:50,Multiple,1,No,No,No,60,Major Cities of Australia,Sydney - Baulkham Hills and Hawkesbury,Hornsby,Local Road,No,No,Weekend,Night
+20232036,VIC,8,2023,Wednesday,18:15,Multiple,1,-9,-9,-9,-9,,,,,No,No,Weekday,Night
+20231122,NSW,8,2023,Saturday,17:57,Multiple,1,No,No,No,60,Major Cities of Australia,Sydney - Outer South West,Campbelltown,Local Road,No,No,Weekend,Day
+20231084,NSW,8,2023,Sunday,17:05,Multiple,1,No,No,Yes,110,Outer Regional Australia,Riverina,Cootamundra-Gundagai,National or State Highway,No,No,Weekend,Day
+20232068,VIC,8,2023,Sunday,18:54,Multiple,1,-9,-9,-9,50,Major Cities of Australia,Melbourne - West,Brimbank,Local Road,No,No,Weekend,Night
+20232027,VIC,8,2023,Sunday,23:18,Single,1,-9,-9,-9,80,Inner Regional Australia,Latrobe - Gippsland,Baw Baw,Sub-arterial Road,No,No,Weekend,Night
+20231029,NSW,8,2023,Friday,23:45,Multiple,1,No,Yes,No,50,Major Cities of Australia,Sydney - Outer South West,Campbelltown,Local Road,No,No,Weekend,Night
+20233063,QLD,8,2023,Sunday,4:00,Single,1,No,No,No,100,Outer Regional Australia,Queensland - Outback,Mareeba,Local Road,No,No,Weekend,Night
+20233027,QLD,8,2023,Saturday,11:00,Multiple,1,No,No,No,100,Inner Regional Australia,Logan - Beaudesert,Scenic Rim,National or State Highway,No,No,Weekend,Day
+20233081,QLD,8,2023,Saturday,10:00,Multiple,1,No,No,No,50,Major Cities of Australia,Brisbane - West,Brisbane,Collector Road,No,No,Weekend,Day
+20231205,NSW,8,2023,Sunday,13:50,Single,1,No,No,No,80,Inner Regional Australia,Illawarra,Kiama,National or State Highway,No,No,Weekend,Day
+20234028,SA,8,2023,Sunday,11:50,Single,1,No,No,No,110,Outer Regional Australia,South Australia - South East,Naracoorte Lucindale,Sub-arterial Road,No,No,Weekend,Day
+20234013,SA,8,2023,Sunday,13:00,Single,1,No,No,No,110,Outer Regional Australia,South Australia - South East,Wattle Range,Collector Road,No,No,Weekend,Day
+20232041,VIC,8,2023,Friday,17:17,Multiple,1,-9,-9,-9,110,Inner Regional Australia,Latrobe - Gippsland,Latrobe (VIC.),National or State Highway,No,No,Weekday,Day
+20235024,WA,8,2023,Thursday,10:23,Single,1,No,No,No,110,,,,,No,No,Weekday,Day
+20233076,QLD,8,2023,Monday,12:00,Single,1,No,No,No,50,,,,,No,No,Weekday,Day
+20233093,QLD,8,2023,Wednesday,6:00,Single,1,No,No,No,100,Outer Regional Australia,Wide Bay,North Burnett,National or State Highway,No,No,Weekday,Day
+20236013,TAS,8,2023,Saturday,23:00,Single,1,No,No,No,100,Outer Regional Australia,West and North West,Circular Head,Sub-arterial Road,No,No,Weekend,Night
+20231007,NSW,8,2023,Wednesday,14:45,Multiple,1,No,No,No,100,Outer Regional Australia,New England and North West,Liverpool Plains,Local Road,No,No,Weekday,Day
+20231190,NSW,8,2023,Monday,6:20,Multiple,1,No,Yes,No,80,Inner Regional Australia,Southern Highlands and Shoalhaven,Shoalhaven,National or State Highway,No,No,Weekday,Day
+20233021,QLD,8,2023,Friday,11:00,Multiple,1,No,No,No,60,Inner Regional Australia,Toowoomba,Toowoomba,National or State Highway,No,No,Weekday,Day
+20233111,QLD,8,2023,Friday,12:00,Single,1,No,No,No,-9,Inner Regional Australia,Sunshine Coast,Sunshine Coast,Local Road,No,No,Weekday,Day
+20231081,NSW,8,2023,Friday,7:55,Multiple,1,No,No,Yes,110,Outer Regional Australia,Riverina,Wagga Wagga,National or State Highway,No,No,Weekday,Day
+20233064,QLD,8,2023,Wednesday,10:00,Multiple,1,No,Yes,No,70,Major Cities of Australia,Gold Coast,Gold Coast,Sub-arterial Road,No,No,Weekday,Day
+20237008,NT,8,2023,Thursday,18:57,Multiple,1,No,No,No,80,,,,,No,No,Weekday,Night
+20233142,QLD,8,2023,Tuesday,11:00,Multiple,1,No,No,No,100,Inner Regional Australia,Darling Downs - Maranoa,Toowoomba,Collector Road,No,No,Weekday,Day
+20233150,QLD,8,2023,Thursday,20:00,Multiple,1,No,No,Yes,60,Outer Regional Australia,Mackay - Isaac - Whitsunday,Whitsunday,National or State Highway,No,No,Weekday,Night
+20231187,NSW,8,2023,Monday,14:00,Single,1,No,No,No,50,Inner Regional Australia,Mid North Coast,Nambucca Valley,Access road,No,No,Weekday,Day
+20233162,QLD,8,2023,Thursday,11:00,Multiple,1,No,No,No,100,Outer Regional Australia,Townsville,Burdekin,Local Road,No,No,Weekday,Day
+20232023,VIC,8,2023,Friday,6:35,Multiple,1,-9,-9,-9,70,Major Cities of Australia,Geelong,Greater Geelong,Local Road,No,No,Weekday,Day
+20232077,VIC,8,2023,Thursday,15:32,Multiple,1,-9,-9,-9,80,Inner Regional Australia,Melbourne - Outer East,Yarra Ranges,National or State Highway,No,No,Weekday,Day
+20233008,QLD,8,2023,Monday,12:00,Single,1,No,No,No,50,Outer Regional Australia,Townsville,Burdekin,Local Road,No,No,Weekday,Day
+20231160,NSW,8,2023,Friday,18:14,Single,1,No,No,No,60,Major Cities of Australia,Sydney - Inner South West,Canterbury-Bankstown,Collector Road,No,No,Weekend,Night
+20231192,NSW,8,2023,Saturday,8:04,Single,1,No,Yes,No,40,Inner Regional Australia,Central West,Bathurst Regional,Sub-arterial Road,No,No,Weekend,Day
+20232034,VIC,8,2023,Wednesday,19:36,Single,1,-9,-9,-9,-9,,,,,No,No,Weekday,Night
+20232092,VIC,8,2023,Friday,21:20,Single,1,-9,-9,-9,-9,,,,,No,No,Weekend,Night
+20233092,QLD,8,2023,Tuesday,20:00,Single,1,No,No,No,20,,,,,No,No,Weekday,Night
+20231131,NSW,8,2023,Wednesday,6:25,Single,1,No,No,Yes,60,Major Cities of Australia,Sydney - South West,Fairfield,Local Road,No,No,Weekday,Day
+20233029,QLD,8,2023,Wednesday,16:00,Single,1,No,No,No,50,Major Cities of Australia,Gold Coast,Gold Coast,Local Road,No,No,Weekday,Day
+20233017,QLD,8,2023,Monday,7:00,Single,1,No,No,No,80,Inner Regional Australia,Ipswich,Lockyer Valley,National or State Highway,No,No,Weekday,Day
+20231170,NSW,8,2023,Wednesday,5:10,Single,1,No,No,No,60,Major Cities of Australia,Sydney - Inner South West,Bayside,Arterial Road,No,No,Weekday,Night
+20232057,VIC,8,2023,Wednesday,0:10,Multiple,1,-9,-9,-9,-9,,,,,No,No,Weekday,Night
+20233140,QLD,8,2023,Sunday,20:00,Single,1,No,No,Yes,100,Outer Regional Australia,Central Queensland,Gladstone,National or State Highway,No,No,Weekend,Night
+20233084,QLD,8,2023,Sunday,18:00,Multiple,1,No,No,No,100,Outer Regional Australia,Mackay - Isaac - Whitsunday,Whitsunday,Local Road,No,No,Weekend,Night
+20235006,WA,8,2023,Sunday,6:15,Single,1,No,No,No,50,,,,,No,No,Weekend,Day
+20231181,NSW,8,2023,Saturday,20:55,Multiple,1,No,No,No,100,Inner Regional Australia,Sydney - Outer South West,Wollondilly,Arterial Road,No,No,Weekend,Night
+20231050,NSW,8,2023,Monday,5:40,Single,1,No,No,No,100,Inner Regional Australia,Richmond - Tweed,Richmond Valley,Sub-arterial Road,No,No,Weekend,Night
+20232032,VIC,8,2023,Friday,20:50,Multiple,1,-9,-9,-9,-9,,,,,No,No,Weekend,Night
+20233135,QLD,8,2023,Saturday,2:00,Multiple,1,No,No,No,60,Major Cities of Australia,Gold Coast,Gold Coast,Sub-arterial Road,No,No,Weekend,Night
+20233012,QLD,8,2023,Saturday,5:00,Single,1,No,No,No,100,Very Remote Australia,Queensland - Outback,Barcoo,Collector Road,No,No,Weekend,Night
+20233110,QLD,8,2023,Sunday,12:00,Multiple,1,No,No,Yes,100,Inner Regional Australia,Darling Downs - Maranoa,Southern Downs,National or State Highway,No,No,Weekend,Day
+20233164,QLD,8,2023,Sunday,9:00,Multiple,1,No,No,Yes,60,Outer Regional Australia,Mackay - Isaac - Whitsunday,Isaac,Collector Road,No,No,Weekend,Day
+20235078,WA,8,2023,Wednesday,13:10,Single,1,No,No,No,110,,,,,No,No,Weekday,Day
+20235051,WA,8,2023,Monday,13:41,Single,1,No,No,No,110,,,,,No,No,Weekday,Day
+20231008,NSW,8,2023,Tuesday,16:20,Multiple,1,No,Yes,No,70,Major Cities of Australia,Central Coast,Central Coast,National or State Highway,No,No,Weekday,Day
+20231157,NSW,8,2023,Saturday,18:00,Multiple,1,No,No,No,50,Major Cities of Australia,Sydney - Parramatta,Parramatta,Collector Road,No,No,Weekend,Night
+20231019,NSW,8,2023,Friday,21:50,Single,2,No,No,No,60,Major Cities of Australia,Sydney - Inner South West,Bayside,Arterial Road,No,No,Weekend,Night
+20231188,NSW,8,2023,Saturday,0:30,Single,1,No,No,No,100,Outer Regional Australia,Riverina,Carrathool,National or State Highway,No,No,Weekend,Night
+20236011,TAS,8,2023,Monday,3:23,Single,1,No,No,No,80,Inner Regional Australia,Launceston and North East,Launceston,Local Road,No,No,Weekend,Night
+20231103,NSW,8,2023,Friday,18:00,Multiple,1,No,No,No,50,Remote Australia,Far West and Orana,Coonamble,Arterial Road,No,No,Weekend,Night
+20233131,QLD,8,2023,Tuesday,16:00,Multiple,1,No,No,Yes,80,Outer Regional Australia,Townsville,Townsville,National or State Highway,No,No,Weekday,Day
+20233097,QLD,8,2023,Friday,9:00,Multiple,1,No,No,No,100,Inner Regional Australia,Ipswich,Lockyer Valley,Local Road,No,No,Weekday,Day
+20237004,NT,8,2023,Thursday,18:35,Multiple,1,No,No,No,50,Outer Regional Australia,Darwin,Palmerston,Sub-arterial Road,No,No,Weekday,Night
+20232121,VIC,8,2023,Thursday,21:30,Single,1,-9,-9,-9,-9,,,,,No,No,Weekday,Night
+20232045,VIC,8,2023,Tuesday,19:25,Multiple,1,-9,-9,-9,-9,,,,,No,No,Weekday,Night
+20232122,VIC,8,2023,Thursday,23:00,Single,1,-9,-9,-9,-9,,,,,No,No,Weekday,Night
+20235084,WA,8,2023,Thursday,3:55,Single,1,No,No,No,110,,,,,No,No,Weekday,Night
+20232145,VIC,8,2023,Thursday,18:46,Single,2,-9,-9,-9,-9,,,,,No,No,Weekday,Night
+20233112,QLD,8,2023,Thursday,2:00,Single,1,No,No,Yes,100,Outer Regional Australia,Wide Bay,South Burnett,Sub-arterial Road,No,No,Weekday,Night
+20231193,NSW,8,2023,Wednesday,16:25,Multiple,1,No,No,No,100,Outer Regional Australia,Far West and Orana,Dubbo Regional,National or State Highway,No,No,Weekday,Day
+20232095,VIC,8,2023,Thursday,10:27,Multiple,4,-9,-9,-9,-9,,,,,No,No,Weekday,Day
+20231140,NSW,8,2023,Thursday,5:45,Single,1,No,No,No,100,Inner Regional Australia,Capital Region,Eurobodalla,National or State Highway,No,No,Weekday,Night
+20234006,SA,8,2023,Tuesday,18:40,Single,1,No,No,No,100,Remote Australia,South Australia - South East,Tatiara,Collector Road,No,No,Weekday,Night
+20235077,WA,8,2023,Wednesday,16:48,Single,1,No,No,No,50,,,,,No,No,Weekday,Day
+20233007,QLD,8,2023,Tuesday,20:00,Multiple,2,No,No,Yes,110,Outer Regional Australia,Central Queensland,Central Highlands (QLD),National or State Highway,No,No,Weekday,Night
+20231040,NSW,8,2023,Thursday,20:30,Single,1,No,No,No,100,Outer Regional Australia,Riverina,Temora,Sub-arterial Road,No,No,Weekday,Night
+20236017,TAS,8,2023,Thursday,20:55,Single,1,No,No,No,80,Outer Regional Australia,West and North West,Latrobe (TAS.),Collector Road,No,No,Weekday,Night
+20231113,NSW,8,2023,Friday,11:50,Single,1,No,No,No,50,Inner Regional Australia,Central West,Lithgow,Local Road,No,No,Weekday,Day
+20231079,NSW,8,2023,Monday,20:20,Single,1,No,No,No,80,Inner Regional Australia,Mid North Coast,Kempsey,Local Road,No,No,Weekday,Night
+20235094,WA,8,2023,Friday,1:35,Single,1,No,No,No,110,,,,,No,No,Weekday,Night
+20234046,SA,8,2023,Sunday,19:08,Single,1,No,No,No,50,Inner Regional Australia,South Australia - South East,Mid Murray,Local Road,No,No,Weekend,Night
+20231097,NSW,8,2023,Thursday,4:19,Single,1,No,No,Yes,100,Outer Regional Australia,Far West and Orana,Dubbo Regional,National or State Highway,No,No,Weekday,Night
+20233061,QLD,8,2023,Friday,5:00,Multiple,1,No,No,Yes,50,Major Cities of Australia,Brisbane - North,Brisbane,Local Road,No,No,Weekday,Night
+20235079,WA,8,2023,Thursday,23:03,Single,1,No,No,No,110,,,,,No,No,Weekday,Night
+20234025,SA,8,2023,Thursday,4:30,Single,1,No,No,No,60,Major Cities of Australia,Adelaide - North,Port Adelaide Enfield,Sub-arterial Road,No,No,Weekday,Night
+20235067,WA,8,2023,Wednesday,19:21,Single,1,No,No,No,110,,,,,No,No,Weekday,Night
+20234066,SA,8,2023,Wednesday,1:00,Single,1,No,No,No,50,Major Cities of Australia,Adelaide - North,Playford,Local Road,No,No,Weekday,Night
+20235097,WA,7,2023,Monday,18:26,Single,1,No,No,No,110,,,,,No,No,Weekday,Night
+20231152,NSW,7,2023,Sunday,20:15,Single,1,No,No,No,50,Major Cities of Australia,Sydney - Outer West and Blue Mountains,Penrith,Local Road,No,No,Weekend,Night
+20235039,WA,7,2023,Sunday,12:00,Single,1,No,No,No,110,,,,,No,No,Weekend,Day
+20235021,WA,7,2023,Saturday,17:00,Single,1,No,No,No,-9,,,,,No,No,Weekend,Day
+20235022,WA,7,2023,Sunday,12:24,Single,1,No,No,No,110,,,,,No,No,Weekend,Day
+20231128,NSW,7,2023,Saturday,13:30,Multiple,1,No,No,No,60,Major Cities of Australia,Sydney - Inner South West,Canterbury-Bankstown,Collector Road,No,No,Weekend,Day
+20233104,QLD,7,2023,Sunday,11:00,Single,1,No,No,No,60,Major Cities of Australia,Gold Coast,Gold Coast,Local Road,No,No,Weekend,Day
+20235055,WA,7,2023,Saturday,0:02,Single,1,No,No,No,60,,,,,No,No,Weekend,Night
+20232055,VIC,7,2023,Sunday,11:10,Multiple,1,No,No,No,100,Inner Regional Australia,Latrobe - Gippsland,Baw Baw,Local Road,No,No,Weekend,Day
+20231076,NSW,7,2023,Sunday,12:20,Single,1,No,No,No,50,Major Cities of Australia,Sydney - North Sydney and Hornsby,Ku-ring-gai,Collector Road,No,No,Weekend,Day
+20232104,VIC,7,2023,Sunday,22:15,Single,1,No,No,No,80,Inner Regional Australia,Hume,Strathbogie,Arterial Road,No,No,Weekend,Night
+20231022,NSW,7,2023,Saturday,12:50,Multiple,1,No,No,No,80,Outer Regional Australia,Riverina,Griffith,Sub-arterial Road,No,No,Weekend,Day
+20233116,QLD,7,2023,Sunday,18:00,Single,1,No,No,No,60,Major Cities of Australia,Brisbane - West,Brisbane,Collector Road,No,No,Weekend,Night
+20233158,QLD,7,2023,Sunday,23:00,Single,1,No,No,No,70,Major Cities of Australia,Brisbane - East,Brisbane,Sub-arterial Road,No,No,Weekend,Night
+20231080,NSW,7,2023,Saturday,19:30,Single,1,No,Yes,No,80,Outer Regional Australia,Capital Region,Snowy Monaro Regional,National or State Highway,No,No,Weekend,Night
+20231143,NSW,7,2023,Sunday,13:30,Single,1,No,No,No,110,Outer Regional Australia,Riverina,Murrumbidgee,National or State Highway,No,No,Weekend,Day
+20231183,NSW,7,2023,Saturday,17:05,Single,1,No,No,No,80,Inner Regional Australia,Richmond - Tweed,Lismore,Arterial Road,No,No,Weekend,Day
+20231142,NSW,7,2023,Sunday,12:40,Multiple,1,No,No,No,100,Outer Regional Australia,Far West and Orana,Cabonne,Sub-arterial Road,No,No,Weekend,Day
+20234047,SA,7,2023,Saturday,14:04,Single,1,No,No,No,80,Major Cities of Australia,Adelaide - Central and Hills,Adelaide Hills,Sub-arterial Road,No,No,Weekend,Day
+20238001,ACT,7,2023,Sunday,16:20,Single,1,No,No,No,-9,,,,,No,No,Weekend,Day
+20231042,NSW,7,2023,Saturday,12:20,Multiple,1,No,No,No,80,Inner Regional Australia,Sydney - North Sydney and Hornsby,Hornsby,National or State Highway,No,No,Weekend,Day
+20234065,SA,7,2023,Saturday,8:29,Single,1,No,Yes,No,80,Inner Regional Australia,Adelaide - Central and Hills,Adelaide Hills,Sub-arterial Road,No,No,Weekend,Day
+20231039,NSW,7,2023,Monday,6:00,Single,1,No,No,No,110,Inner Regional Australia,Hunter Valley exc Newcastle,Cessnock,National or State Highway,No,No,Weekday,Day
+20232003,VIC,7,2023,Monday,13:10,Multiple,1,No,No,No,-9,,,,,No,No,Weekday,Day
+20235087,WA,7,2023,Thursday,10:55,Single,1,No,No,No,70,,,,,No,No,Weekday,Day
+20235041,WA,7,2023,Monday,11:30,Single,1,No,No,No,110,,,,,No,No,Weekday,Day
+20232130,VIC,7,2023,Monday,12:10,Multiple,1,No,No,No,80,Major Cities of Australia,Melbourne - South East,Greater Dandenong,Arterial Road,No,No,Weekday,Day
+20234062,SA,7,2023,Friday,8:21,Single,1,No,No,No,110,Outer Regional Australia,South Australia - South East,Karoonda East Murray,Arterial Road,No,No,Weekday,Day
+20234038,SA,7,2023,Tuesday,14:45,Single,1,No,No,No,50,Major Cities of Australia,Adelaide - South,Mitcham,Collector Road,No,No,Weekday,Day
+20233146,QLD,7,2023,Monday,7:00,Multiple,1,No,No,Yes,100,Inner Regional Australia,Wide Bay,Fraser Coast,National or State Highway,No,No,Weekday,Day
+20233153,QLD,7,2023,Wednesday,10:00,Multiple,1,No,No,No,100,Outer Regional Australia,Cairns,Cassowary Coast,National or State Highway,No,No,Weekday,Day
+20231005,NSW,7,2023,Saturday,20:00,Multiple,1,No,No,No,60,Major Cities of Australia,Sydney - Ryde,Parramatta,Arterial Road,No,No,Weekend,Night
+20231195,NSW,7,2023,Monday,3:15,Multiple,1,No,No,No,80,Inner Regional Australia,Central West,Mid-Western Regional,National or State Highway,No,No,Weekend,Night
+20231189,NSW,7,2023,Monday,6:49,Multiple,1,No,No,No,100,Inner Regional Australia,Capital Region,Eurobodalla,National or State Highway,No,No,Weekday,Day
+20233130,QLD,7,2023,Friday,15:00,Single,1,No,No,No,80,Inner Regional Australia,Ipswich,Ipswich,Sub-arterial Road,No,No,Weekday,Day
+20231154,NSW,7,2023,Friday,14:30,Single,1,No,No,No,50,Inner Regional Australia,Coffs Harbour - Grafton,Clarence Valley,Arterial Road,No,No,Weekday,Day
+20231114,NSW,7,2023,Tuesday,17:00,Multiple,1,No,No,No,100,Inner Regional Australia,Capital Region,Eurobodalla,National or State Highway,No,No,Weekday,Day
+20232056,VIC,7,2023,Monday,20:40,Multiple,1,No,No,No,-9,,,,,No,No,Weekday,Night
+20235012,WA,7,2023,Thursday,9:38,Single,1,No,No,No,100,,,,,No,No,Weekday,Day
+20231204,NSW,7,2023,Wednesday,16:30,Multiple,1,No,No,Yes,110,Inner Regional Australia,Capital Region,Upper Lachlan,National or State Highway,No,No,Weekday,Day
+20233124,QLD,7,2023,Friday,16:00,Single,1,No,No,No,50,Inner Regional Australia,Wide Bay,Fraser Coast,Local Road,No,No,Weekday,Day
+20231166,NSW,7,2023,Tuesday,16:30,Single,1,No,No,No,50,Inner Regional Australia,Central West,Mid-Western Regional,Access road,No,No,Weekday,Day
+20231135,NSW,7,2023,Friday,14:50,Multiple,1,No,No,Yes,110,Inner Regional Australia,Richmond - Tweed,Byron,National or State Highway,No,No,Weekday,Day
+20234031,SA,7,2023,Monday,16:14,Single,1,No,No,No,90,Major Cities of Australia,Adelaide - South,Onkaparinga,Arterial Road,No,No,Weekday,Day
+20232065,VIC,7,2023,Wednesday,12:30,Multiple,1,No,No,No,-9,,,,,No,No,Weekday,Day
+20233025,QLD,7,2023,Wednesday,14:00,Multiple,1,No,No,No,80,Major Cities of Australia,Logan - Beaudesert,Logan,Sub-arterial Road,No,No,Weekday,Day
+20233170,QLD,7,2023,Wednesday,15:00,Multiple,1,No,No,No,80,Major Cities of Australia,Moreton Bay - North,Moreton Bay,National or State Highway,No,No,Weekday,Day
+20233091,QLD,7,2023,Friday,12:00,Single,1,No,No,No,100,Major Cities of Australia,Ipswich,Ipswich,National or State Highway,No,No,Weekday,Day
+20232172,VIC,7,2023,Wednesday,14:03,Multiple,1,No,No,No,100,Inner Regional Australia,Hume,Wangaratta,Arterial Road,No,No,Weekday,Day
+20233102,QLD,7,2023,Tuesday,8:00,Single,1,No,No,No,40,Major Cities of Australia,Moreton Bay - South,Moreton Bay,Collector Road,No,No,Weekday,Day
+20233151,QLD,7,2023,Tuesday,7:00,Multiple,1,No,Yes,No,100,Outer Regional Australia,Mackay - Isaac - Whitsunday,Whitsunday,Sub-arterial Road,No,No,Weekday,Day
+20231146,NSW,7,2023,Wednesday,9:45,Single,1,No,No,No,60,Inner Regional Australia,Central West,Bathurst Regional,Local Road,No,No,Weekday,Day
+20233120,QLD,7,2023,Wednesday,10:00,Multiple,1,No,No,No,100,Outer Regional Australia,Wide Bay,Gympie,National or State Highway,No,No,Weekday,Day
+20231150,NSW,7,2023,Wednesday,8:40,Multiple,1,No,Yes,Yes,80,Inner Regional Australia,Hunter Valley exc Newcastle,Singleton,National or State Highway,No,No,Weekday,Day
+20231211,NSW,7,2023,Wednesday,14:40,Single,1,No,No,No,60,Inner Regional Australia,Illawarra,Shellharbour,National or State Highway,No,No,Weekday,Day
+20234035,SA,7,2023,Monday,14:32,Multiple,1,No,No,No,60,Major Cities of Australia,Adelaide - South,Marion,Sub-arterial Road,No,No,Weekday,Day
+20233058,QLD,7,2023,Monday,6:00,Single,1,No,No,No,110,Remote Australia,Mackay - Isaac - Whitsunday,Isaac,Undetermined,No,No,Weekday,Day
+20233062,QLD,7,2023,Friday,10:00,Multiple,1,No,No,No,100,Remote Australia,Darling Downs - Maranoa,Maranoa,Local Road,No,No,Weekday,Day
+20236015,TAS,7,2023,Sunday,20:42,Single,1,No,No,No,100,Inner Regional Australia,Hobart,Derwent Valley,National or State Highway,No,No,Weekend,Night
+20237001,NT,7,2023,Friday,21:00,Single,1,No,No,No,100,Outer Regional Australia,Darwin,Palmerston,National or State Highway,No,No,Weekend,Night
+20231156,NSW,7,2023,Saturday,2:30,Single,1,No,No,Yes,60,Inner Regional Australia,Sydney - Outer West and Blue Mountains,Blue Mountains,National or State Highway,No,No,Weekend,Night
+20233053,QLD,7,2023,Sunday,14:00,Single,1,No,No,No,60,Major Cities of Australia,Ipswich,Ipswich,Sub-arterial Road,No,No,Weekend,Day
+20231094,NSW,7,2023,Sunday,13:25,Single,1,No,No,No,50,Major Cities of Australia,Sydney - Northern Beaches,Northern Beaches,Local Road,No,No,Weekend,Day
+20232137,VIC,7,2023,Saturday,20:13,Single,1,No,No,No,60,Inner Regional Australia,Latrobe - Gippsland,Baw Baw,Sub-arterial Road,No,No,Weekend,Night
+20234015,SA,7,2023,Friday,15:35,Single,1,No,No,No,50,Outer Regional Australia,South Australia - Outback,Port Augusta,Local Road,No,No,Weekday,Day
+20235058,WA,7,2023,Thursday,22:36,Single,1,No,No,No,-9,,,,,No,No,Weekday,Night
+20231011,NSW,7,2023,Wednesday,9:40,Single,1,No,No,No,60,Major Cities of Australia,Sydney - Baulkham Hills and Hawkesbury,The Hills,Arterial Road,No,No,Weekday,Day
+20232007,VIC,7,2023,Tuesday,9:00,Single,1,No,Yes,No,60,Major Cities of Australia,Melbourne - Inner East,Boroondara,Arterial Road,No,No,Weekday,Day
+20232021,VIC,7,2023,Tuesday,19:40,Single,1,No,No,No,50,Major Cities of Australia,Melbourne - South East,Casey,Sub-arterial Road,No,No,Weekday,Night
+20231063,NSW,7,2023,Tuesday,9:02,Single,1,No,No,No,50,Major Cities of Australia,Sydney - North Sydney and Hornsby,Hornsby,Collector Road,No,No,Weekday,Day
+20232101,VIC,7,2023,Monday,18:12,Single,1,No,No,No,60,Inner Regional Australia,Bendigo,Greater Bendigo,Local Road,No,No,Weekday,Night
+20231048,NSW,7,2023,Saturday,19:45,Multiple,1,No,No,No,60,Major Cities of Australia,Central Coast,Central Coast,Collector Road,No,No,Weekend,Night
+20232019,VIC,7,2023,Saturday,20:59,Multiple,1,No,No,Yes,100,Inner Regional Australia,Shepparton,Moira,Arterial Road,No,No,Weekend,Night
+20231070,NSW,7,2023,Saturday,2:05,Single,1,No,No,No,50,Outer Regional Australia,New England and North West,Moree Plains,Local Road,No,No,Weekend,Night
+20231017,NSW,7,2023,Friday,18:00,Multiple,1,No,No,No,70,Major Cities of Australia,Newcastle and Lake Macquarie,Lake Macquarie,Arterial Road,No,No,Weekend,Night
+20232046,VIC,7,2023,Friday,19:55,Multiple,1,No,No,No,-9,,,,,No,No,Weekend,Night
+20232155,VIC,7,2023,Sunday,19:00,Single,1,No,No,No,60,Outer Regional Australia,North West,Northern Grampians,Arterial Road,No,No,Weekend,Night
+20235044,WA,7,2023,Sunday,17:00,Single,1,No,No,No,80,,,,,No,No,Weekend,Day
+20234059,SA,7,2023,Saturday,18:00,Single,1,No,No,No,100,Very Remote Australia,South Australia - Outback,Ceduna,Collector Road,No,No,Weekend,Night
+20234058,SA,7,2023,Sunday,11:00,Single,1,No,No,No,-9,Major Cities of Australia,Adelaide - South,Onkaparinga,Collector Road,No,No,Weekend,Day
+20235104,WA,7,2023,Saturday,17:20,Single,1,No,No,No,70,,,,,No,No,Weekend,Day
+20232078,VIC,7,2023,Sunday,13:40,Single,1,No,No,No,-9,,,,,No,No,Weekend,Day
+20232086,VIC,7,2023,Saturday,6:10,Single,1,No,No,No,-9,,,,,No,No,Weekend,Day
+20233139,QLD,7,2023,Saturday,15:00,Single,1,No,No,No,80,Outer Regional Australia,Central Queensland,Gladstone,Access road,No,No,Weekend,Day
+20232138,VIC,7,2023,Sunday,16:44,Multiple,1,No,No,No,-9,,,,,No,No,Weekend,Day
+20233141,QLD,7,2023,Tuesday,17:00,Single,1,No,Yes,No,100,Inner Regional Australia,Darling Downs - Maranoa,Southern Downs,Local Road,No,No,Weekday,Day
+20232066,VIC,7,2023,Wednesday,11:54,Multiple,1,No,No,Yes,100,Inner Regional Australia,Hume,Mitchell,National or State Highway,No,No,Weekday,Day
+20232031,VIC,7,2023,Wednesday,16:30,Multiple,1,No,No,No,-9,,,,,No,No,Weekday,Day
+20233016,QLD,7,2023,Monday,17:00,Single,1,No,No,No,100,Inner Regional Australia,Ipswich,Scenic Rim,Local Road,No,No,Weekday,Day
+20233045,QLD,7,2023,Monday,10:00,Single,1,No,No,No,80,Inner Regional Australia,Gold Coast,Gold Coast,Local Road,No,No,Weekday,Day
+20231061,NSW,7,2023,Wednesday,13:00,Single,1,No,No,No,60,Inner Regional Australia,New England and North West,Glen Innes Severn,National or State Highway,No,No,Weekday,Day
+20233014,QLD,7,2023,Friday,13:00,Multiple,1,No,No,No,100,Inner Regional Australia,Central Queensland,Livingstone,Local Road,No,No,Weekday,Day
+20232099,VIC,7,2023,Wednesday,1:38,Single,1,No,No,No,-9,,,,,No,No,Weekday,Night
+20231136,NSW,7,2023,Tuesday,19:40,Single,1,No,No,No,50,Major Cities of Australia,Sydney - Ryde,Parramatta,Collector Road,No,No,Weekday,Night
+20231095,NSW,7,2023,Wednesday,13:27,Multiple,1,No,No,No,60,Major Cities of Australia,Sydney - Ryde,Ryde,Arterial Road,No,No,Weekday,Day
+20233103,QLD,7,2023,Tuesday,6:00,Multiple,1,No,Yes,No,100,Inner Regional Australia,Toowoomba,Lockyer Valley,National or State Highway,No,No,Weekday,Day
+20232024,VIC,7,2023,Monday,17:34,Multiple,1,No,No,No,60,Major Cities of Australia,Melbourne - Inner South,Stonnington,Sub-arterial Road,No,No,Weekday,Day
+20232166,VIC,7,2023,Monday,10:39,Multiple,1,No,No,No,-9,,,,,No,No,Weekday,Day
+20231036,NSW,7,2023,Thursday,15:45,Single,1,No,No,No,50,Outer Regional Australia,New England and North West,Gunnedah,Local Road,No,No,Weekday,Day
+20235029,WA,7,2023,Tuesday,17:58,Single,1,No,Yes,No,100,,,,,No,No,Weekday,Day
+20231175,NSW,7,2023,Thursday,1:07,Single,1,No,No,No,100,Inner Regional Australia,New England and North West,Tamworth Regional,National or State Highway,No,No,Weekday,Night
+20235052,WA,7,2023,Wednesday,5:30,Multiple,1,No,No,No,80,,,,,No,No,Weekday,Night
+20233160,QLD,7,2023,Tuesday,18:00,Single,1,No,No,No,80,Major Cities of Australia,Sunshine Coast,Sunshine Coast,Collector Road,No,No,Weekday,Night
+20231184,NSW,7,2023,Wednesday,18:58,Single,1,No,No,No,100,Inner Regional Australia,Southern Highlands and Shoalhaven,Shoalhaven,National or State Highway,No,No,Weekday,Night
+20234060,SA,7,2023,Thursday,23:34,Single,1,No,No,No,80,Outer Regional Australia,South Australia - South East,Grant,Sub-arterial Road,No,No,Weekday,Night
+20233083,QLD,7,2023,Monday,18:00,Single,1,No,No,No,100,Outer Regional Australia,Central Queensland,Banana,National or State Highway,No,No,Weekday,Night
+20233034,QLD,7,2023,Wednesday,18:00,Single,1,No,No,No,100,Outer Regional Australia,Mackay - Isaac - Whitsunday,Whitsunday,Local Road,No,No,Weekday,Night
+20233072,QLD,7,2023,Friday,3:00,Multiple,3,No,No,No,110,Inner Regional Australia,Sunshine Coast,Noosa,National or State Highway,No,No,Weekday,Night
+20232006,VIC,7,2023,Friday,9:14,Single,1,No,No,No,-9,,,,,No,No,Weekday,Day
+20231159,NSW,7,2023,Friday,5:40,Multiple,1,No,No,No,70,Inner Regional Australia,Southern Highlands and Shoalhaven,Shoalhaven,Sub-arterial Road,No,No,Weekday,Night
+20231072,NSW,7,2023,Thursday,4:30,Multiple,1,No,No,Yes,110,Outer Regional Australia,Riverina,Wagga Wagga,National or State Highway,No,No,Weekday,Night
+20232044,VIC,7,2023,Thursday,21:45,Multiple,1,No,No,No,-9,,,,,No,No,Weekday,Night
+20233087,QLD,7,2023,Tuesday,21:00,Single,1,No,No,No,80,Remote Australia,Mackay - Isaac - Whitsunday,Whitsunday,Sub-arterial Road,No,No,Weekday,Night
+20233030,QLD,7,2023,Friday,0:00,Multiple,1,No,No,No,60,Inner Regional Australia,Toowoomba,Toowoomba,Local Road,No,No,Weekday,Night
+20232107,VIC,7,2023,Wednesday,21:09,Single,1,No,No,No,-9,,,,,No,No,Weekday,Night
+20231037,NSW,6,2023,Saturday,19:10,Single,1,No,No,No,50,Inner Regional Australia,Capital Region,Goulburn Mulwaree,Local Road,No,No,Weekend,Night
+20233036,QLD,6,2023,Friday,2:00,Multiple,1,No,No,Yes,100,Outer Regional Australia,Central Queensland,Banana,Sub-arterial Road,No,No,Weekday,Night
+20233101,QLD,6,2023,Saturday,14:00,Multiple,1,No,No,No,100,Inner Regional Australia,Wide Bay,Gympie,Collector Road,No,No,Weekend,Day
+20231210,NSW,6,2023,Saturday,19:00,Single,1,No,No,No,50,Inner Regional Australia,Sydney - Outer West and Blue Mountains,Blue Mountains,Collector Road,No,No,Weekend,Night
+20233066,QLD,6,2023,Sunday,15:00,Multiple,1,No,No,No,100,Inner Regional Australia,Darling Downs - Maranoa,Toowoomba,National or State Highway,No,No,Weekend,Day
+20233054,QLD,6,2023,Sunday,11:00,Multiple,1,No,No,No,60,Major Cities of Australia,Ipswich,Ipswich,Collector Road,No,No,Weekend,Day
+20231196,NSW,6,2023,Saturday,14:25,Multiple,1,No,No,No,50,Major Cities of Australia,Sydney - City and Inner South,Sydney,Local Road,No,No,Weekend,Day
+20235076,WA,6,2023,Friday,18:40,Single,1,No,No,No,90,,,,,No,No,Weekend,Night
+20231123,NSW,6,2023,Sunday,8:36,Single,1,No,No,No,100,Outer Regional Australia,Central West,Cabonne,Arterial Road,No,No,Weekend,Day
+20231083,NSW,6,2023,Saturday,15:53,Multiple,1,No,No,No,70,Major Cities of Australia,Sydney - Ryde,Ryde,Local Road,No,No,Weekend,Day
+20236003,TAS,6,2023,Saturday,8:39,Multiple,1,No,No,No,80,Inner Regional Australia,Hobart,Brighton,Arterial Road,No,No,Weekend,Day
+20237007,NT,6,2023,Saturday,13:15,Single,1,No,No,No,110,Very Remote Australia,Northern Territory - Outback,Central Desert,Sub-arterial Road,No,No,Weekend,Day
+20231092,NSW,6,2023,Saturday,16:13,Multiple,1,No,No,No,80,Major Cities of Australia,Sydney - Outer South West,Camden,Arterial Road,No,No,Weekend,Day
+20231148,NSW,6,2023,Saturday,8:30,Single,1,No,No,No,60,Major Cities of Australia,Newcastle and Lake Macquarie,Lake Macquarie,National or State Highway,No,No,Weekend,Day
+20231186,NSW,6,2023,Sunday,7:10,Single,1,No,No,No,110,Inner Regional Australia,Coffs Harbour - Grafton,Coffs Harbour,National or State Highway,No,No,Weekend,Day
+20231208,NSW,6,2023,Sunday,14:55,Multiple,1,No,No,No,90,Inner Regional Australia,Sydney - Outer South West,Sutherland,Arterial Road,No,No,Weekend,Day
+20232125,VIC,6,2023,Saturday,9:45,Single,1,No,No,No,100,Outer Regional Australia,Latrobe - Gippsland,Baw Baw,Access road,No,No,Weekend,Day
+20235060,WA,6,2023,Wednesday,12:00,Multiple,1,No,No,Yes,110,,,,,No,No,Weekday,Day
+20232025,VIC,6,2023,Friday,11:30,Multiple,1,No,No,Yes,100,Inner Regional Australia,Shepparton,Moira,National or State Highway,No,No,Weekday,Day
+20233113,QLD,6,2023,Saturday,18:00,Single,1,No,No,No,70,Major Cities of Australia,Moreton Bay - South,Moreton Bay,Local Road,No,No,Weekend,Night
+20231006,NSW,6,2023,Tuesday,13:40,Single,1,No,No,No,50,Inner Regional Australia,Coffs Harbour - Grafton,Clarence Valley,Arterial Road,No,No,Weekday,Day
+20232175,VIC,6,2023,Monday,7:39,Multiple,1,No,No,No,60,Major Cities of Australia,Melbourne - Inner,Moreland,Sub-arterial Road,No,No,Weekday,Day
+20233121,QLD,6,2023,Friday,16:00,Multiple,1,No,No,No,110,Outer Regional Australia,Darling Downs - Maranoa,Western Downs,National or State Highway,No,No,Weekday,Day
+20233006,QLD,6,2023,Friday,15:00,Single,1,No,No,No,60,Outer Regional Australia,Townsville,Townsville,Collector Road,No,No,Weekday,Day
+20231199,NSW,6,2023,Thursday,16:41,Multiple,1,No,No,No,50,Major Cities of Australia,Sydney - Inner West,Inner West,Collector Road,No,No,Weekday,Day
+20231056,NSW,6,2023,Thursday,15:30,Multiple,1,No,No,No,100,Outer Regional Australia,Mid North Coast,Kempsey,Arterial Road,No,No,Weekday,Day
+20231213,NSW,6,2023,Wednesday,17:44,Single,1,No,No,No,80,Inner Regional Australia,Richmond - Tweed,Lismore,Arterial Road,No,No,Weekday,Day
+20231139,NSW,6,2023,Tuesday,17:37,Single,1,No,No,No,100,Inner Regional Australia,Southern Highlands and Shoalhaven,Wingecarribee,National or State Highway,No,No,Weekday,Day
+20233168,QLD,6,2023,Tuesday,17:00,Single,1,No,No,No,-9,Very Remote Australia,Queensland - Outback,Carpentaria,,No,No,Weekday,Day
+20233167,QLD,6,2023,Thursday,9:00,Multiple,1,No,No,No,100,Inner Regional Australia,Ipswich,Ipswich,Sub-arterial Road,No,No,Weekday,Day
+20235103,WA,6,2023,Thursday,16:08,Single,1,No,No,No,100,,,,,No,No,Weekday,Day
+20233172,QLD,6,2023,Thursday,10:00,Single,1,No,No,No,60,Inner Regional Australia,Logan - Beaudesert,Logan,Local Road,No,No,Weekday,Day
+20231108,NSW,6,2023,Friday,15:15,Single,1,No,No,No,80,Inner Regional Australia,Hunter Valley exc Newcastle,Port Stephens,Local Road,No,No,Weekday,Day
+20231030,NSW,6,2023,Wednesday,12:35,Multiple,1,No,Yes,No,100,Inner Regional Australia,Capital Region,Eurobodalla,Sub-arterial Road,No,No,Weekday,Day
+20231117,NSW,6,2023,Tuesday,16:42,Multiple,1,No,No,Yes,80,Outer Regional Australia,Central West,Forbes,National or State Highway,No,No,Weekday,Day
+20231031,NSW,6,2023,Friday,6:08,Multiple,1,No,No,No,80,Major Cities of Australia,Sydney - Sutherland,Sutherland,Arterial Road,No,No,Weekday,Day
+20236020,TAS,6,2023,Thursday,11:45,Multiple,1,No,Yes,Yes,100,Inner Regional Australia,Hobart,Brighton,Arterial Road,No,No,Weekday,Day
+20233049,QLD,6,2023,Monday,3:00,Single,1,No,No,No,100,Remote Australia,Townsville,Charters Towers,National or State Highway,No,No,Weekend,Night
+20231028,NSW,6,2023,Thursday,7:06,Single,1,No,No,No,100,Outer Regional Australia,Central West,Weddin,Arterial Road,No,No,Weekday,Day
+20233028,QLD,6,2023,Friday,17:00,Multiple,1,No,Yes,No,100,Inner Regional Australia,Ipswich,Scenic Rim,Collector Road,No,No,Weekday,Day
+20231035,NSW,6,2023,Sunday,21:10,Single,1,No,No,No,80,Major Cities of Australia,Sydney - Parramatta,Cumberland,Collector Road,No,No,Weekend,Night
+20233032,QLD,6,2023,Sunday,23:00,Single,1,No,No,No,60,Major Cities of Australia,Sunshine Coast,Sunshine Coast,Collector Road,No,No,Weekend,Night
+20231100,NSW,6,2023,Sunday,6:55,Single,1,No,No,No,60,Major Cities of Australia,Sydney - North Sydney and Hornsby,Willoughby,Arterial Road,No,No,Weekend,Day
+20231163,NSW,6,2023,Wednesday,14:53,Single,1,No,No,No,50,Inner Regional Australia,Southern Highlands and Shoalhaven,Shoalhaven,Local Road,No,No,Weekday,Day
+20235038,WA,6,2023,Wednesday,22:20,Single,1,No,No,No,60,,,,,No,No,Weekday,Night
+20232133,VIC,6,2023,Friday,15:06,Single,1,No,No,No,60,Inner Regional Australia,Hume,Mitchell,National or State Highway,No,No,Weekday,Day
+20232096,VIC,6,2023,Monday,7:05,Single,1,No,Yes,No,40,Major Cities of Australia,Melbourne - Inner,Melbourne,Local Road,No,No,Weekday,Day
+20234009,SA,6,2023,Thursday,18:57,Single,1,No,No,No,60,Major Cities of Australia,Adelaide - South,Mitcham,Sub-arterial Road,No,No,Weekday,Night
+20233068,QLD,6,2023,Monday,10:00,Single,1,No,No,No,10,Major Cities of Australia,Moreton Bay - North,Moreton Bay,Local Road,No,No,Weekday,Day
+20232106,VIC,6,2023,Thursday,6:40,Single,1,No,No,No,-9,,,,,No,No,Weekday,Day
+20232048,VIC,6,2023,Wednesday,16:12,Single,1,No,No,No,60,Major Cities of Australia,Melbourne - South East,Casey,Local Road,No,No,Weekday,Day
+20236016,TAS,6,2023,Friday,5:04,Single,1,No,No,No,60,Inner Regional Australia,Launceston and North East,Launceston,Arterial Road,No,No,Weekday,Night
+20237003,NT,6,2023,Friday,4:37,Single,1,No,No,No,100,Outer Regional Australia,Darwin,Darwin,Arterial Road,No,No,Weekday,Night
+20232127,VIC,6,2023,Sunday,4:20,Single,1,No,No,No,60,Major Cities of Australia,Melbourne - South East,Monash,Sub-arterial Road,No,No,Weekend,Night
+20235098,WA,6,2023,Sunday,3:44,Single,1,No,No,No,-9,,,,,No,No,Weekend,Night
+20232080,VIC,6,2023,Thursday,22:30,Multiple,1,No,No,No,-9,,,,,No,No,Weekday,Night
+20231212,NSW,6,2023,Saturday,5:48,Multiple,1,No,No,Yes,60,Outer Regional Australia,Far West and Orana,Narromine,National or State Highway,No,No,Weekend,Night
+20232047,VIC,6,2023,Sunday,16:14,Multiple,1,No,No,No,-9,,,,,No,No,Weekend,Day
+20235011,WA,6,2023,Saturday,15:55,Single,1,No,No,No,70,,,,,No,No,Weekend,Day
+20232089,VIC,6,2023,Saturday,7:00,Single,1,No,No,No,-9,,,,,No,No,Weekend,Day
+20231026,NSW,6,2023,Friday,18:30,Single,1,No,No,No,60,Major Cities of Australia,Illawarra,Shellharbour,Arterial Road,No,No,Weekend,Night
+20233105,QLD,6,2023,Saturday,13:00,Multiple,1,No,No,No,40,Major Cities of Australia,Moreton Bay - South,Moreton Bay,Collector Road,No,No,Weekend,Day
+20235016,WA,6,2023,Saturday,7:00,Single,1,No,No,No,110,,,,,No,No,Weekend,Day
+20233137,QLD,6,2023,Monday,5:00,Single,1,Yes,No,No,100,Inner Regional Australia,Central Queensland,Livingstone,Sub-arterial Road,No,No,Weekend,Night
+20231032,NSW,6,2023,Sunday,23:30,Single,10,Yes,No,No,80,Inner Regional Australia,Hunter Valley exc Newcastle,Cessnock,National or State Highway,No,No,Weekend,Night
+20232158,VIC,6,2023,Friday,9:45,Single,1,No,No,No,-9,,,,,No,No,Weekday,Day
+20232164,VIC,6,2023,Friday,16:55,Multiple,1,No,No,No,-9,,,,,No,No,Weekday,Day
+20235057,WA,6,2023,Friday,9:17,Single,1,No,No,No,100,,,,,No,No,Weekday,Day
+20231010,NSW,6,2023,Sunday,0:59,Single,1,No,No,No,50,Outer Regional Australia,New England and North West,Moree Plains,Local Road,No,No,Weekend,Night
+20236019,TAS,6,2023,Sunday,19:30,Multiple,1,No,No,No,110,Outer Regional Australia,West and North West,Latrobe (TAS.),National or State Highway,No,No,Weekend,Night
+20233050,QLD,6,2023,Friday,23:00,Multiple,1,No,No,No,80,Inner Regional Australia,Logan - Beaudesert,Logan,Sub-arterial Road,No,No,Weekend,Night
+20232043,VIC,6,2023,Wednesday,8:19,Multiple,1,No,No,Yes,110,Inner Regional Australia,Hume,Strathbogie,National or State Highway,No,No,Weekday,Day
+20235092,WA,6,2023,Thursday,22:45,Single,1,No,No,No,110,,,,,No,No,Weekday,Night
+20233115,QLD,6,2023,Wednesday,23:00,Multiple,1,No,No,No,60,Major Cities of Australia,Sunshine Coast,Sunshine Coast,Local Road,No,No,Weekday,Night
+20234040,SA,6,2023,Wednesday,3:25,Single,1,No,No,No,60,Major Cities of Australia,Adelaide - South,Mitcham,Sub-arterial Road,No,No,Weekday,Night
+20232009,VIC,6,2023,Monday,19:20,Multiple,1,No,No,No,60,Major Cities of Australia,Melbourne - North East,Darebin,Arterial Road,No,No,Weekday,Night
+20233109,QLD,6,2023,Monday,23:00,Single,1,No,No,No,50,Major Cities of Australia,Brisbane Inner City,Brisbane,Collector Road,No,No,Weekday,Night
+20231174,NSW,6,2023,Tuesday,18:30,Multiple,1,No,No,No,50,Major Cities of Australia,Sydney - Inner South West,Georges River,Local Road,No,No,Weekday,Night
+20232115,VIC,6,2023,Wednesday,18:15,Single,1,No,No,No,-9,,,,,No,No,Weekday,Night
+20232026,VIC,6,2023,Thursday,19:18,Multiple,1,No,No,No,80,Major Cities of Australia,Melbourne - West,Wyndham,Arterial Road,No,No,Weekday,Night
+20233001,QLD,6,2023,Wednesday,5:00,Multiple,1,No,Yes,No,70,Inner Regional Australia,Toowoomba,Toowoomba,National or State Highway,No,No,Weekday,Night
+20233015,QLD,6,2023,Friday,3:00,,1,No,No,No,40,Major Cities of Australia,Brisbane Inner City,Brisbane,National or State Highway,No,No,Weekday,Night
+20234008,SA,6,2023,Friday,0:30,Single,1,No,No,No,50,Inner Regional Australia,Adelaide - Central and Hills,Mount Barker,Arterial Road,No,No,Weekday,Night
+20235085,WA,6,2023,Tuesday,5:13,Single,1,No,Yes,No,110,,,,,No,No,Weekday,Night
+20233123,QLD,6,2023,Thursday,22:00,Single,1,No,No,No,60,Inner Regional Australia,Gold Coast,Gold Coast,Sub-arterial Road,No,No,Weekday,Night
+20231012,NSW,6,2023,Tuesday,17:49,Single,1,Yes,No,No,50,Inner Regional Australia,Coffs Harbour - Grafton,Clarence Valley,Arterial Road,No,No,Weekday,Day
+20234048,SA,5,2023,Friday,18:43,Multiple,1,No,No,No,110,Outer Regional Australia,South Australia - South East,Coorong,National or State Highway,No,No,Weekend,Night
+20233070,QLD,5,2023,Sunday,6:00,Single,1,No,No,No,100,Inner Regional Australia,Wide Bay,Fraser Coast,Access road,No,No,Weekend,Day
+20231214,NSW,5,2023,Sunday,11:32,Single,1,No,No,No,100,Inner Regional Australia,Hunter Valley exc Newcastle,Port Stephens,National or State Highway,No,No,Weekend,Day
+20235050,WA,5,2023,Saturday,16:47,Single,1,No,No,No,80,,,,,No,No,Weekend,Day
+20232081,VIC,5,2023,Saturday,13:09,Single,1,No,No,No,80,Inner Regional Australia,Melbourne - Outer East,Yarra Ranges,Sub-arterial Road,No,No,Weekend,Day
+20235070,WA,5,2023,Tuesday,16:45,Single,1,No,No,No,110,,,,,No,No,Weekday,Day
+20233106,QLD,5,2023,Sunday,17:00,Multiple,1,No,No,No,60,Major Cities of Australia,Moreton Bay - North,Moreton Bay,Sub-arterial Road,No,No,Weekend,Day
+20232154,VIC,5,2023,Friday,23:03,Multiple,1,No,No,No,70,Unknown,Unknown,Unknown,Local Road,No,No,Weekend,Night
+20235086,WA,5,2023,Sunday,19:25,Single,1,No,No,No,100,,,,,No,No,Weekend,Night
+20235046,WA,5,2023,Friday,20:55,Single,1,No,No,No,20,,,,,No,No,Weekend,Night
+20233126,QLD,5,2023,Sunday,18:00,Multiple,2,No,Yes,No,100,Inner Regional Australia,Logan - Beaudesert,Scenic Rim,Sub-arterial Road,No,No,Weekend,Night
+20233100,QLD,5,2023,Monday,5:00,Multiple,1,No,No,No,100,Inner Regional Australia,Central Queensland,Gladstone,Sub-arterial Road,No,No,Weekend,Night
+20232079,VIC,5,2023,Sunday,7:15,Single,2,No,No,No,50,Major Cities of Australia,Melbourne - North East,Whittlesea,Collector Road,No,No,Weekend,Day
+20233089,QLD,5,2023,Saturday,11:00,Multiple,1,No,No,No,80,Inner Regional Australia,Darling Downs - Maranoa,Toowoomba,Local Road,No,No,Weekend,Day
+20233128,QLD,5,2023,Saturday,11:00,Single,1,No,No,No,80,Inner Regional Australia,Ipswich,Scenic Rim,Sub-arterial Road,No,No,Weekend,Day
+20235065,WA,5,2023,Tuesday,12:32,Single,1,No,No,No,60,,,,,No,No,Weekday,Day
+20232119,VIC,5,2023,Tuesday,6:26,Multiple,1,No,No,No,100,Unknown,Unknown,Unknown,Arterial Road,No,No,Weekday,Day
+20235100,WA,5,2023,Monday,17:20,Single,2,No,No,No,70,,,,,No,No,Weekday,Day
+20235047,WA,5,2023,Thursday,12:40,Single,1,No,No,No,60,,,,,No,No,Weekday,Day
+20231051,NSW,5,2023,Tuesday,7:00,Single,1,No,No,No,100,Outer Regional Australia,Murray,Berrigan,Arterial Road,No,No,Weekday,Day
+20231082,NSW,5,2023,Thursday,14:10,Single,1,No,No,No,50,Inner Regional Australia,Richmond - Tweed,Lismore,Arterial Road,No,No,Weekday,Day
+20233002,QLD,5,2023,Wednesday,11:00,Multiple,1,No,No,No,80,Inner Regional Australia,Wide Bay,Bundaberg,National or State Highway,No,No,Weekday,Day
+20232150,VIC,5,2023,Saturday,4:17,Single,1,No,No,No,-9,,,,,No,No,Weekend,Night
+20231173,NSW,5,2023,Tuesday,15:15,Multiple,1,No,No,No,100,Inner Regional Australia,Mid North Coast,Port Macquarie-Hastings,National or State Highway,No,No,Weekday,Day
+20232168,VIC,5,2023,Thursday,8:00,Multiple,1,No,No,No,100,Unknown,Unknown,Unknown,Sub-arterial Road,No,No,Weekday,Day
+20231052,NSW,5,2023,Thursday,13:40,Multiple,1,No,No,No,100,Outer Regional Australia,Capital Region,Eurobodalla,National or State Highway,No,No,Weekday,Day
+20231169,NSW,5,2023,Tuesday,7:00,Multiple,1,Yes,No,No,80,Inner Regional Australia,Central West,Orange,National or State Highway,No,No,Weekday,Day
+20234018,SA,5,2023,Wednesday,15:39,Single,1,No,No,No,60,Major Cities of Australia,Adelaide - Central and Hills,Norwood Payneham and St Peters,Local Road,No,No,Weekday,Day
+20234037,SA,5,2023,Thursday,17:03,Multiple,1,No,No,No,80,Outer Regional Australia,South Australia - South East,Renmark Paringa,Sub-arterial Road,No,No,Weekday,Day
+20232029,VIC,5,2023,Monday,8:40,Multiple,1,No,Yes,No,110,Unknown,Unknown,Unknown,National or State Highway,No,No,Weekday,Day
+20233004,QLD,5,2023,Wednesday,15:00,Multiple,1,No,No,No,60,Major Cities of Australia,Brisbane - North,Brisbane,Collector Road,No,No,Weekday,Day
+20233143,QLD,5,2023,Friday,15:00,Multiple,1,No,No,No,60,Inner Regional Australia,Wide Bay,Gympie,National or State Highway,No,No,Weekday,Day
+20231161,NSW,5,2023,Friday,10:30,Single,1,No,No,No,100,Inner Regional Australia,Mid North Coast,Nambucca Valley,National or State Highway,No,No,Weekday,Day
+20232091,VIC,5,2023,Saturday,1:30,Single,4,No,No,No,100,Unknown,Unknown,Unknown,Sub-arterial Road,No,No,Weekend,Night
+20234069,SA,5,2023,Friday,7:14,Single,1,No,No,No,110,Inner Regional Australia,South Australia - South East,Murray Bridge,National or State Highway,No,No,Weekday,Day
+20234056,SA,5,2023,Thursday,17:37,Multiple,1,No,No,No,110,Outer Regional Australia,South Australia - South East,Loxton Waikerie,National or State Highway,No,No,Weekday,Day
+20233099,QLD,5,2023,Monday,12:00,Multiple,1,No,Yes,No,50,Outer Regional Australia,Cairns,Cairns,Local Road,No,No,Weekday,Day
+20234020,SA,5,2023,Monday,9:35,Single,1,No,No,No,60,Major Cities of Australia,Adelaide - Central and Hills,Mount Barker,Arterial Road,No,No,Weekday,Day
+20233047,QLD,5,2023,Thursday,12:00,Multiple,1,No,No,No,110,Major Cities of Australia,Gold Coast,Gold Coast,National or State Highway,No,No,Weekday,Day
+20233038,QLD,5,2023,Friday,11:00,Multiple,1,No,Yes,No,70,Major Cities of Australia,Logan - Beaudesert,Logan,Sub-arterial Road,No,No,Weekday,Day
+20231064,NSW,5,2023,Tuesday,17:00,Multiple,1,No,No,No,60,Inner Regional Australia,Mid North Coast,Port Macquarie-Hastings,National or State Highway,No,No,Weekday,Day
+20231107,NSW,5,2023,Monday,8:40,Single,1,No,No,No,80,Inner Regional Australia,Mid North Coast,Kempsey,Sub-arterial Road,No,No,Weekday,Day
+20232016,VIC,5,2023,Tuesday,16:30,Multiple,1,No,No,No,100,Unknown,Unknown,Unknown,Sub-arterial Road,No,No,Weekday,Day
+20233154,QLD,5,2023,Friday,9:00,Single,1,No,No,No,5,Major Cities of Australia,Sunshine Coast,Sunshine Coast,Collector Road,No,No,Weekday,Day
+20233057,QLD,5,2023,Wednesday,18:00,Multiple,1,No,No,No,50,Inner Regional Australia,Toowoomba,Toowoomba,Local Road,No,No,Weekday,Night
+20234029,SA,5,2023,Saturday,19:45,Single,1,No,No,No,80,Very Remote Australia,South Australia - Outback,Wudinna,National or State Highway,No,No,Weekend,Night
+20233060,QLD,5,2023,Saturday,3:00,Single,1,No,No,Yes,100,Remote Australia,Mackay - Isaac - Whitsunday,Isaac,National or State Highway,No,No,Weekend,Night
+20232052,VIC,5,2023,Wednesday,10:20,Single,1,No,Yes,No,50,Major Cities of Australia,Melbourne - North East,Darebin,Arterial Road,No,No,Weekday,Day
+20231101,NSW,5,2023,Tuesday,9:50,Single,1,No,Yes,No,90,Major Cities of Australia,Newcastle and Lake Macquarie,Lake Macquarie,Sub-arterial Road,No,No,Weekday,Day
+20233055,QLD,5,2023,Friday,2:00,Single,1,No,No,No,60,Inner Regional Australia,Toowoomba,Toowoomba,National or State Highway,No,No,Weekday,Night
+20233155,QLD,5,2023,Thursday,16:00,Single,1,No,No,No,40,Major Cities of Australia,Logan - Beaudesert,Logan,Local Road,No,No,Weekday,Day
+20234004,SA,5,2023,Monday,19:30,Single,1,No,No,No,40,Major Cities of Australia,Adelaide - Central and Hills,Adelaide,Sub-arterial Road,No,No,Weekday,Night
+20231110,NSW,5,2023,Wednesday,23:58,Single,1,No,No,No,40,Major Cities of Australia,Sydney - City and Inner South,Sydney,Arterial Road,No,No,Weekday,Night
+20231162,NSW,5,2023,Wednesday,18:45,Single,2,No,No,No,50,Inner Regional Australia,Southern Highlands and Shoalhaven,Shoalhaven,Local Road,No,No,Weekday,Night
+20231043,NSW,5,2023,Wednesday,11:00,Single,1,No,Yes,No,110,Major Cities of Australia,Richmond - Tweed,Tweed,National or State Highway,No,No,Weekday,Day
+20232114,VIC,5,2023,Tuesday,5:37,Single,1,No,No,No,70,Unknown,Unknown,Unknown,Arterial Road,No,No,Weekday,Night
+20232005,VIC,5,2023,Wednesday,19:50,Single,1,No,No,No,60,Unknown,Unknown,Unknown,Arterial Road,No,No,Weekday,Night
+20231074,NSW,5,2023,Thursday,0:42,Single,1,No,No,No,100,Major Cities of Australia,Sydney - Ryde,Ryde,National or State Highway,No,No,Weekday,Night
+20232059,VIC,5,2023,Saturday,16:52,Single,1,No,No,No,100,Unknown,Unknown,Unknown,Sub-arterial Road,No,No,Weekend,Day
+20231177,NSW,5,2023,Saturday,17:58,Multiple,1,No,No,No,80,Inner Regional Australia,Murray,Albury,National or State Highway,No,No,Weekend,Day
+20231055,NSW,5,2023,Sunday,11:30,Single,1,No,No,No,80,Inner Regional Australia,Central West,Blayney,Sub-arterial Road,No,No,Weekend,Day
+20235040,WA,5,2023,Saturday,9:18,Single,1,No,No,No,60,,,,,No,No,Weekend,Day
+20235023,WA,5,2023,Sunday,7:37,Single,1,No,No,No,110,,,,,No,No,Weekend,Day
+20233024,QLD,5,2023,Saturday,19:00,Multiple,1,No,No,No,100,Outer Regional Australia,Cairns,Cassowary Coast,National or State Highway,No,No,Weekend,Night
+20231151,NSW,5,2023,Friday,16:45,Multiple,1,No,No,No,100,Remote Australia,Far West and Orana,Coonamble,Sub-arterial Road,No,No,Weekday,Day
+20232157,VIC,5,2023,Friday,17:50,Multiple,1,No,No,No,80,Major Cities of Australia,Mornington Peninsula,Mornington Peninsula,Sub-arterial Road,No,No,Weekday,Day
+20236009,TAS,5,2023,Saturday,23:27,Single,1,No,No,No,80,Inner Regional Australia,Hobart,Clarence,National or State Highway,No,No,Weekend,Night
+20232144,VIC,5,2023,Sunday,23:35,Single,1,No,No,No,70,Unknown,Unknown,Unknown,National or State Highway,No,No,Weekend,Night
+20232146,VIC,5,2023,Wednesday,10:26,Multiple,1,No,No,No,80,Unknown,Unknown,Unknown,National or State Highway,No,No,Weekday,Day
+20231004,NSW,5,2023,Monday,10:05,Multiple,1,No,Yes,No,100,Inner Regional Australia,Riverina,Wagga Wagga,Arterial Road,No,No,Weekday,Day
+20232160,VIC,5,2023,Thursday,16:57,Multiple,1,No,No,No,100,Unknown,Unknown,Unknown,Arterial Road,No,No,Weekday,Day
+20232141,VIC,5,2023,Monday,12:15,Single,1,No,No,No,60,Major Cities of Australia,Melbourne - Outer East,Yarra Ranges,Arterial Road,No,No,Weekday,Day
+20233018,QLD,5,2023,Tuesday,7:00,Multiple,1,No,Yes,No,50,Major Cities of Australia,Brisbane Inner City,Brisbane,Local Road,No,No,Weekday,Day
+20231141,NSW,5,2023,Saturday,22:00,Single,1,No,No,No,100,Outer Regional Australia,Mid North Coast,Kempsey,Arterial Road,No,No,Weekend,Night
+20232039,VIC,5,2023,Friday,18:05,Single,1,No,No,No,100,Unknown,Unknown,Unknown,Arterial Road,No,No,Weekend,Night
+20233174,QLD,5,2023,Saturday,20:00,Single,1,No,No,No,100,Very Remote Australia,Queensland - Outback,Murweh,Sub-arterial Road,No,No,Weekend,Night
+20234068,SA,5,2023,Friday,11:03,Single,2,No,No,No,110,Very Remote Australia,South Australia - Outback,Unincorporated SA,National or State Highway,No,No,Weekday,Day
+20233065,QLD,5,2023,Monday,11:00,Multiple,1,No,No,No,100,Outer Regional Australia,Darling Downs - Maranoa,Goondiwindi,Sub-arterial Road,No,No,Weekday,Day
+20235010,WA,5,2023,Thursday,1:11,Single,1,No,Yes,No,110,,,,,No,No,Weekday,Night
+20232153,VIC,5,2023,Monday,22:40,Multiple,2,No,No,No,70,Unknown,Unknown,Unknown,Sub-arterial Road,No,No,Weekday,Night
+20231134,NSW,5,2023,Friday,11:39,Single,1,No,No,No,100,Outer Regional Australia,Central West,Mid-Western Regional,National or State Highway,No,No,Weekday,Day
+20231096,NSW,5,2023,Wednesday,18:55,Multiple,1,No,No,No,100,Inner Regional Australia,Southern Highlands and Shoalhaven,Shoalhaven,National or State Highway,No,No,Weekday,Night
+20236008,TAS,5,2023,Thursday,19:35,Multiple,1,No,No,No,110,Outer Regional Australia,West and North West,Central Coast (TAS.),National or State Highway,No,No,Weekday,Night
+20233088,QLD,5,2023,Tuesday,5:00,Single,1,No,No,No,100,Inner Regional Australia,Wide Bay,Fraser Coast,Sub-arterial Road,No,No,Weekday,Night
+20233119,QLD,5,2023,Thursday,20:00,Single,1,No,No,No,100,Inner Regional Australia,Ipswich,Somerset,Sub-arterial Road,No,No,Weekday,Night
+20235074,WA,5,2023,Wednesday,9:30,Single,1,No,No,No,110,,,,,No,No,Weekday,Day
+20236010,TAS,5,2023,Thursday,21:39,Multiple,1,No,No,No,70,Inner Regional Australia,Hobart,Clarence,National or State Highway,No,No,Weekday,Night
+20234011,SA,5,2023,Thursday,21:56,Single,1,No,No,No,80,Inner Regional Australia,Adelaide - North,Playford,Collector Road,No,No,Weekday,Night
+20232113,VIC,5,2023,Monday,19:49,Single,1,No,No,No,100,Inner Regional Australia,Latrobe - Gippsland,Wellington,Sub-arterial Road,No,No,Weekday,Night
+20233059,QLD,5,2023,Tuesday,5:00,Multiple,1,No,No,No,100,Inner Regional Australia,Wide Bay,Bundaberg,Sub-arterial Road,No,No,Weekday,Night
+20233171,QLD,5,2023,Wednesday,2:00,Single,1,No,No,Yes,100,Outer Regional Australia,Wide Bay,Bundaberg,National or State Highway,No,No,Weekday,Night
+20232103,VIC,5,2023,Friday,11:45,Multiple,1,No,No,No,100,Unknown,Unknown,Unknown,National or State Highway,No,No,Weekday,Day
+20232170,VIC,5,2023,Wednesday,17:49,Multiple,1,No,No,Yes,100,Unknown,Unknown,Unknown,National or State Highway,No,No,Weekday,Day
+20232132,VIC,5,2023,Tuesday,15:03,Multiple,1,No,No,Yes,80,Major Cities of Australia,Melbourne - South East,Casey,Sub-arterial Road,No,No,Weekday,Day
+20233152,QLD,5,2023,Wednesday,1:00,Single,1,No,No,No,100,Major Cities of Australia,Brisbane - West,Brisbane,Sub-arterial Road,No,No,Weekday,Night
+20233023,QLD,5,2023,Friday,3:00,Single,1,No,No,No,90,Inner Regional Australia,Mackay - Isaac - Whitsunday,Mackay,National or State Highway,No,No,Weekday,Night
+20231137,NSW,5,2023,Thursday,19:00,Single,1,No,No,No,80,Inner Regional Australia,Mid North Coast,Kempsey,Local Road,No,No,Weekday,Night
+20235045,WA,5,2023,Wednesday,19:50,Single,1,No,No,No,60,,,,,No,No,Weekday,Night
+20235080,WA,5,2023,Thursday,19:00,Single,1,No,No,Yes,-9,,,,,No,No,Weekday,Night
+20231165,NSW,5,2023,Thursday,18:40,Multiple,1,No,No,No,50,Inner Regional Australia,Murray,Federation,Local Road,No,No,Weekday,Night
+20232142,VIC,5,2023,Wednesday,18:20,Multiple,1,No,Yes,No,100,Unknown,Unknown,Unknown,National or State Highway,No,No,Weekday,Night
+20233039,QLD,5,2023,Tuesday,2:00,Multiple,1,No,No,No,100,Outer Regional Australia,Darling Downs - Maranoa,Western Downs,Sub-arterial Road,No,No,Weekday,Night
+20233040,QLD,4,2023,Friday,18:00,Single,1,No,No,No,70,Major Cities of Australia,Ipswich,Ipswich,National or State Highway,No,Yes,Weekend,Night
+20232165,VIC,4,2023,Sunday,19:12,Single,2,No,No,No,80,Inner Regional Australia,Hume,Wangaratta,Arterial Road,No,Yes,Weekend,Night
+20232012,VIC,4,2023,Sunday,18:02,Single,1,No,No,No,100,Outer Regional Australia,North West,Horsham,Sub-arterial Road,No,No,Weekend,Night
+20231200,NSW,4,2023,Monday,23:28,Single,1,No,No,No,50,Inner Regional Australia,New England and North West,Tamworth Regional,Local Road,No,Yes,Weekday,Night
+20237002,NT,4,2023,Saturday,6:00,Single,1,No,No,No,110,Very Remote Australia,Northern Territory - Outback,MacDonnell,Sub-arterial Road,No,Yes,Weekend,Day
+20236004,TAS,4,2023,Sunday,6:25,Single,1,No,No,No,100,Outer Regional Australia,Launceston and North East,George Town,National or State Highway,No,Yes,Weekend,Day
+20235037,WA,4,2023,Sunday,19:12,Single,1,No,No,No,60,,,,,No,No,Weekend,Night
+20235056,WA,4,2023,Friday,19:00,Single,1,No,No,No,60,,,,,No,No,Weekend,Night
+20231033,NSW,4,2023,Saturday,16:54,Multiple,1,No,No,No,50,Major Cities of Australia,Sydney - Parramatta,Cumberland,Collector Road,No,No,Weekend,Day
+20233010,QLD,4,2023,Sunday,22:00,Multiple,3,No,No,No,80,Inner Regional Australia,Wide Bay,Fraser Coast,Sub-arterial Road,No,No,Weekend,Night
+20231087,NSW,4,2023,Saturday,14:29,Multiple,1,No,No,No,50,Major Cities of Australia,Richmond - Tweed,Tweed,Local Road,No,No,Weekend,Day
+20231158,NSW,4,2023,Thursday,14:30,Single,1,No,No,No,70,Major Cities of Australia,Sydney - Baulkham Hills and Hawkesbury,Hawkesbury,Local Road,No,Yes,Weekday,Day
+20231125,NSW,4,2023,Friday,9:25,Multiple,1,No,No,No,100,Outer Regional Australia,Coffs Harbour - Grafton,Clarence Valley,Arterial Road,No,Yes,Weekday,Day
+20231077,NSW,4,2023,Friday,6:45,Multiple,4,No,No,No,100,Inner Regional Australia,Capital Region,Yass Valley,National or State Highway,No,Yes,Weekday,Day
+20231201,NSW,4,2023,Tuesday,15:50,Multiple,1,No,No,No,50,Major Cities of Australia,Sydney - Inner South West,Canterbury-Bankstown,Local Road,No,No,Weekday,Day
+20233145,QLD,4,2023,Thursday,8:00,Single,1,No,No,No,50,Major Cities of Australia,Gold Coast,Gold Coast,Local Road,No,No,Weekday,Day
+20233079,QLD,4,2023,Thursday,11:00,Multiple,1,No,No,No,100,Inner Regional Australia,Wide Bay,Bundaberg,Local Road,No,No,Weekday,Day
+20233098,QLD,4,2023,Monday,13:00,Multiple,1,No,No,No,100,Outer Regional Australia,Townsville,Townsville,Collector Road,No,Yes,Weekday,Day
+20231044,NSW,4,2023,Saturday,19:00,Single,1,No,No,No,100,Outer Regional Australia,Central West,Cabonne,Arterial Road,No,No,Weekend,Night
+20231106,NSW,4,2023,Saturday,18:10,Single,1,No,No,No,100,Inner Regional Australia,Riverina,Wagga Wagga,National or State Highway,No,No,Weekend,Night
+20233003,QLD,4,2023,Friday,23:00,Single,1,No,No,No,60,Major Cities of Australia,Ipswich,Ipswich,Collector Road,No,No,Weekend,Night
+20231179,NSW,4,2023,Thursday,10:44,Multiple,1,No,No,No,50,Inner Regional Australia,Richmond - Tweed,Richmond Valley,Local Road,No,No,Weekday,Day
+20233122,QLD,4,2023,Wednesday,14:00,Single,1,No,No,No,50,Outer Regional Australia,Mackay - Isaac - Whitsunday,Whitsunday,Sub-arterial Road,No,No,Weekday,Day
+20234049,SA,4,2023,Tuesday,15:02,Single,1,No,No,No,50,Major Cities of Australia,Adelaide - South,Marion,Collector Road,No,No,Weekday,Day
+20231149,NSW,4,2023,Wednesday,9:28,Single,1,No,No,No,90,Inner Regional Australia,Hunter Valley exc Newcastle,Cessnock,Arterial Road,No,No,Weekday,Day
+20231023,NSW,4,2023,Thursday,10:50,Multiple,1,No,Yes,No,100,Outer Regional Australia,Capital Region,Snowy Monaro Regional,Arterial Road,No,No,Weekday,Day
+20232105,VIC,4,2023,Thursday,14:30,Single,1,No,No,No,-9,Unknown,Unknown,Unknown,,No,No,Weekday,Day
+20231144,NSW,4,2023,Monday,6:45,Multiple,1,No,No,No,110,Inner Regional Australia,Capital Region,Goulburn Mulwaree,National or State Highway,No,No,Weekday,Day
+20231046,NSW,4,2023,Wednesday,13:15,Single,1,No,No,No,100,Remote Australia,Murray,Balranald,Arterial Road,No,No,Weekday,Day
+20232090,VIC,4,2023,Monday,6:35,Multiple,1,No,Yes,No,50,Unknown,Unknown,Unknown,Collector Road,No,No,Weekday,Day
+20232067,VIC,4,2023,Thursday,14:28,Multiple,5,No,No,Yes,100,Inner Regional Australia,Shepparton,Moira,National or State Highway,No,No,Weekday,Day
+20231129,NSW,4,2023,Friday,14:19,Multiple,1,No,No,No,100,Inner Regional Australia,Central West,Lithgow,National or State Highway,No,No,Weekday,Day
+20232051,VIC,4,2023,Tuesday,16:02,Single,1,No,No,No,50,Unknown,Unknown,Unknown,Local Road,No,No,Weekday,Day
+20235028,WA,4,2023,Thursday,9:26,Single,1,No,No,No,70,,,,,No,No,Weekday,Day
+20231102,NSW,4,2023,Wednesday,10:55,Multiple,1,No,No,No,80,Major Cities of Australia,Central Coast,Central Coast,Arterial Road,No,No,Weekday,Day
+20231168,NSW,4,2023,Monday,13:04,Single,1,No,No,Yes,100,Inner Regional Australia,Capital Region,Snowy Monaro Regional,National or State Highway,No,No,Weekday,Day
+20231067,NSW,4,2023,Sunday,8:20,Single,1,No,No,No,60,Major Cities of Australia,Illawarra,Wollongong,National or State Highway,No,No,Weekend,Day
+20234002,SA,4,2023,Friday,20:20,Single,1,No,No,No,60,Major Cities of Australia,Adelaide - West,West Torrens,Arterial Road,No,No,Weekend,Night
+20233094,QLD,4,2023,Saturday,23:00,Single,1,No,No,No,60,Major Cities of Australia,Brisbane - South,Brisbane,Sub-arterial Road,No,No,Weekend,Night
+20231198,NSW,4,2023,Friday,15:30,Single,1,No,No,No,50,Major Cities of Australia,Sydney - City and Inner South,Sydney,Local Road,No,No,Weekday,Day
+20231085,NSW,4,2023,Thursday,7:30,Single,1,No,No,No,50,Major Cities of Australia,Sydney - Inner South West,Canterbury-Bankstown,Collector Road,No,No,Weekday,Day
+20233042,QLD,4,2023,Thursday,18:00,Single,1,No,No,No,60,Major Cities of Australia,Logan - Beaudesert,Logan,Collector Road,No,Yes,Weekday,Night
+20231041,NSW,4,2023,Wednesday,17:10,Single,1,No,No,No,50,Inner Regional Australia,Mid North Coast,Port Macquarie-Hastings,Arterial Road,No,No,Weekday,Day
+20233173,QLD,4,2023,Wednesday,4:00,Single,1,No,No,No,80,Major Cities of Australia,Logan - Beaudesert,Logan,Local Road,No,No,Weekday,Night
+20232028,VIC,4,2023,Saturday,3:34,Multiple,1,No,No,No,60,Major Cities of Australia,Melbourne - West,Wyndham,Arterial Road,No,No,Weekend,Night
+20231121,NSW,4,2023,Thursday,19:20,Multiple,1,No,No,No,70,Major Cities of Australia,Central Coast,Central Coast,National or State Highway,No,No,Weekday,Night
+20231078,NSW,4,2023,Thursday,17:45,Multiple,1,No,No,No,50,Major Cities of Australia,Sydney - Inner South West,Canterbury-Bankstown,Local Road,No,No,Weekday,Day
+20231086,NSW,4,2023,Saturday,0:55,Multiple,1,No,No,Yes,110,Major Cities of Australia,Capital Region,Yass Valley,National or State Highway,No,No,Weekend,Night
+20233134,QLD,4,2023,Sunday,22:00,Single,1,No,No,No,100,Outer Regional Australia,Darling Downs - Maranoa,Western Downs,National or State Highway,No,No,Weekend,Night
+20235091,WA,4,2023,Sunday,7:10,Single,1,No,No,No,110,,,,,No,Yes,Weekend,Day
+20231147,NSW,4,2023,Sunday,12:09,Single,1,No,No,No,110,Inner Regional Australia,Sydney - Outer South West,Wollondilly,National or State Highway,No,No,Weekend,Day
+20233177,QLD,4,2023,Saturday,6:00,Single,1,No,Yes,No,80,Outer Regional Australia,Townsville,Townsville,National or State Highway,No,No,Weekend,Day
+20231206,NSW,4,2023,Saturday,10:00,Single,1,No,No,No,60,Major Cities of Australia,Sydney - Parramatta,Cumberland,Collector Road,No,No,Weekend,Day
+20235013,WA,4,2023,Tuesday,10:52,Single,1,No,No,No,50,,,,,No,No,Weekday,Day
+20235003,WA,4,2023,Sunday,8:45,Single,1,No,No,No,110,,,,,No,No,Weekend,Day
+20235035,WA,4,2023,Wednesday,12:39,Single,1,No,Yes,No,80,,,,,No,No,Weekday,Day
+20232060,VIC,4,2023,Monday,17:25,Multiple,1,No,No,No,60,Major Cities of Australia,Melbourne - Inner,Moonee Valley,Sub-arterial Road,No,No,Weekday,Day
+20235020,WA,4,2023,Wednesday,11:23,Multiple,1,No,No,No,70,,,,,No,No,Weekday,Day
+20235017,WA,4,2023,Monday,11:39,Single,1,No,No,No,70,,,,,No,Yes,Weekday,Day
+20234014,SA,4,2023,Saturday,19:13,Single,1,No,No,No,80,Major Cities of Australia,Adelaide - South,Onkaparinga,Sub-arterial Road,No,No,Weekend,Night
+20232040,VIC,4,2023,Saturday,0:21,Multiple,1,No,No,No,70,Major Cities of Australia,Melbourne - South East,Cardinia,National or State Highway,No,No,Weekend,Night
+20232088,VIC,4,2023,Saturday,2:05,Multiple,1,No,No,No,60,Major Cities of Australia,Melbourne - Outer East,Yarra Ranges,Sub-arterial Road,No,No,Weekend,Night
+20234070,SA,4,2023,Friday,15:26,Single,1,No,No,No,60,Major Cities of Australia,Adelaide - North,Salisbury,Sub-arterial Road,No,No,Weekday,Day
+20233080,QLD,4,2023,Thursday,9:00,Multiple,1,No,No,No,80,Inner Regional Australia,Sunshine Coast,Sunshine Coast,Sub-arterial Road,No,No,Weekday,Day
+20236007,TAS,4,2023,Friday,9:19,Multiple,1,No,No,No,100,Outer Regional Australia,Hobart,Sorell,National or State Highway,No,Yes,Weekday,Day
+20232050,VIC,4,2023,Sunday,20:50,Single,1,No,No,No,60,Major Cities of Australia,Melbourne - North East,Banyule,Sub-arterial Road,No,No,Weekend,Night
+20232010,VIC,4,2023,Wednesday,15:55,Single,1,No,No,No,100,Unknown,Unknown,Unknown,Local Road,No,No,Weekday,Day
+20235053,WA,4,2023,Tuesday,19:45,Single,1,No,No,No,110,,,,,No,No,Weekday,Night
+20232117,VIC,4,2023,Tuesday,20:45,Multiple,1,No,No,No,80,Unknown,Unknown,Unknown,Arterial Road,No,No,Weekday,Night
+20233114,QLD,4,2023,Wednesday,19:00,Single,1,No,No,No,100,Major Cities of Australia,Moreton Bay - North,Moreton Bay,Sub-arterial Road,No,No,Weekday,Night
+20234007,SA,4,2023,Thursday,2:00,Single,1,No,No,No,80,Major Cities of Australia,Adelaide - North,Salisbury,National or State Highway,No,Yes,Weekday,Night
+20234039,SA,4,2023,Tuesday,22:26,Single,1,No,No,No,80,Major Cities of Australia,Adelaide - North,Salisbury,National or State Highway,No,No,Weekday,Night
+20232082,VIC,4,2023,Tuesday,1:11,Single,1,No,No,No,80,Unknown,Unknown,Unknown,National or State Highway,No,No,Weekday,Night
+20233009,QLD,4,2023,Tuesday,2:00,Single,1,No,No,No,60,Major Cities of Australia,Brisbane - South,Brisbane,Collector Road,No,No,Weekday,Night
+20235004,WA,4,2023,Monday,22:50,Single,1,No,No,No,50,,,,,No,No,Weekday,Night
+20231003,NSW,4,2023,Tuesday,23:09,Single,4,No,No,No,60,Outer Regional Australia,Riverina,Leeton,Local Road,No,No,Weekday,Night
+20235027,WA,4,2023,Friday,17:04,Single,1,No,No,No,90,,,,,No,No,Weekday,Day
+20232139,VIC,4,2023,Friday,3:15,Single,1,No,No,No,60,Unknown,Unknown,Unknown,Arterial Road,No,Yes,Weekday,Night
+20233051,QLD,4,2023,Saturday,19:00,Single,1,No,No,No,60,Outer Regional Australia,Cairns,Cairns,Sub-arterial Road,No,No,Weekend,Night
+20231115,NSW,4,2023,Monday,20:00,Single,1,No,No,No,100,Inner Regional Australia,Capital Region,Queanbeyan-Palerang Regional,Arterial Road,No,No,Weekday,Night
+20232042,VIC,4,2023,Tuesday,5:45,Multiple,1,No,No,No,80,Unknown,Unknown,Unknown,Arterial Road,No,No,Weekday,Night
+20232129,VIC,4,2023,Tuesday,1:00,Single,1,No,No,No,50,Inner Regional Australia,Bendigo,Greater Bendigo,Local Road,No,No,Weekday,Night
+20232173,VIC,3,2023,Sunday,1:15,Multiple,1,No,No,No,80,Unknown,Unknown,Unknown,Local Road,No,No,Weekend,Night
+20231155,NSW,3,2023,Saturday,21:30,Single,3,No,No,No,100,Inner Regional Australia,Coffs Harbour - Grafton,Clarence Valley,Sub-arterial Road,No,No,Weekend,Night
+20232120,VIC,3,2023,Sunday,13:00,Single,1,No,No,No,100,Inner Regional Australia,Hume,Wangaratta,Local Road,No,No,Weekend,Day
+20235059,WA,3,2023,Saturday,13:19,Single,1,No,No,No,80,,,,,No,No,Weekend,Day
+20235089,WA,3,2023,Sunday,14:48,Single,1,No,No,No,90,,,,,No,No,Weekend,Day
+20231020,NSW,3,2023,Saturday,13:35,Single,1,No,No,No,80,Inner Regional Australia,Coffs Harbour - Grafton,Coffs Harbour,Arterial Road,No,No,Weekend,Day
+20231099,NSW,3,2023,Saturday,13:55,Single,1,No,No,No,80,Outer Regional Australia,Mid North Coast,Port Macquarie-Hastings,National or State Highway,No,No,Weekend,Day
+20235008,WA,3,2023,Saturday,0:50,Single,1,No,No,No,110,,,,,No,No,Weekend,Night
+20233176,QLD,3,2023,Saturday,21:00,Multiple,1,No,No,No,50,Major Cities of Australia,Logan - Beaudesert,Logan,Local Road,No,No,Weekend,Night
+20233041,QLD,3,2023,Saturday,10:00,Multiple,1,No,No,No,50,Outer Regional Australia,Darling Downs - Maranoa,Western Downs,Local Road,No,No,Weekend,Day
+20231098,NSW,3,2023,Sunday,15:00,Multiple,1,No,No,Yes,60,Inner Regional Australia,New England and North West,Tamworth Regional,Arterial Road,No,No,Weekend,Day
+20231049,NSW,3,2023,Saturday,9:50,Single,1,No,No,No,100,Outer Regional Australia,New England and North West,Inverell,Sub-arterial Road,No,No,Weekend,Day
+20232084,VIC,3,2023,Sunday,17:24,Single,1,No,No,No,100,Inner Regional Australia,Shepparton,Greater Shepparton,Sub-arterial Road,No,No,Weekend,Day
+20231127,NSW,3,2023,Saturday,6:10,Single,1,No,No,No,100,Inner Regional Australia,New England and North West,Tamworth Regional,Arterial Road,No,No,Weekend,Day
+20232070,VIC,3,2023,Thursday,17:20,Multiple,2,No,No,No,100,Major Cities of Australia,Geelong,Greater Geelong,National or State Highway,No,No,Weekday,Day
+20234034,SA,3,2023,Friday,14:38,Single,1,No,No,No,110,Remote Australia,South Australia - Outback,Unincorporated SA,National or State Highway,No,No,Weekday,Day
+20234043,SA,3,2023,Thursday,13:47,Single,1,No,No,No,80,Inner Regional Australia,South Australia - South East,Alexandrina,Collector Road,No,No,Weekday,Day
+20232018,VIC,3,2023,Thursday,8:50,Single,1,No,No,No,60,Outer Regional Australia,North West,Northern Grampians,Arterial Road,No,No,Weekday,Day
+20235069,WA,3,2023,Friday,15:54,Single,1,No,No,No,80,,,,,No,No,Weekday,Day
+20234027,SA,3,2023,Wednesday,6:39,Single,1,No,No,No,60,Major Cities of Australia,Adelaide - South,Onkaparinga,Sub-arterial Road,No,No,Weekday,Day
+20231120,NSW,3,2023,Thursday,12:15,Multiple,1,No,No,No,50,Outer Regional Australia,Capital Region,Eurobodalla,National or State Highway,No,No,Weekday,Day
+20234063,SA,3,2023,Friday,11:10,Single,1,No,No,No,60,Major Cities of Australia,Adelaide - Central and Hills,Adelaide,Arterial Road,No,No,Weekday,Day
+20236006,TAS,3,2023,Wednesday,6:48,Multiple,1,No,Yes,Yes,80,Inner Regional Australia,Launceston and North East,Launceston,National or State Highway,No,No,Weekday,Day
+20232152,VIC,3,2023,Thursday,13:05,Single,1,No,No,No,60,Major Cities of Australia,Melbourne - West,Wyndham,Arterial Road,No,No,Weekday,Day
+20232071,VIC,3,2023,Tuesday,13:10,Single,1,No,No,No,110,Inner Regional Australia,Latrobe - Gippsland,Baw Baw,National or State Highway,No,No,Weekday,Day
+20233044,QLD,3,2023,Tuesday,12:00,Single,1,No,Yes,No,80,Inner Regional Australia,Wide Bay,Gympie,National or State Highway,No,No,Weekday,Day
+20233175,QLD,3,2023,Monday,4:00,Multiple,1,No,No,No,40,Major Cities of Australia,Gold Coast,Gold Coast,Local Road,No,No,Weekend,Night
+20232035,VIC,3,2023,Monday,7:15,Single,1,No,No,No,40,Inner Regional Australia,Hume,Wangaratta,Local Road,No,No,Weekday,Day
+20232076,VIC,3,2023,Tuesday,8:30,Single,1,No,No,No,100,Unknown,Unknown,Unknown,National or State Highway,No,No,Weekday,Day
+20235072,WA,3,2023,Tuesday,17:08,Single,1,No,No,No,70,,,,,No,No,Weekday,Day
+20235054,WA,3,2023,Tuesday,10:10,Single,1,No,No,No,110,,,,,No,No,Weekday,Day
+20231203,NSW,3,2023,Tuesday,12:55,Multiple,1,No,No,No,50,Major Cities of Australia,Hunter Valley exc Newcastle,Cessnock,Local Road,No,No,Weekday,Day
+20232093,VIC,3,2023,Wednesday,9:24,Single,1,No,No,No,80,Unknown,Unknown,Unknown,National or State Highway,No,No,Weekday,Day
+20233019,QLD,3,2023,Tuesday,8:00,Multiple,1,No,No,No,70,Major Cities of Australia,Sunshine Coast,Sunshine Coast,Collector Road,No,No,Weekday,Day
+20231053,NSW,3,2023,Wednesday,6:00,Single,1,No,No,Yes,110,Inner Regional Australia,Capital Region,Goulburn Mulwaree,National or State Highway,No,No,Weekday,Day
+20234051,SA,3,2023,Friday,17:42,Single,1,No,No,No,80,Inner Regional Australia,Barossa - Yorke - Mid North,Barossa,Collector Road,No,No,Weekday,Day
+20232136,VIC,3,2023,Friday,15:05,Multiple,1,No,No,No,30,Inner Regional Australia,Shepparton,Campaspe,Arterial Road,No,No,Weekday,Day
+20233165,QLD,3,2023,Tuesday,12:00,Single,1,No,No,No,100,Outer Regional Australia,Darling Downs - Maranoa,Western Downs,National or State Highway,No,No,Weekday,Day
+20231164,NSW,3,2023,Monday,10:20,Single,1,No,Yes,No,80,Inner Regional Australia,Richmond - Tweed,Kyogle,Arterial Road,No,No,Weekday,Day
+20234045,SA,3,2023,Tuesday,11:22,Single,1,No,No,No,110,Outer Regional Australia,South Australia - South East,Wattle Range,Sub-arterial Road,No,No,Weekday,Day
+20235062,WA,3,2023,Friday,16:51,Single,1,No,No,No,110,,,,,No,No,Weekday,Day
+20233144,QLD,3,2023,Monday,13:00,Single,1,No,No,No,100,Major Cities of Australia,Ipswich,Brisbane,National or State Highway,No,No,Weekday,Day
+20235073,WA,3,2023,Saturday,1:23,Single,1,No,No,No,80,,,,,No,No,Weekend,Night
+20233085,QLD,3,2023,Saturday,0:00,Multiple,1,No,No,No,60,Major Cities of Australia,Logan - Beaudesert,Logan,Local Road,No,No,Weekend,Night
+20233107,QLD,3,2023,Saturday,3:00,Single,1,No,No,No,80,Outer Regional Australia,Cairns,Cairns,Collector Road,No,No,Weekend,Night
+20233020,QLD,3,2023,Thursday,7:00,Multiple,1,No,No,No,80,Outer Regional Australia,Cairns,Cairns,National or State Highway,No,No,Weekday,Day
+20233011,QLD,3,2023,Friday,0:00,Single,1,No,No,No,100,Inner Regional Australia,Ipswich,Scenic Rim,Sub-arterial Road,No,No,Weekday,Night
+20231015,NSW,3,2023,Tuesday,8:30,Multiple,1,No,No,No,80,Major Cities of Australia,Sydney - Blacktown,Blacktown,Collector Road,No,No,Weekday,Day
+20231069,NSW,3,2023,Monday,10:34,Single,1,No,No,No,110,Major Cities of Australia,Newcastle and Lake Macquarie,Newcastle,National or State Highway,No,No,Weekday,Day
+20231013,NSW,3,2023,Wednesday,14:20,Multiple,1,No,No,No,60,Major Cities of Australia,Hunter Valley exc Newcastle,Maitland,Local Road,No,No,Weekday,Day
+20234064,SA,3,2023,Monday,13:40,Single,2,No,No,No,110,Outer Regional Australia,South Australia - South East,Renmark Paringa,National or State Highway,No,No,Weekday,Day
+20234019,SA,3,2023,Wednesday,7:32,Multiple,2,No,No,No,110,Remote Australia,South Australia - Outback,Unincorporated SA,Arterial Road,No,No,Weekday,Day
+20234003,SA,3,2023,Friday,12:45,Single,1,No,No,No,60,Major Cities of Australia,Adelaide - West,Charles Sturt,Sub-arterial Road,No,No,Weekday,Day
+20236021,TAS,3,2023,Thursday,12:46,Single,1,No,No,No,90,Outer Regional Australia,South East,Kingborough,Sub-arterial Road,No,No,Weekday,Day
+20233013,QLD,3,2023,Wednesday,13:00,Single,1,No,Yes,No,60,Major Cities of Australia,Gold Coast,Gold Coast,Collector Road,No,No,Weekday,Day
+20233090,QLD,3,2023,Friday,16:00,Multiple,1,No,No,No,100,Inner Regional Australia,Gold Coast,Scenic Rim,Sub-arterial Road,No,No,Weekday,Day
+20237005,NT,3,2023,Wednesday,20:50,Single,1,No,No,No,70,Outer Regional Australia,Darwin,Darwin,Arterial Road,No,No,Weekday,Night
+20231090,NSW,3,2023,Tuesday,8:50,Multiple,1,No,Yes,No,80,Inner Regional Australia,Southern Highlands and Shoalhaven,Shoalhaven,Arterial Road,No,No,Weekday,Day
+20231065,NSW,3,2023,Wednesday,14:20,Multiple,1,No,No,No,60,Major Cities of Australia,Newcastle and Lake Macquarie,Lake Macquarie,Arterial Road,No,No,Weekday,Day
+20232169,VIC,3,2023,Wednesday,6:43,Multiple,1,No,Yes,No,60,Major Cities of Australia,Melbourne - South East,Monash,Arterial Road,No,No,Weekday,Day
+20233157,QLD,3,2023,Monday,11:00,Multiple,1,No,Yes,No,100,Major Cities of Australia,Moreton Bay - South,Moreton Bay,Sub-arterial Road,No,No,Weekday,Day
+20232140,VIC,3,2023,Saturday,3:08,Single,1,No,No,No,100,Major Cities of Australia,Melbourne - North West,Hume,National or State Highway,No,No,Weekend,Night
+20233159,QLD,3,2023,Friday,5:00,Single,1,No,No,No,100,Outer Regional Australia,Cairns,Tablelands,National or State Highway,No,No,Weekday,Night
+20237009,NT,3,2023,Thursday,16:45,Single,1,No,No,Yes,130,Very Remote Australia,Northern Territory - Outback,VICtoria Daly,National or State Highway,No,No,Weekday,Day
+20232097,VIC,3,2023,Wednesday,9:45,Single,1,No,No,No,60,Major Cities of Australia,Melbourne - Inner,Moreland,Sub-arterial Road,No,No,Weekday,Day
+20232110,VIC,3,2023,Saturday,5:54,Multiple,1,No,No,No,100,Unknown,Unknown,Unknown,Local Road,No,No,Weekend,Night
+20231202,NSW,3,2023,Thursday,21:14,Single,1,No,No,No,80,Inner Regional Australia,Coffs Harbour - Grafton,Coffs Harbour,National or State Highway,No,No,Weekday,Night
+20234005,SA,3,2023,Monday,18:50,Single,1,No,No,No,60,Major Cities of Australia,Adelaide - North,Salisbury,Arterial Road,No,No,Weekday,Night
+20231124,NSW,3,2023,Monday,19:45,Single,1,No,No,No,50,Major Cities of Australia,Sydney - Ryde,Parramatta,Local Road,No,No,Weekday,Night
+20231194,NSW,3,2023,Wednesday,14:09,Single,1,No,No,No,50,Major Cities of Australia,Sydney - City and Inner South,Sydney,Arterial Road,No,No,Weekday,Day
+20231018,NSW,3,2023,Tuesday,20:26,Multiple,1,No,No,No,60,Major Cities of Australia,Sydney - Ryde,Hornsby,Local Road,No,No,Weekday,Night
+20232002,VIC,3,2023,Saturday,11:19,Multiple,2,No,No,No,80,Inner Regional Australia,Shepparton,Moira,National or State Highway,No,No,Weekend,Day
+20233035,QLD,3,2023,Saturday,17:00,Multiple,1,No,No,Yes,60,Major Cities of Australia,Moreton Bay - South,Moreton Bay,Sub-arterial Road,No,No,Weekend,Day
+20231109,NSW,3,2023,Friday,19:13,Multiple,1,No,No,No,50,Major Cities of Australia,Hunter Valley exc Newcastle,Maitland,Local Road,No,No,Weekend,Night
+20231038,NSW,3,2023,Sunday,18:00,Single,1,No,No,No,100,Outer Regional Australia,Murray,Murray River,Sub-arterial Road,No,No,Weekend,Night
+20235002,WA,3,2023,Friday,23:09,Single,1,No,No,No,60,,,,,No,No,Weekend,Night
+20233022,QLD,3,2023,Saturday,20:00,Single,1,No,No,No,100,Outer Regional Australia,Moreton Bay - North,Somerset,Undetermined,No,No,Weekend,Night
+20232087,VIC,3,2023,Saturday,11:50,Multiple,1,No,No,No,40,Unknown,Unknown,Unknown,Sub-arterial Road,No,No,Weekend,Day
+20235015,WA,3,2023,Thursday,9:03,Single,1,No,Yes,No,100,,,,,No,No,Weekday,Day
+20234023,SA,3,2023,Tuesday,7:49,Multiple,1,No,No,No,100,Outer Regional Australia,Barossa - Yorke - Mid North,Barunga West,Local Road,No,No,Weekday,Day
+20235090,WA,3,2023,Thursday,13:28,Single,1,No,No,No,110,,,,,No,No,Weekday,Day
+20231054,NSW,3,2023,Friday,15:40,Single,1,Yes,No,No,40,Major Cities of Australia,Sydney - City and Inner South,Sydney,Arterial Road,No,No,Weekday,Day
+20231066,NSW,3,2023,Wednesday,16:50,Multiple,1,No,No,No,60,Inner Regional Australia,Far West and Orana,Dubbo Regional,National or State Highway,No,No,Weekday,Day
+20234054,SA,3,2023,Saturday,21:52,Multiple,1,No,No,No,60,Major Cities of Australia,Adelaide - North,Port Adelaide Enfield,Arterial Road,No,No,Weekend,Night
+20234041,SA,3,2023,Saturday,0:30,Multiple,1,No,No,No,80,Major Cities of Australia,Adelaide - South,Onkaparinga,Collector Road,No,No,Weekend,Night
+20235082,WA,3,2023,Wednesday,10:34,Single,1,No,Yes,No,110,,,,,No,No,Weekday,Day
+20233169,QLD,3,2023,Thursday,11:00,Single,1,No,No,No,100,Inner Regional Australia,Darling Downs - Maranoa,Southern Downs,Collector Road,No,No,Weekday,Day
+20235093,WA,3,2023,Friday,9:45,Single,1,No,No,No,90,,,,,No,No,Weekday,Day
+20231104,NSW,3,2023,Monday,11:20,Multiple,3,No,No,Yes,110,Major Cities of Australia,Sydney - Outer South West,Campbelltown,National or State Highway,No,No,Weekday,Day
+20235043,WA,3,2023,Monday,22:31,Single,1,No,No,No,70,,,,,No,No,Weekday,Night
+20232049,VIC,3,2023,Thursday,21:23,Single,1,No,No,No,40,Major Cities of Australia,Melbourne - West,Melton,Sub-arterial Road,No,No,Weekday,Night
+20235009,WA,3,2023,Tuesday,0:41,Single,1,No,No,No,80,,,,,No,No,Weekday,Night
+20231027,NSW,3,2023,Thursday,23:00,Multiple,1,No,No,No,70,Major Cities of Australia,Illawarra,Shellharbour,Arterial Road,No,No,Weekday,Night
+20231088,NSW,3,2023,Wednesday,19:50,Multiple,1,No,Yes,No,50,Inner Regional Australia,Capital Region,Hilltops,Arterial Road,No,No,Weekday,Night
+20232151,VIC,3,2023,Friday,7:23,Multiple,1,No,No,No,80,Unknown,Unknown,Unknown,Sub-arterial Road,No,No,Weekday,Day
+20235048,WA,3,2023,Friday,14:12,Single,1,No,No,No,70,,,,,No,No,Weekday,Day
+20231207,NSW,3,2023,Friday,13:40,Multiple,1,No,No,No,60,Major Cities of Australia,Sydney - Parramatta,Parramatta,Collector Road,No,No,Weekday,Day
+20232038,VIC,3,2023,Wednesday,0:16,Single,1,No,No,Yes,100,Unknown,Unknown,Unknown,Sub-arterial Road,No,No,Weekday,Night
+20231014,NSW,3,2023,Monday,10:45,Multiple,1,No,No,No,70,Major Cities of Australia,Central Coast,Central Coast,Arterial Road,No,No,Weekday,Day
+20235049,WA,3,2023,Friday,10:25,Single,1,No,No,No,100,,,,,No,No,Weekday,Day
+20231145,NSW,3,2023,Friday,5:50,Single,1,No,No,Yes,110,Inner Regional Australia,Richmond - Tweed,Byron,National or State Highway,No,No,Weekday,Night
+20231045,NSW,3,2023,Saturday,12:15,Single,1,No,No,No,50,Outer Regional Australia,Capital Region,Bega Valley,Local Road,No,No,Weekend,Day
+20234044,SA,3,2023,Saturday,6:15,Single,1,No,No,No,20,Major Cities of Australia,Adelaide - Central and Hills,Adelaide,Access road,No,No,Weekend,Day
+20234022,SA,3,2023,Thursday,19:47,Single,1,No,No,No,80,Major Cities of Australia,Adelaide - North,Playford,National or State Highway,No,No,Weekday,Night
+20235061,WA,3,2023,Thursday,5:53,Single,1,No,No,No,110,,,,,No,No,Weekday,Night
+20231060,NSW,3,2023,Friday,17:46,Single,1,No,No,No,50,Major Cities of Australia,Sydney - Eastern Suburbs,Randwick,Local Road,No,No,Weekday,Day
+20231057,NSW,3,2023,Tuesday,17:20,Single,1,No,No,No,100,Remote Australia,Far West and Orana,Bogan,Local Road,No,No,Weekday,Day
+20232061,VIC,3,2023,Friday,5:00,Single,1,No,No,No,80,Unknown,Unknown,Unknown,National or State Highway,No,No,Weekday,Night
+20233096,QLD,3,2023,Friday,1:00,Single,1,No,No,No,110,Major Cities of Australia,Logan - Beaudesert,Logan,National or State Highway,No,No,Weekday,Night
+20235063,WA,2,2023,Saturday,8:05,Single,1,No,No,Yes,110,,,,,No,No,Weekend,Day
+20235036,WA,2,2023,Sunday,6:55,Single,1,No,No,No,60,,,,,No,No,Weekend,Day
+20235001,WA,2,2023,Saturday,23:55,Single,1,No,No,No,110,,,,,No,No,Weekend,Night
+20232004,VIC,2,2023,Sunday,12:15,Single,1,No,No,No,100,Unknown,Unknown,Unknown,Arterial Road,No,No,Weekend,Day
+20232064,VIC,2,2023,Saturday,14:58,Single,1,No,No,No,50,Unknown,Unknown,Unknown,Collector Road,No,No,Weekend,Day
+20233077,QLD,2,2023,Saturday,13:00,Multiple,1,No,No,No,70,Major Cities of Australia,Moreton Bay - South,Moreton Bay,Local Road,No,No,Weekend,Day
+20231068,NSW,2,2023,Sunday,13:00,Single,1,No,No,No,100,Outer Regional Australia,New England and North West,Narrabri,Sub-arterial Road,No,No,Weekend,Day
+20231153,NSW,2,2023,Sunday,6:55,Single,2,No,No,No,80,Outer Regional Australia,New England and North West,Moree Plains,National or State Highway,No,No,Weekend,Day
+20231093,NSW,2,2023,Sunday,12:49,Multiple,1,No,No,No,60,Inner Regional Australia,Sydney - Baulkham Hills and Hawkesbury,Hornsby,Arterial Road,No,No,Weekend,Day
+20231058,NSW,2,2023,Saturday,11:10,Multiple,1,No,No,No,60,Inner Regional Australia,Capital Region,Goulburn Mulwaree,Arterial Road,No,No,Weekend,Day
+20233136,QLD,2,2023,Sunday,8:00,Multiple,1,No,No,No,50,Inner Regional Australia,Wide Bay,Fraser Coast,Local Road,No,No,Weekend,Day
+20231197,NSW,2,2023,Saturday,14:33,Multiple,1,No,No,Yes,100,Outer Regional Australia,Central West,Forbes,National or State Highway,No,No,Weekend,Day
+20231182,NSW,2,2023,Sunday,10:00,Multiple,1,No,No,No,10,Inner Regional Australia,New England and North West,Glen Innes Severn,Local Road,No,No,Weekend,Day
+20231191,NSW,2,2023,Sunday,11:40,Single,1,No,No,No,100,Outer Regional Australia,Far West and Orana,Dubbo Regional,Arterial Road,No,No,Weekend,Day
+20236014,TAS,2,2023,Sunday,15:00,Single,1,No,No,No,100,Outer Regional Australia,West and North West,Kentish,Sub-arterial Road,No,No,Weekend,Day
+20233005,QLD,2,2023,Saturday,7:00,Multiple,1,No,No,No,100,Inner Regional Australia,Ipswich,Somerset,Sub-arterial Road,No,No,Weekend,Day
+20235034,WA,2,2023,Wednesday,14:30,Single,1,No,No,No,110,,,,,No,No,Weekday,Day
+20233118,QLD,2,2023,Thursday,6:00,Multiple,1,No,No,No,50,Major Cities of Australia,Ipswich,Brisbane,Local Road,No,No,Weekday,Day
+20234042,SA,2,2023,Thursday,17:20,Single,1,No,No,No,110,Outer Regional Australia,South Australia - Outback,Flinders Ranges,Arterial Road,No,No,Weekday,Day
+20231178,NSW,2,2023,Sunday,20:19,Multiple,1,No,No,No,50,Major Cities of Australia,Sydney - Eastern Suburbs,Randwick,Collector Road,No,No,Weekend,Night
+20231016,NSW,2,2023,Saturday,22:15,Single,1,No,No,No,100,Outer Regional Australia,New England and North West,Gwydir,Local Road,No,No,Weekend,Night
+20233037,QLD,2,2023,Friday,22:00,Single,1,No,No,No,60,Major Cities of Australia,Brisbane - North,Brisbane,Collector Road,No,No,Weekend,Night
+20232100,VIC,2,2023,Tuesday,7:29,Multiple,1,No,Yes,No,100,Outer Regional Australia,Shepparton,Moira,National or State Highway,No,No,Weekday,Day
+20231071,NSW,2,2023,Friday,14:30,Multiple,1,No,No,No,100,Inner Regional Australia,Riverina,Lockhart,Arterial Road,No,No,Weekday,Day
+20234073,SA,2,2023,Thursday,14:10,Single,1,No,No,No,110,Inner Regional Australia,Adelaide - North,Adelaide Plains,National or State Highway,No,No,Weekday,Day
+20232124,VIC,2,2023,Thursday,13:35,Multiple,1,No,No,Yes,70,Major Cities of Australia,Melbourne - West,Hobsons Bay,Local Road,No,No,Weekday,Day
+20231132,NSW,2,2023,Monday,13:25,Multiple,1,No,No,Yes,110,Outer Regional Australia,New England and North West,Narrabri,National or State Highway,No,No,Weekday,Day
+20234032,SA,2,2023,Thursday,17:35,Single,1,No,No,No,80,Inner Regional Australia,Adelaide - North,Adelaide Plains,Collector Road,No,No,Weekday,Day
+20235018,WA,2,2023,Monday,12:09,Single,1,No,No,No,110,,,,,No,No,Weekday,Day
+20235101,WA,2,2023,Tuesday,12:00,Single,1,No,No,No,90,,,,,No,No,Weekday,Day
+20232072,VIC,2,2023,Tuesday,10:52,Multiple,2,No,Yes,No,100,Outer Regional Australia,North West,Yarriambiack,National or State Highway,No,No,Weekday,Day
+20233129,QLD,2,2023,Monday,8:00,Multiple,1,No,No,No,80,Major Cities of Australia,Sunshine Coast,Sunshine Coast,Sub-arterial Road,No,No,Weekday,Day
+20233052,QLD,2,2023,Monday,6:00,Multiple,1,No,No,No,100,Inner Regional Australia,Toowoomba,Toowoomba,Sub-arterial Road,No,No,Weekday,Day
+20233132,QLD,2,2023,Friday,13:00,Multiple,1,No,Yes,No,100,Inner Regional Australia,Ipswich,Somerset,National or State Highway,No,No,Weekday,Day
+20232030,VIC,2,2023,Tuesday,17:30,Single,1,No,No,No,-9,Unknown,Unknown,Unknown,,No,No,Weekday,Day
+20232075,VIC,2,2023,Wednesday,14:49,Single,1,No,No,No,100,Outer Regional Australia,North West,West Wimmera,National or State Highway,No,No,Weekday,Day
+20231167,NSW,2,2023,Saturday,2:40,Single,1,No,Yes,No,70,Major Cities of Australia,Sydney - North Sydney and Hornsby,Hornsby,National or State Highway,No,No,Weekend,Night
+20234061,SA,2,2023,Sunday,21:00,Single,1,No,No,No,60,Major Cities of Australia,Adelaide - South,Marion,National or State Highway,No,No,Weekend,Night
+20232147,VIC,2,2023,Tuesday,13:20,Single,1,No,No,No,60,Major Cities of Australia,Melbourne - Inner,Moonee Valley,Sub-arterial Road,No,No,Weekday,Day
+20234067,SA,2,2023,Monday,12:21,Single,1,No,No,No,50,Major Cities of Australia,Adelaide - West,Charles Sturt,Sub-arterial Road,No,No,Weekday,Day
+20233108,QLD,2,2023,Wednesday,15:00,Single,1,No,No,No,100,Inner Regional Australia,Wide Bay,Gympie,Sub-arterial Road,No,No,Weekday,Day
+20236005,TAS,2,2023,Friday,13:40,Single,1,No,Yes,Yes,70,Outer Regional Australia,West and North West,Burnie,Collector Road,No,No,Weekday,Day
+20231091,NSW,2,2023,Thursday,1:30,Single,1,No,No,No,100,Very Remote Australia,Far West and Orana,Cobar,Arterial Road,No,No,Weekday,Night
+20238002,ACT,2,2023,Tuesday,2:45,Single,1,No,No,No,60,Unknown,Unknown,Unknown,,No,No,Weekday,Night
+20234024,SA,2,2023,Friday,22:00,Single,1,No,No,Yes,100,Outer Regional Australia,South Australia - South East,Wattle Range,Sub-arterial Road,No,No,Weekend,Night
+20232098,VIC,2,2023,Sunday,7:43,Single,1,No,No,No,60,Major Cities of Australia,Melbourne - Inner East,Boroondara,Arterial Road,No,No,Weekend,Day
+20232062,VIC,2,2023,Saturday,15:59,Multiple,1,No,No,No,60,Major Cities of Australia,Melbourne - Outer East,Yarra Ranges,Arterial Road,No,No,Weekend,Day
+20233046,QLD,2,2023,Saturday,14:00,Single,1,No,No,No,100,Outer Regional Australia,Cairns,Tablelands,National or State Highway,No,No,Weekend,Day
+20231089,NSW,2,2023,Saturday,22:40,Single,1,No,No,No,50,Inner Regional Australia,Sydney - Outer South West,Wollondilly,Local Road,No,No,Weekend,Night
+20235102,WA,2,2023,Tuesday,19:32,Single,1,No,No,No,60,,,,,No,No,Weekday,Night
+20233048,QLD,2,2023,Friday,23:00,Single,1,No,No,No,100,Very Remote Australia,Queensland - Outback,Cloncurry,National or State Highway,No,No,Weekend,Night
+20233095,QLD,2,2023,Saturday,23:00,Single,1,No,No,No,100,Inner Regional Australia,Ipswich,Scenic Rim,Local Road,No,No,Weekend,Night
+20233125,QLD,2,2023,Saturday,8:00,Multiple,1,No,No,No,100,Inner Regional Australia,Ipswich,Ipswich,National or State Highway,No,No,Weekend,Day
+20231047,NSW,2,2023,Saturday,13:00,Multiple,1,No,No,No,100,Inner Regional Australia,Murray,Greater Hume,Sub-arterial Road,No,No,Weekend,Day
+20235042,WA,2,2023,Sunday,9:08,Multiple,1,No,No,No,110,,,,,No,No,Weekend,Day
+20231021,NSW,2,2023,Thursday,15:45,Multiple,1,No,No,No,100,Inner Regional Australia,Coffs Harbour - Grafton,Bellingen,Arterial Road,No,No,Weekday,Day
+20232102,VIC,2,2023,Thursday,7:00,Single,1,No,No,No,60,Major Cities of Australia,Melbourne - Outer East,Maroondah,National or State Highway,No,No,Weekday,Day
+20232143,VIC,2,2023,Friday,7:15,Multiple,1,No,No,No,-9,Unknown,Unknown,Unknown,Sub-arterial Road,No,No,Weekday,Day
+20232013,VIC,2,2023,Monday,15:49,Single,1,No,No,No,40,Unknown,Unknown,Unknown,Sub-arterial Road,No,No,Weekday,Day
+20232134,VIC,2,2023,Tuesday,12:55,Multiple,1,No,No,No,70,Unknown,Unknown,Unknown,Collector Road,No,No,Weekday,Day
+20234010,SA,2,2023,Friday,10:53,Single,1,No,No,No,50,Outer Regional Australia,Barossa - Yorke - Mid North,Copper Coast,Arterial Road,No,No,Weekday,Day
+20232017,VIC,2,2023,Friday,23:40,Single,1,No,No,No,80,Major Cities of Australia,Melbourne - Outer East,Maroondah,Arterial Road,No,No,Weekend,Night
+20234026,SA,2,2023,Sunday,19:00,Single,1,No,No,No,100,Inner Regional Australia,Barossa - Yorke - Mid North,Goyder,Local Road,No,No,Weekend,Night
+20231111,NSW,2,2023,Friday,12:29,Single,1,No,No,No,50,Major Cities of Australia,Sydney - Blacktown,Blacktown,Local Road,No,No,Weekday,Day
+20231002,NSW,2,2023,Monday,14:25,Multiple,1,No,No,No,90,Inner Regional Australia,Richmond - Tweed,Tweed,Arterial Road,No,No,Weekday,Day
+20232156,VIC,2,2023,Monday,10:26,Multiple,1,No,No,No,60,Major Cities of Australia,Mornington Peninsula,Frankston,Local Road,No,No,Weekday,Day
+20232058,VIC,2,2023,Monday,11:55,Single,1,No,No,No,100,Unknown,Unknown,Unknown,Arterial Road,No,No,Weekday,Day
+20234036,SA,2,2023,Friday,23:00,Single,1,No,No,No,110,Outer Regional Australia,South Australia - South East,Naracoorte Lucindale,Arterial Road,No,No,Weekend,Night
+20232053,VIC,2,2023,Thursday,9:05,Multiple,1,No,No,No,-9,Major Cities of Australia,Melbourne - Inner,Moreland,Local Road,No,No,Weekday,Day
+20232159,VIC,2,2023,Wednesday,16:39,Multiple,1,No,No,No,80,Inner Regional Australia,Latrobe - Gippsland,South Gippsland,Local Road,No,No,Weekday,Day
+20232069,VIC,2,2023,Thursday,12:27,Multiple,1,No,Yes,No,60,Major Cities of Australia,Melbourne - Inner,Melbourne,Collector Road,No,No,Weekday,Day
+20235014,WA,2,2023,Thursday,4:00,Single,1,No,No,No,110,,,,,No,No,Weekday,Night
+20234053,SA,2,2023,Wednesday,18:29,Single,1,No,No,No,80,Inner Regional Australia,Adelaide - Central and Hills,Adelaide Hills,Collector Road,No,No,Weekday,Night
+20234016,SA,2,2023,Thursday,21:15,Single,1,No,No,No,100,Inner Regional Australia,Barossa - Yorke - Mid North,Light,Local Road,No,No,Weekday,Night
+20233067,QLD,2,2023,Thursday,20:00,Multiple,1,No,No,Yes,80,Inner Regional Australia,Wide Bay,Fraser Coast,National or State Highway,No,No,Weekday,Night
+20234057,SA,2,2023,Friday,3:23,Single,1,No,No,No,10,Inner Regional Australia,South Australia - South East,Alexandrina,Local Road,No,No,Weekday,Night
+20231024,NSW,2,2023,Thursday,2:25,Single,1,No,No,Yes,110,Inner Regional Australia,Mid North Coast,Mid-Coast,National or State Highway,No,No,Weekday,Night
+20235064,WA,2,2023,Thursday,13:18,Single,1,No,Yes,No,70,,,,,No,No,Weekday,Day
+20232014,VIC,2,2023,Wednesday,20:01,Single,1,No,No,No,80,Major Cities of Australia,Mornington Peninsula,Frankston,National or State Highway,No,No,Weekday,Night
+20234030,SA,2,2023,Monday,20:50,Single,1,No,No,No,100,Remote Australia,South Australia - South East,Southern Mallee,Local Road,No,No,Weekday,Night
+20235032,WA,2,2023,Thursday,16:04,Single,1,No,Yes,No,60,,,,,No,No,Weekday,Day
+20236001,TAS,2,2023,Tuesday,22:45,Multiple,1,No,No,No,110,Outer Regional Australia,Launceston and North East,Meander Valley,National or State Highway,No,No,Weekday,Night
+20232174,VIC,2,2023,Thursday,19:19,Multiple,1,No,No,No,60,Major Cities of Australia,Melbourne - North East,Banyule,Sub-arterial Road,No,No,Weekday,Night
+20235071,WA,2,2023,Thursday,22:16,Single,1,No,No,No,110,,,,,No,No,Weekday,Night
+20233161,QLD,2,2023,Wednesday,18:00,Multiple,1,No,No,Yes,100,Outer Regional Australia,Mackay - Isaac - Whitsunday,Mackay,National or State Highway,No,No,Weekday,Night
+20231185,NSW,2,2023,Monday,23:20,Single,2,No,No,Yes,110,Inner Regional Australia,Capital Region,Upper Lachlan,National or State Highway,No,No,Weekday,Night
+20233075,QLD,2,2023,Thursday,21:00,Single,1,No,No,No,100,Outer Regional Australia,Darling Downs - Maranoa,Goondiwindi,Sub-arterial Road,No,No,Weekday,Night
+20232037,VIC,2,2023,Thursday,4:45,Multiple,1,No,No,Yes,80,Major Cities of Australia,Melbourne - North West,Brimbank,National or State Highway,No,No,Weekday,Night
+20232135,VIC,2,2023,Tuesday,5:45,Multiple,1,No,Yes,No,100,Inner Regional Australia,Latrobe - Gippsland,Bass Coast,National or State Highway,No,No,Weekday,Night
+20232111,VIC,2,2023,Tuesday,19:22,Multiple,1,No,No,Yes,100,Inner Regional Australia,Shepparton,Greater Shepparton,Sub-arterial Road,No,No,Weekday,Night
+20232171,VIC,2,2023,Wednesday,8:04,Single,1,No,No,No,60,Major Cities of Australia,Melbourne - Inner,Moonee Valley,Sub-arterial Road,No,No,Weekday,Day
+20234033,SA,1,2023,Friday,18:34,Single,1,No,No,No,60,Major Cities of Australia,Adelaide - North,Port Adelaide Enfield,Arterial Road,No,No,Weekend,Night
+20232020,VIC,1,2023,Saturday,16:24,Single,1,No,No,No,100,Outer Regional Australia,North West,Northern Grampians,Collector Road,No,No,Weekend,Day
+20233074,QLD,1,2023,Sunday,7:00,Multiple,1,No,No,No,60,Inner Regional Australia,Ipswich,Somerset,Sub-arterial Road,No,No,Weekend,Day
+20232074,VIC,1,2023,Sunday,15:26,Single,1,No,No,No,100,Outer Regional Australia,Warrnambool and South West,Corangamite,Arterial Road,No,No,Weekend,Day
+20232123,VIC,1,2023,Sunday,14:45,Single,1,No,No,No,70,Major Cities of Australia,Melbourne - Outer East,Manningham,Sub-arterial Road,No,No,Weekend,Day
+20232033,VIC,1,2023,Sunday,13:56,Single,1,No,No,No,100,Unknown,Unknown,Unknown,Sub-arterial Road,No,No,Weekend,Day
+20237006,NT,1,2023,Sunday,12:01,Single,1,No,No,No,130,Remote Australia,Northern Territory - Outback,Coomalie,National or State Highway,No,No,Weekend,Day
+20234001,SA,1,2023,Sunday,10:25,Multiple,1,No,No,No,60,Major Cities of Australia,Adelaide - Central and Hills,Burnside,Local Road,No,No,Weekend,Day
+20233117,QLD,1,2023,Sunday,10:00,Multiple,1,No,Yes,No,60,Major Cities of Australia,Logan - Beaudesert,Logan,Local Road,Yes,No,Weekend,Day
+20233031,QLD,1,2023,Sunday,16:00,Single,1,No,No,No,70,Major Cities of Australia,Gold Coast,Gold Coast,Sub-arterial Road,No,No,Weekend,Day
+20232073,VIC,1,2023,Saturday,11:15,Single,1,No,No,No,-9,Outer Regional Australia,Latrobe - Gippsland,Wellington,Access road,No,No,Weekend,Day
+20234052,SA,1,2023,Monday,2:30,Single,1,No,No,No,50,Major Cities of Australia,Adelaide - Central and Hills,Campbelltown (SA),Local Road,Yes,No,Weekend,Night
+20236012,TAS,1,2023,Saturday,16:30,Single,1,No,No,No,100,Remote Australia,West and North West,West Coast,Arterial Road,No,No,Weekend,Day
+20231118,NSW,1,2023,Friday,18:20,Single,1,No,No,No,110,Inner Regional Australia,Central Coast,Central Coast,National or State Highway,No,No,Weekend,Night
+20234017,SA,1,2023,Saturday,18:32,Single,1,No,No,No,100,Inner Regional Australia,South Australia - South East,VICtor Harbor,National or State Highway,No,No,Weekend,Night
+20232148,VIC,1,2023,Saturday,10:12,Multiple,1,No,No,No,60,Major Cities of Australia,Melbourne - South East,Casey,Sub-arterial Road,No,No,Weekend,Day
+20233156,QLD,1,2023,Saturday,10:00,Multiple,1,No,No,No,60,Major Cities of Australia,Gold Coast,Scenic Rim,Sub-arterial Road,No,No,Weekend,Day
+20233148,QLD,1,2023,Saturday,11:00,Single,1,No,No,No,50,Outer Regional Australia,Moreton Bay - North,Somerset,Local Road,No,No,Weekend,Day
+20232118,VIC,1,2023,Thursday,6:15,Multiple,1,No,No,No,80,Inner Regional Australia,Latrobe - Gippsland,Wellington,National or State Highway,No,No,Weekday,Day
+20234072,SA,1,2023,Monday,6:40,Single,1,No,No,No,110,Outer Regional Australia,South Australia - South East,Naracoorte Lucindale,National or State Highway,No,No,Weekday,Day
+20232011,VIC,1,2023,Tuesday,16:31,Multiple,1,No,No,No,50,Major Cities of Australia,Mornington Peninsula,Frankston,Local Road,No,No,Weekday,Day
+20232109,VIC,1,2023,Friday,8:00,Multiple,1,No,No,No,100,Inner Regional Australia,Bendigo,Greater Bendigo,National or State Highway,No,No,Weekday,Day
+20232149,VIC,1,2023,Monday,15:35,Multiple,1,No,Yes,No,80,Unknown,Unknown,Unknown,Arterial Road,No,No,Weekday,Day
+20235019,WA,1,2023,Wednesday,15:29,Multiple,1,No,No,No,60,,,,,No,No,Weekday,Day
+20231209,NSW,1,2023,Friday,23:20,Multiple,1,No,No,No,60,Major Cities of Australia,Sydney - City and Inner South,Inner West,National or State Highway,No,No,Weekend,Night
+20231133,NSW,1,2023,Friday,18:41,Single,1,No,No,No,70,Major Cities of Australia,Newcastle and Lake Macquarie,Lake Macquarie,Sub-arterial Road,No,No,Weekend,Night
+20231034,NSW,1,2023,Sunday,2:00,Single,1,No,No,No,80,Inner Regional Australia,Capital Region,Yass Valley,Arterial Road,No,No,Weekend,Night
+20231116,NSW,1,2023,Thursday,15:36,Single,1,No,No,No,60,Major Cities of Australia,Sydney - Ryde,Hunters Hill,Arterial Road,No,No,Weekday,Day
+20231062,NSW,1,2023,Tuesday,12:00,Multiple,1,No,No,No,50,Major Cities of Australia,Sydney - North Sydney and Hornsby,Hornsby,Local Road,No,No,Weekday,Day
+20232008,VIC,1,2023,Friday,8:19,Multiple,1,No,No,No,100,Inner Regional Australia,Hume,Indigo,Arterial Road,No,No,Weekday,Day
+20232163,VIC,1,2023,Tuesday,8:10,Single,1,No,No,No,60,Major Cities of Australia,Melbourne - West,Brimbank,Collector Road,No,No,Weekday,Day
+20233082,QLD,1,2023,Tuesday,13:00,Multiple,3,No,Yes,Yes,100,Inner Regional Australia,Darling Downs - Maranoa,Toowoomba,National or State Highway,No,No,Weekday,Day
+20233033,QLD,1,2023,Friday,17:00,Multiple,1,No,No,No,100,Inner Regional Australia,Wide Bay,Bundaberg,Collector Road,No,No,Weekday,Day
+20232001,VIC,1,2023,Monday,7:38,Single,1,No,No,No,100,Outer Regional Australia,North West,West Wimmera,Arterial Road,No,No,Weekday,Day
+20232063,VIC,1,2023,Friday,15:02,Single,2,No,No,No,110,Inner Regional Australia,Hume,Strathbogie,National or State Highway,No,No,Weekday,Day
+20231073,NSW,1,2023,Monday,7:45,Multiple,1,No,Yes,No,100,Inner Regional Australia,Hunter Valley exc Newcastle,Muswellbrook,National or State Highway,No,No,Weekday,Day
+20232085,VIC,1,2023,Friday,15:35,Multiple,1,No,No,No,80,Inner Regional Australia,Geelong,Greater Geelong,Sub-arterial Road,No,No,Weekday,Day
+20232161,VIC,1,2023,Monday,11:00,Multiple,1,No,No,Yes,100,Outer Regional Australia,Warrnambool and South West,Southern Grampians,National or State Highway,No,No,Weekday,Day
+20233026,QLD,1,2023,Friday,17:00,Multiple,1,No,No,Yes,100,Outer Regional Australia,Cairns,Tablelands,Sub-arterial Road,No,No,Weekday,Day
+20231059,NSW,1,2023,Wednesday,12:45,Multiple,1,No,No,No,50,Major Cities of Australia,Central Coast,Central Coast,Local Road,No,No,Weekday,Day
+20231105,NSW,1,2023,Friday,16:04,Multiple,1,No,No,No,80,Major Cities of Australia,Sydney - Blacktown,Blacktown,Arterial Road,No,No,Weekday,Day
+20234012,SA,1,2023,Tuesday,11:05,Single,1,No,No,No,110,Inner Regional Australia,Barossa - Yorke - Mid North,Wakefield,National or State Highway,No,No,Weekday,Day
+20231130,NSW,1,2023,Monday,12:12,Single,1,No,No,No,110,Major Cities of Australia,Sydney - Outer West and Blue Mountains,Penrith,National or State Highway,No,No,Weekday,Day
+20235096,WA,1,2023,Friday,15:38,Single,2,No,No,No,100,,,,,No,No,Weekday,Day
+20232116,VIC,1,2023,Friday,4:55,Multiple,1,No,No,No,100,Major Cities of Australia,Melbourne - South East,Greater Dandenong,National or State Highway,No,No,Weekday,Night
+20232094,VIC,1,2023,Wednesday,15:00,Single,1,No,No,No,80,Outer Regional Australia,North West,Buloke,Arterial Road,No,No,Weekday,Day
+20231025,NSW,1,2023,Monday,13:15,Single,1,No,No,No,100,Inner Regional Australia,Capital Region,Yass Valley,Arterial Road,No,No,Weekday,Day
+20232126,VIC,1,2023,Wednesday,16:43,Multiple,4,No,No,No,100,Inner Regional Australia,Shepparton,Greater Shepparton,Sub-arterial Road,No,No,Weekday,Day
+20232083,VIC,1,2023,Tuesday,6:07,Multiple,1,No,No,No,60,Inner Regional Australia,Geelong,Golden Plains,Access road,No,No,Weekday,Day
+20233163,QLD,1,2023,Monday,10:00,Single,2,No,Yes,No,80,Inner Regional Australia,Wide Bay,Gympie,Local Road,No,No,Weekday,Day
+20233056,QLD,1,2023,Wednesday,15:00,Multiple,1,No,No,No,80,Inner Regional Australia,Wide Bay,Bundaberg,National or State Highway,No,No,Weekday,Day
+20238003,ACT,1,2023,Tuesday,7:00,Multiple,1,No,No,No,80,Major Cities of Australia,Australian Capital Territory,Unincorporated ACT,Arterial Road,No,No,Weekday,Day
+20234055,SA,1,2023,Wednesday,13:14,Multiple,2,No,No,No,100,Outer Regional Australia,South Australia - South East,Loxton Waikerie,National or State Highway,No,No,Weekday,Day
+20236018,TAS,1,2023,Tuesday,6:30,Single,1,No,No,No,50,Inner Regional Australia,Launceston and North East,Launceston,Local Road,No,No,Weekday,Day
+20233147,QLD,1,2023,Tuesday,17:00,Single,1,No,No,No,60,Major Cities of Australia,Brisbane - North,Brisbane,Sub-arterial Road,No,No,Weekday,Day
+20233086,QLD,1,2023,Friday,11:00,Multiple,1,No,No,No,110,Major Cities of Australia,Gold Coast,Gold Coast,National or State Highway,No,No,Weekday,Day
+20234071,SA,1,2023,Sunday,14:15,Single,1,No,No,No,10,Inner Regional Australia,South Australia - South East,VICtor Harbor,Collector Road,No,No,Weekend,Day
+20231075,NSW,1,2023,Tuesday,11:43,Single,1,No,No,No,60,Major Cities of Australia,Sydney - Baulkham Hills and Hawkesbury,The Hills,Arterial Road,No,No,Weekday,Day
+20233166,QLD,1,2023,Friday,22:00,Single,1,No,No,Yes,100,Inner Regional Australia,Wide Bay,Gympie,National or State Highway,No,No,Weekend,Night
+20231126,NSW,1,2023,Wednesday,5:05,Single,1,No,Yes,No,80,Major Cities of Australia,Sydney - Outer South West,Camden,Arterial Road,No,No,Weekday,Night
+20231171,NSW,1,2023,Wednesday,6:19,Multiple,1,No,No,No,60,Major Cities of Australia,Sydney - South West,Fairfield,Collector Road,No,No,Weekday,Day
+20234021,SA,1,2023,Saturday,23:45,Single,1,No,No,No,50,Major Cities of Australia,Adelaide - North,Tea Tree Gully,Local Road,No,No,Weekend,Night
+20232054,VIC,1,2023,Friday,22:35,Multiple,1,No,No,No,100,Inner Regional Australia,Shepparton,Campaspe,Local Road,No,No,Weekend,Night
+20235075,WA,1,2023,Sunday,9:44,Single,1,No,No,No,110,,,,,Yes,No,Weekend,Day
+20231119,NSW,1,2023,Saturday,12:56,Single,1,No,No,No,50,Inner Regional Australia,Riverina,Wagga Wagga,Local Road,No,No,Weekend,Day
+20231001,NSW,1,2023,Saturday,17:45,Single,1,No,No,No,100,Inner Regional Australia,Riverina,Junee,Access road,No,No,Weekend,Day
+20235099,WA,1,2023,Tuesday,12:21,Single,1,No,No,No,110,,,,,No,No,Weekday,Day
+20235033,WA,1,2023,Wednesday,13:32,Single,1,No,No,No,70,,,,,No,No,Weekday,Day
+20232128,VIC,1,2023,Friday,14:25,Multiple,1,No,No,No,70,Major Cities of Australia,Melbourne - Inner East,Whitehorse,National or State Highway,No,No,Weekday,Day
+20232108,VIC,1,2023,Tuesday,15:49,Multiple,1,No,No,No,100,Inner Regional Australia,Latrobe - Gippsland,Latrobe (VIC.),Arterial Road,No,No,Weekday,Day
+20232022,VIC,1,2023,Tuesday,7:50,Multiple,2,No,No,No,80,Major Cities of Australia,Melbourne - Outer East,Yarra Ranges,Collector Road,No,No,Weekday,Day
+20233138,QLD,1,2023,Sunday,18:00,Single,1,No,No,No,60,Inner Regional Australia,Logan - Beaudesert,Logan,Local Road,No,No,Weekend,Night
+20231138,NSW,1,2023,Tuesday,12:00,Single,2,No,No,No,100,Outer Regional Australia,New England and North West,Moree Plains,National or State Highway,No,No,Weekday,Day
+20235007,WA,1,2023,Tuesday,13:45,Multiple,1,No,No,Yes,60,,,,,No,No,Weekday,Day
+20231176,NSW,1,2023,Saturday,2:00,Single,1,No,No,No,50,Inner Regional Australia,Mid North Coast,Mid-Coast,Local Road,No,No,Weekend,Night
+20233149,QLD,1,2023,Saturday,20:00,Multiple,1,No,No,No,60,Major Cities of Australia,Moreton Bay - North,Moreton Bay,Sub-arterial Road,No,No,Weekend,Night
+20232112,VIC,1,2023,Thursday,2:30,Single,1,No,No,No,100,Outer Regional Australia,Warrnambool and South West,Southern Grampians,Sub-arterial Road,No,No,Weekday,Night
+20233043,QLD,1,2023,Wednesday,19:00,Multiple,1,No,No,No,60,Inner Regional Australia,Central Queensland,Gladstone,National or State Highway,No,No,Weekday,Night
+20232167,VIC,1,2023,Monday,8:10,Multiple,1,No,No,No,100,Inner Regional Australia,Bendigo,Loddon,Arterial Road,No,No,Weekday,Day
+20235068,WA,1,2023,Wednesday,23:52,Multiple,1,No,No,No,100,,,,,No,No,Weekday,Night
+20233069,QLD,1,2023,Friday,16:00,Multiple,1,No,No,No,100,Outer Regional Australia,Cairns,Mareeba,National or State Highway,No,No,Weekday,Day
+20234050,SA,1,2023,Wednesday,14:59,Single,1,No,No,No,50,Major Cities of Australia,Adelaide - South,Onkaparinga,Local Road,No,No,Weekday,Day
+20235030,WA,1,2023,Friday,17:16,Single,1,No,No,No,60,,,,,No,No,Weekday,Day
+20233127,QLD,1,2023,Friday,2:00,Single,1,No,No,No,100,Inner Regional Australia,Toowoomba,Lockyer Valley,National or State Highway,No,No,Weekday,Night
+20232162,VIC,1,2023,Wednesday,20:27,Single,1,No,No,No,100,Outer Regional Australia,Hume,Benalla,Sub-arterial Road,No,No,Weekday,Night
+20235026,WA,1,2023,Tuesday,22:20,Single,1,No,No,No,70,,,,,No,No,Weekday,Night
+20235066,WA,1,2023,Monday,13:30,Single,1,No,No,No,100,,,,,No,No,Weekday,Day
+20235081,WA,1,2023,Tuesday,13:15,Multiple,1,No,No,No,60,,,,,No,No,Weekday,Day
+20236002,TAS,1,2023,Tuesday,16:47,Single,1,No,No,No,100,Outer Regional Australia,Launceston and North East,Break O'Day,National or State Highway,No,No,Weekday,Day
+20233133,QLD,1,2023,Monday,19:00,Single,1,No,No,No,100,Outer Regional Australia,Mackay - Isaac - Whitsunday,Isaac,National or State Highway,No,No,Weekday,Night
+20231180,NSW,1,2023,Tuesday,0:24,Single,2,No,No,No,80,Major Cities of Australia,Sydney - Parramatta,Cumberland,Local Road,No,No,Weekday,Night
+20231112,NSW,1,2023,Friday,0:30,Single,1,No,No,No,100,Outer Regional Australia,New England and North West,Tenterfield,Local Road,No,No,Weekday,Night
+20233078,QLD,1,2023,Friday,2:00,Single,1,No,No,No,100,Inner Regional Australia,Wide Bay,Fraser Coast,Local Road,No,No,Weekday,Night
+20235083,WA,1,2023,Tuesday,20:41,Single,1,No,No,No,60,,,,,No,No,Weekday,Night
+20225142,WA,12,2022,Sunday,18:48,Single,1,No,No,No,110,Unknown,Unknown,Unknown,,No,No,Weekend,Night
+20225117,WA,12,2022,Saturday,4:29,Single,1,No,No,No,50,Unknown,Unknown,Unknown,,No,No,Weekend,Night
+20225099,WA,12,2022,Saturday,19:33,Single,1,No,No,No,60,Unknown,Unknown,Unknown,,No,No,Weekend,Night
+20226021,TAS,12,2022,Saturday,18:45,Single,1,No,No,No,60,Outer Regional Australia,South East,Glamorgan-Spring Bay,National or State Highway,No,No,Weekend,Night
+20225161,WA,12,2022,Thursday,23:04,Single,1,No,No,No,60,Unknown,Unknown,Unknown,,No,No,Weekday,Night
+20225123,WA,12,2022,Thursday,19:43,Single,1,No,No,No,110,Unknown,Unknown,Unknown,,No,No,Weekday,Night
+20225007,WA,12,2022,Friday,22:38,Single,1,No,No,No,60,Unknown,Unknown,Unknown,,No,No,Weekend,Night
+20225012,WA,12,2022,Saturday,21:55,Single,1,No,No,No,60,Unknown,Unknown,Unknown,,No,No,Weekend,Night
+20223026,QLD,12,2022,Saturday,12:00,Single,1,No,No,No,50,Major Cities of Australia,Brisbane - East,Redland,Collector Road,Yes,No,Weekend,Day
+20223170,QLD,12,2022,Sunday,3:00,Single,1,No,No,No,100,Outer Regional Australia,Cairns,Tablelands,National or State Highway,No,No,Weekend,Night
+20223095,QLD,12,2022,Sunday,17:00,Single,1,No,No,No,100,Very Remote Australia,Queensland - Outback,Cook,Sub-arterial Road,No,No,Weekend,Day
+20222152,VIC,12,2022,Saturday,19:30,Single,1,No,No,No,60,Unknown,Unknown,Unknown,Arterial Road,Yes,No,Weekend,Night
+20222157,VIC,12,2022,Sunday,18:50,Multiple,1,No,No,No,80,Inner Regional Australia,Latrobe - Gippsland,Bass Coast,Local Road,Yes,No,Weekend,Night
+20225104,WA,12,2022,Sunday,15:11,Single,1,No,No,No,-9,Unknown,Unknown,Unknown,,No,No,Weekend,Day
+20227024,NT,12,2022,Sunday,12:00,Multiple,1,No,No,No,130,Remote Australia,Northern Territory - Outback,Coomalie,National or State Highway,No,No,Weekend,Day
+20225109,WA,12,2022,Sunday,1:12,Multiple,2,No,Yes,No,110,Unknown,Unknown,Unknown,,No,No,Weekend,Night
+20221102,NSW,12,2022,Friday,20:15,Multiple,1,No,No,No,50,Major Cities of Australia,Sydney - Northern Beaches,Northern Beaches,Collector Road,Yes,No,Weekend,Night
+20222154,VIC,12,2022,Sunday,12:12,Multiple,1,No,No,No,50,Major Cities of Australia,Melbourne - West,Hobsons Bay,Local Road,No,No,Weekend,Day
+20221241,NSW,12,2022,Friday,22:30,Single,1,No,No,No,60,Inner Regional Australia,Murray,Greater Hume,Access road,No,No,Weekend,Night
+20221202,NSW,12,2022,Saturday,11:00,Multiple,1,No,No,No,60,Major Cities of Australia,Sydney - North Sydney and Hornsby,Mosman,Arterial Road,No,No,Weekend,Day
+20222192,VIC,12,2022,Saturday,6:30,Single,1,No,No,No,100,Inner Regional Australia,Warrnambool and South West,Colac Otway,Access road,No,No,Weekend,Day
+20223227,QLD,12,2022,Sunday,20:00,Single,1,No,No,No,60,Outer Regional Australia,Cairns,Cairns,Collector Road,No,No,Weekend,Night
+20222042,VIC,12,2022,Sunday,16:21,Single,1,No,No,No,80,Major Cities of Australia,Melbourne - West,Wyndham,Sub-arterial Road,No,No,Weekend,Day
+20222131,VIC,12,2022,Sunday,7:00,Single,1,No,No,No,100,Inner Regional Australia,Latrobe - Gippsland,Baw Baw,Sub-arterial Road,No,No,Weekend,Day
+20223041,QLD,12,2022,Saturday,10:00,Multiple,2,No,No,No,80,Outer Regional Australia,Cairns,Douglas,Collector Road,No,No,Weekend,Day
+20221119,NSW,12,2022,Sunday,16:35,Multiple,1,No,No,No,80,Inner Regional Australia,Central West,Lithgow,Arterial Road,No,No,Weekend,Day
+20222114,VIC,12,2022,Saturday,12:15,Multiple,1,No,No,No,100,Inner Regional Australia,Shepparton,Moira,Local Road,Yes,No,Weekend,Day
+20223223,QLD,12,2022,Saturday,12:00,Single,2,No,No,No,80,Inner Regional Australia,Sunshine Coast,Sunshine Coast,Local Road,Yes,No,Weekend,Day
+20223152,QLD,12,2022,Saturday,16:00,Multiple,1,No,No,Yes,100,Inner Regional Australia,Wide Bay,Bundaberg,National or State Highway,Yes,No,Weekend,Day
+20223252,QLD,12,2022,Wednesday,13:00,Multiple,2,No,Yes,Yes,100,Outer Regional Australia,Central Queensland,Gladstone,National or State Highway,No,No,Weekday,Day
+20223024,QLD,12,2022,Thursday,15:00,Multiple,1,No,No,No,70,Major Cities of Australia,Logan - Beaudesert,Logan,Local Road,No,No,Weekday,Day
+20224015,SA,12,2022,Saturday,1:30,Single,1,No,No,No,100,Inner Regional Australia,Adelaide - North,Playford,Sub-arterial Road,No,No,Weekend,Night
+20223171,QLD,12,2022,Saturday,21:00,Multiple,1,No,No,No,70,Major Cities of Australia,Moreton Bay - North,Moreton Bay,Sub-arterial Road,No,No,Weekend,Night
+20221026,NSW,12,2022,Friday,16:40,Multiple,1,No,No,No,100,Outer Regional Australia,Capital Region,Eurobodalla,National or State Highway,Yes,No,Weekday,Day
+20221109,NSW,12,2022,Tuesday,12:37,Multiple,1,No,No,No,100,Inner Regional Australia,Riverina,Wagga Wagga,National or State Highway,Yes,No,Weekday,Day
+20221040,NSW,12,2022,Friday,8:50,Single,1,No,No,No,50,Major Cities of Australia,Sydney - Outer West and Blue Mountains,Blue Mountains,Local Road,No,No,Weekday,Day
+20223259,QLD,12,2022,Thursday,6:00,Multiple,1,No,Yes,No,60,Outer Regional Australia,Cairns,Cairns,National or State Highway,No,No,Weekday,Day
+20223191,QLD,12,2022,Wednesday,9:00,Multiple,1,No,No,No,60,Major Cities of Australia,Brisbane - South,Brisbane,National or State Highway,No,No,Weekday,Day
+20221260,NSW,12,2022,Thursday,11:30,Multiple,1,No,No,Yes,100,Outer Regional Australia,New England and North West,Glen Innes Severn,National or State Highway,No,No,Weekday,Day
+20222029,VIC,12,2022,Wednesday,11:30,Multiple,1,No,Yes,No,100,Inner Regional Australia,Shepparton,Greater Shepparton,Arterial Road,No,No,Weekday,Day
+20225133,WA,12,2022,Thursday,9:14,Single,1,No,Yes,No,110,Unknown,Unknown,Unknown,,No,No,Weekday,Day
+20221138,NSW,12,2022,Friday,17:59,Multiple,1,No,No,No,100,Inner Regional Australia,Capital Region,Goulburn Mulwaree,Sub-arterial Road,No,No,Weekday,Day
+20225053,WA,12,2022,Wednesday,10:46,Multiple,1,No,No,No,70,Unknown,Unknown,Unknown,,No,No,Weekday,Day
+20223017,QLD,12,2022,Thursday,12:00,Multiple,1,No,No,No,100,Inner Regional Australia,Wide Bay,South Burnett,National or State Highway,No,No,Weekday,Day
+20221120,NSW,12,2022,Thursday,16:34,Multiple,1,No,No,Yes,80,Major Cities of Australia,Sydney - Outer West and Blue Mountains,Hawkesbury,Arterial Road,No,No,Weekday,Day
+20222103,VIC,12,2022,Friday,19:59,Single,1,No,No,No,80,Outer Regional Australia,Hume,Mansfield,Sub-arterial Road,Yes,No,Weekend,Night
+20222165,VIC,12,2022,Saturday,19:20,Single,1,No,No,No,80,Unknown,Unknown,Unknown,Arterial Road,No,No,Weekend,Night
+20225033,WA,12,2022,Friday,10:21,Multiple,1,No,Yes,No,90,Unknown,Unknown,Unknown,,No,No,Weekday,Day
+20223131,QLD,12,2022,Wednesday,13:00,Single,1,No,No,No,70,Major Cities of Australia,Brisbane - South,Brisbane,Sub-arterial Road,No,No,Weekday,Day
+20223048,QLD,12,2022,Wednesday,17:00,Multiple,1,No,No,No,60,Major Cities of Australia,Gold Coast,Gold Coast,Collector Road,No,No,Weekday,Day
+20225075,WA,12,2022,Thursday,7:50,Multiple,1,No,No,No,60,Unknown,Unknown,Unknown,,No,No,Weekday,Day
+20225030,WA,12,2022,Monday,8:56,Single,1,No,No,No,60,Unknown,Unknown,Unknown,,No,No,Weekday,Day
+20221162,NSW,12,2022,Thursday,13:53,Multiple,1,No,No,No,100,Outer Regional Australia,Central West,Cabonne,Sub-arterial Road,Yes,No,Weekday,Day
+20223219,QLD,12,2022,Friday,17:00,Multiple,3,No,No,No,60,Major Cities of Australia,Gold Coast,Gold Coast,Local Road,Yes,No,Weekday,Day
+20225137,WA,12,2022,Wednesday,12:26,Single,1,No,No,No,110,Unknown,Unknown,Unknown,,Yes,No,Weekday,Day
+20222206,VIC,12,2022,Tuesday,15:54,Single,1,No,No,No,-9,Inner Regional Australia,Melbourne - North East,Murrindindi,Arterial Road,Yes,No,Weekday,Day
+20222204,VIC,12,2022,Sunday,22:25,Single,1,No,No,No,100,Inner Regional Australia,Shepparton,Moira,National or State Highway,No,No,Weekend,Night
+20222184,VIC,12,2022,Saturday,8:00,Single,1,No,No,No,40,Major Cities of Australia,Melbourne - North East,Banyule,Sub-arterial Road,Yes,No,Weekend,Day
+20221244,NSW,12,2022,Saturday,12:45,Single,1,No,No,No,50,Major Cities of Australia,Sydney - Outer West and Blue Mountains,Penrith,Local Road,Yes,No,Weekend,Day
+20221161,NSW,12,2022,Friday,15:25,Single,1,No,No,No,40,Major Cities of Australia,Sydney - Inner South West,Canterbury-Bankstown,Local Road,Yes,No,Weekday,Day
+20223075,QLD,12,2022,Wednesday,20:00,Single,1,No,No,No,60,Inner Regional Australia,Wide Bay,Fraser Coast,Sub-arterial Road,Yes,No,Weekday,Night
+20221243,NSW,12,2022,Wednesday,16:35,Single,1,Yes,No,No,40,Major Cities of Australia,Sydney - City and Inner South,Sydney,Collector Road,No,No,Weekday,Day
+20221153,NSW,12,2022,Friday,20:00,Single,1,No,No,No,100,Outer Regional Australia,Capital Region,Eurobodalla,National or State Highway,No,No,Weekend,Night
+20223184,QLD,12,2022,Thursday,12:00,Single,1,No,No,No,50,Major Cities of Australia,Ipswich,Brisbane,Collector Road,No,No,Weekday,Day
+20221125,NSW,12,2022,Wednesday,12:55,Single,1,No,No,No,50,Major Cities of Australia,Sydney - City and Inner South,Sydney,National or State Highway,No,No,Weekday,Day
+20221089,NSW,12,2022,Friday,23:45,Multiple,2,No,No,No,60,Major Cities of Australia,Sydney - City and Inner South,Sydney,National or State Highway,No,No,Weekend,Night
+20221191,NSW,12,2022,Thursday,11:15,Multiple,1,No,No,No,50,Major Cities of Australia,Sydney - Parramatta,Parramatta,Local Road,No,No,Weekday,Day
+20224038,SA,12,2022,Saturday,22:00,Single,1,No,No,No,100,Inner Regional Australia,South Australia - South East,Alexandrina,Arterial Road,No,No,Weekend,Night
+20225116,WA,12,2022,Tuesday,11:49,Single,2,No,No,No,110,Unknown,Unknown,Unknown,,Yes,No,Weekday,Day
+20223082,QLD,12,2022,Saturday,19:00,Multiple,1,No,No,No,60,Major Cities of Australia,Moreton Bay - North,Moreton Bay,Sub-arterial Road,No,No,Weekend,Night
+20223143,QLD,12,2022,Saturday,16:00,Multiple,1,No,No,No,60,Inner Regional Australia,Toowoomba,Toowoomba,National or State Highway,No,No,Weekend,Day
+20225048,WA,12,2022,Saturday,15:23,Multiple,1,No,No,Yes,110,Unknown,Unknown,Unknown,,Yes,No,Weekend,Day
+20223039,QLD,12,2022,Saturday,8:00,Single,1,No,No,No,100,Outer Regional Australia,Central Queensland,Banana,Sub-arterial Road,Yes,No,Weekend,Day
+20221018,NSW,12,2022,Friday,16:45,Multiple,1,Yes,Yes,No,100,Major Cities of Australia,Sydney - Blacktown,Blacktown,National or State Highway,No,No,Weekday,Day
+20221136,NSW,12,2022,Thursday,11:45,Single,1,No,No,No,100,Outer Regional Australia,Murray,Murray River,Arterial Road,No,No,Weekday,Day
+20225151,WA,12,2022,Friday,21:34,Single,1,No,No,No,50,Unknown,Unknown,Unknown,,No,No,Weekend,Night
+20224028,SA,12,2022,Friday,21:19,Single,1,No,No,No,100,Inner Regional Australia,Barossa - Yorke - Mid North,Light,Sub-arterial Road,Yes,No,Weekend,Night
+20222096,VIC,12,2022,Saturday,21:15,Multiple,1,No,No,No,80,Inner Regional Australia,Latrobe - Gippsland,Bass Coast,Arterial Road,Yes,No,Weekend,Night
+20224053,SA,12,2022,Tuesday,19:30,Single,3,No,No,No,110,Outer Regional Australia,Barossa - Yorke - Mid North,Wakefield,National or State Highway,Yes,No,Weekday,Night
+20221218,NSW,12,2022,Friday,1:20,Single,1,No,No,No,50,Outer Regional Australia,Murray,Federation,Sub-arterial Road,Yes,No,Weekday,Night
+20221067,NSW,12,2022,Tuesday,20:10,Single,1,No,No,No,60,Major Cities of Australia,Sydney - Inner West,Inner West,Arterial Road,Yes,No,Weekday,Night
+20225112,WA,12,2022,Thursday,17:49,Single,1,No,No,No,110,Unknown,Unknown,Unknown,,No,No,Weekday,Day
+20223129,QLD,12,2022,Thursday,20:00,Single,1,No,No,No,60,Major Cities of Australia,Moreton Bay - North,Moreton Bay,Local Road,No,No,Weekday,Night
+20225061,WA,12,2022,Tuesday,16:06,Single,1,No,No,No,70,Unknown,Unknown,Unknown,,No,No,Weekday,Day
+20225039,WA,12,2022,Wednesday,11:34,Multiple,1,No,No,No,50,Unknown,Unknown,Unknown,,No,No,Weekday,Day
+20221019,NSW,12,2022,Friday,16:30,Single,1,No,No,No,60,Major Cities of Australia,Sydney - Northern Beaches,Northern Beaches,Arterial Road,No,No,Weekday,Day
+20225004,WA,12,2022,Monday,18:30,Single,1,No,No,No,60,Unknown,Unknown,Unknown,,No,No,Weekday,Night
+20221091,NSW,12,2022,Thursday,22:12,Multiple,1,No,No,No,60,Major Cities of Australia,Newcastle and Lake Macquarie,Lake Macquarie,Collector Road,No,No,Weekday,Night
+20224051,SA,12,2022,Wednesday,18:35,Single,1,No,No,No,100,Inner Regional Australia,South Australia - South East,Alexandrina,Sub-arterial Road,No,No,Weekday,Night
+20222060,VIC,12,2022,Monday,19:03,Single,1,No,No,No,100,Inner Regional Australia,Latrobe - Gippsland,Latrobe (VIC.),Sub-arterial Road,No,No,Weekday,Night
+20221045,NSW,12,2022,Thursday,18:49,Multiple,1,No,No,No,80,Inner Regional Australia,Sydney - Outer West and Blue Mountains,Penrith,Arterial Road,No,No,Weekday,Night
+20221142,NSW,12,2022,Tuesday,21:30,Single,1,No,No,No,50,Major Cities of Australia,Illawarra,Wollongong,Local Road,No,No,Weekday,Night
+20224055,SA,12,2022,Wednesday,20:54,Single,1,No,No,No,80,Major Cities of Australia,Adelaide - North,Salisbury,National or State Highway,Yes,No,Weekday,Night
+20225135,WA,11,2022,Saturday,19:19,Single,1,No,No,No,110,Unknown,Unknown,Unknown,,No,No,Weekend,Night
+20225018,WA,11,2022,Friday,20:15,Single,1,No,No,No,110,Unknown,Unknown,Unknown,,No,No,Weekend,Night
+20227014,NT,11,2022,Thursday,22:29,Single,1,No,No,No,110,Very Remote Australia,Northern Territory - Outback,Roper Gulf,Sub-arterial Road,No,No,Weekday,Night
+20225106,WA,11,2022,Wednesday,21:03,Single,1,No,No,No,50,Unknown,Unknown,Unknown,,No,No,Weekday,Night
+20225020,WA,11,2022,Tuesday,21:46,Single,1,No,No,No,110,Unknown,Unknown,Unknown,,No,No,Weekday,Night
+20226017,TAS,11,2022,Saturday,15:15,Single,1,No,No,No,80,Outer Regional Australia,West and North West,Waratah-Wynyard,Access road,No,No,Weekend,Day
+20225082,WA,11,2022,Sunday,10:30,Single,1,No,No,No,100,Unknown,Unknown,Unknown,,No,No,Weekend,Day
+20222108,VIC,11,2022,Sunday,14:25,Single,1,No,No,No,100,Inner Regional Australia,Bendigo,Mount Alexander,Arterial Road,No,No,Weekend,Day
+20222220,VIC,11,2022,Saturday,16:45,Multiple,1,No,No,No,100,Inner Regional Australia,Shepparton,Campaspe,National or State Highway,No,No,Weekend,Day
+20222173,VIC,11,2022,Sunday,11:25,Multiple,1,No,No,No,80,Inner Regional Australia,Latrobe - Gippsland,Bass Coast,Arterial Road,No,No,Weekend,Day
+20221025,NSW,11,2022,Sunday,12:20,Multiple,1,No,No,No,60,Inner Regional Australia,Coffs Harbour - Grafton,Coffs Harbour,National or State Highway,No,No,Weekend,Day
+20223253,QLD,11,2022,Sunday,8:00,Multiple,1,No,No,No,60,Outer Regional Australia,Wide Bay,North Burnett,National or State Highway,No,No,Weekend,Day
+20223049,QLD,11,2022,Sunday,14:00,Multiple,1,No,No,No,100,Inner Regional Australia,Darling Downs - Maranoa,Southern Downs,National or State Highway,No,No,Weekend,Day
+20222128,VIC,11,2022,Saturday,0:20,Single,1,No,No,No,60,Major Cities of Australia,Melbourne - Inner,Yarra,Arterial Road,No,No,Weekend,Night
+20225074,WA,11,2022,Sunday,9:54,Multiple,1,No,No,No,100,Unknown,Unknown,Unknown,,No,No,Weekend,Day
+20221148,NSW,11,2022,Saturday,10:00,Single,1,No,No,No,60,Inner Regional Australia,Murray,Albury,Sub-arterial Road,No,No,Weekend,Day
+20221263,NSW,11,2022,Saturday,7:30,Single,1,No,No,No,100,Outer Regional Australia,Hunter Valley exc Newcastle,Upper Hunter,Sub-arterial Road,No,No,Weekend,Day
+20224057,SA,11,2022,Saturday,19:29,Multiple,1,No,No,No,80,Major Cities of Australia,Adelaide - North,Playford,Collector Road,No,No,Weekend,Night
+20221203,NSW,11,2022,Sunday,10:30,Multiple,1,No,No,No,60,Inner Regional Australia,Sydney - Sutherland,Sutherland,Arterial Road,No,No,Weekend,Day
+20221261,NSW,11,2022,Saturday,13:50,Multiple,1,No,No,No,100,Inner Regional Australia,New England and North West,Armidale Regional,National or State Highway,No,No,Weekend,Day
+20223255,QLD,11,2022,Saturday,14:00,Single,1,No,No,No,100,Outer Regional Australia,Central Queensland,Banana,Sub-arterial Road,No,No,Weekend,Day
+20223013,QLD,11,2022,Saturday,11:00,Single,1,No,No,No,60,Major Cities of Australia,Brisbane - South,Brisbane,Sub-arterial Road,No,No,Weekend,Day
+20221090,NSW,11,2022,Sunday,16:41,Single,1,No,No,No,50,Major Cities of Australia,Sydney - North Sydney and Hornsby,North Sydney,Local Road,No,No,Weekend,Day
+20223147,QLD,11,2022,Sunday,8:00,Single,1,No,No,No,40,Major Cities of Australia,Moreton Bay - North,Moreton Bay,Access road,No,No,Weekend,Day
+20225009,WA,11,2022,Saturday,14:26,Multiple,2,No,No,No,70,Unknown,Unknown,Unknown,,No,No,Weekend,Day
+20225097,WA,11,2022,Wednesday,9:25,Multiple,1,No,Yes,No,110,Unknown,Unknown,Unknown,,No,No,Weekday,Day
+20221256,NSW,11,2022,Saturday,15:20,Single,1,No,No,No,60,Outer Regional Australia,New England and North West,Armidale Regional,Arterial Road,No,No,Weekend,Day
+20226003,TAS,11,2022,Friday,8:25,Single,1,No,No,No,100,Outer Regional Australia,South East,Southern Midlands,National or State Highway,No,No,Weekday,Day
+20226034,TAS,11,2022,Tuesday,8:16,Single,1,No,Yes,No,80,Outer Regional Australia,Launceston and North East,Break O'Day,Collector Road,No,No,Weekday,Day
+20223240,QLD,11,2022,Wednesday,15:00,Multiple,1,No,No,No,60,Major Cities of Australia,Gold Coast,Gold Coast,Sub-arterial Road,No,No,Weekday,Day
+20223029,QLD,11,2022,Thursday,15:00,Multiple,2,No,No,No,80,Inner Regional Australia,Wide Bay,Fraser Coast,Sub-arterial Road,No,No,Weekday,Day
+20223005,QLD,11,2022,Monday,6:00,Single,1,No,No,No,60,Outer Regional Australia,Cairns,Cassowary Coast,Local Road,No,No,Weekday,Day
+20223273,QLD,11,2022,Wednesday,6:00,Multiple,1,No,No,No,100,Outer Regional Australia,Mackay - Isaac - Whitsunday,Isaac,National or State Highway,No,No,Weekday,Day
+20225044,WA,11,2022,Wednesday,6:51,Single,1,No,No,No,110,Unknown,Unknown,Unknown,,No,No,Weekday,Day
+20225047,WA,11,2022,Wednesday,10:48,Single,1,No,No,No,20,Unknown,Unknown,Unknown,,No,No,Weekday,Day
+20221079,NSW,11,2022,Monday,11:25,Single,1,No,No,No,100,Outer Regional Australia,New England and North West,Tamworth Regional,Local Road,No,No,Weekday,Day
+20222033,VIC,11,2022,Friday,15:30,Single,1,No,No,No,100,Outer Regional Australia,Hume,Towong,Collector Road,No,No,Weekday,Day
+20221095,NSW,11,2022,Thursday,11:00,Single,1,No,No,No,100,Outer Regional Australia,New England and North West,Tamworth Regional,National or State Highway,No,No,Weekday,Day
+20221158,NSW,11,2022,Monday,9:45,Multiple,1,No,No,Yes,100,Outer Regional Australia,New England and North West,Inverell,National or State Highway,No,No,Weekday,Day
+20221196,NSW,11,2022,Thursday,7:15,Multiple,1,No,Yes,No,50,Inner Regional Australia,Coffs Harbour - Grafton,Coffs Harbour,Sub-arterial Road,No,No,Weekday,Day
+20222110,VIC,11,2022,Friday,22:45,Multiple,1,No,No,No,70,Major Cities of Australia,Melbourne - North East,Darebin,Arterial Road,No,No,Weekend,Night
+20222123,VIC,11,2022,Thursday,16:46,Multiple,1,No,No,No,80,Major Cities of Australia,Melbourne - South East,Casey,Sub-arterial Road,No,No,Weekday,Day
+20223211,QLD,11,2022,Thursday,16:00,Single,1,No,No,No,70,Major Cities of Australia,Sunshine Coast,Sunshine Coast,Sub-arterial Road,No,No,Weekday,Day
+20221208,NSW,11,2022,Friday,17:17,Single,1,No,No,No,110,Inner Regional Australia,Coffs Harbour - Grafton,Coffs Harbour,National or State Highway,No,No,Weekday,Day
+20225093,WA,11,2022,Friday,13:02,Multiple,1,No,No,No,110,Unknown,Unknown,Unknown,,No,No,Weekday,Day
+20225003,WA,11,2022,Wednesday,21:02,Single,1,-9,-9,-9,60,Unknown,Unknown,Unknown,,No,No,Weekday,Night
+20224064,SA,11,2022,Tuesday,10:57,Multiple,1,No,No,No,60,Major Cities of Australia,Adelaide - Central and Hills,Prospect,Arterial Road,No,No,Weekday,Day
+20222138,VIC,11,2022,Thursday,12:20,Single,1,No,No,No,100,Outer Regional Australia,North West,Gannawarra,National or State Highway,No,No,Weekday,Day
+20221213,NSW,11,2022,Wednesday,14:00,Single,1,No,No,No,100,Outer Regional Australia,Central West,Bland,Sub-arterial Road,No,No,Weekday,Day
+20221046,NSW,11,2022,Thursday,10:00,Multiple,1,No,No,No,60,Major Cities of Australia,Sydney - Inner South West,Georges River,Arterial Road,No,No,Weekday,Day
+20221214,NSW,11,2022,Tuesday,15:50,Single,1,No,No,Yes,100,Outer Regional Australia,Riverina,Carrathool,Sub-arterial Road,No,No,Weekday,Day
+20224044,SA,11,2022,Friday,17:10,Multiple,1,No,No,No,60,Major Cities of Australia,Adelaide - South,Onkaparinga,Sub-arterial Road,No,No,Weekday,Day
+20223105,QLD,11,2022,Monday,17:00,Single,1,No,No,No,100,Inner Regional Australia,Moreton Bay - North,Moreton Bay,Sub-arterial Road,No,No,Weekday,Day
+20225015,WA,11,2022,Wednesday,14:46,Single,1,No,No,No,110,Unknown,Unknown,Unknown,,No,No,Weekday,Day
+20222099,VIC,11,2022,Tuesday,12:06,Multiple,1,No,No,No,60,Outer Regional Australia,North West,Horsham,National or State Highway,No,No,Weekday,Day
+20223239,QLD,11,2022,Friday,13:00,Multiple,1,No,Yes,No,50,Major Cities of Australia,Gold Coast,Gold Coast,Local Road,No,No,Weekday,Day
+20223140,QLD,11,2022,Sunday,22:00,Single,1,No,No,No,80,Major Cities of Australia,Gold Coast,Gold Coast,Sub-arterial Road,No,No,Weekend,Night
+20223254,QLD,11,2022,Saturday,1:00,Single,1,No,No,No,50,Remote Australia,Queensland - Outback,Mount Isa,Local Road,No,No,Weekend,Night
+20222234,VIC,11,2022,Saturday,0:16,Single,1,No,No,No,80,Major Cities of Australia,Melbourne - South East,Casey,National or State Highway,No,No,Weekend,Night
+20222061,VIC,11,2022,Sunday,21:15,Single,1,No,No,No,60,Major Cities of Australia,Melbourne - West,Wyndham,Arterial Road,No,No,Weekend,Night
+20227026,NT,11,2022,Wednesday,18:00,Single,1,No,No,No,80,Unknown,Unknown,Unknown,,No,No,Weekday,Night
+20223210,QLD,11,2022,Saturday,21:00,Single,1,No,No,No,60,Outer Regional Australia,Townsville,Charters Towers,Local Road,No,No,Weekend,Night
+20223173,QLD,11,2022,Sunday,13:00,Single,1,No,No,No,100,Inner Regional Australia,Wide Bay,Bundaberg,Local Road,No,No,Weekend,Day
+20222181,VIC,11,2022,Friday,18:35,Single,1,No,No,No,70,Major Cities of Australia,Melbourne - West,Brimbank,Local Road,No,No,Weekend,Night
+20223218,QLD,11,2022,Sunday,7:00,Single,1,No,No,No,60,Major Cities of Australia,Brisbane - South,Brisbane,Sub-arterial Road,No,No,Weekend,Day
+20221236,NSW,11,2022,Monday,12:57,Single,1,No,No,No,60,Major Cities of Australia,Sydney - Blacktown,Blacktown,Local Road,No,No,Weekday,Day
+20223194,QLD,11,2022,Monday,14:00,Single,1,No,No,No,50,Major Cities of Australia,Brisbane - West,Brisbane,Local Road,No,No,Weekday,Day
+20222190,VIC,11,2022,Friday,5:30,Single,1,No,No,No,50,Major Cities of Australia,Melbourne - South East,Casey,Collector Road,No,No,Weekday,Night
+20221041,NSW,11,2022,Tuesday,8:40,Single,1,No,No,No,50,Major Cities of Australia,Sydney - Eastern Suburbs,Woollahra,Local Road,No,No,Weekday,Day
+20221174,NSW,11,2022,Saturday,23:11,Multiple,1,No,No,No,60,Major Cities of Australia,Newcastle and Lake Macquarie,Newcastle,National or State Highway,No,No,Weekend,Night
+20226019,TAS,11,2022,Monday,12:34,Single,1,No,No,No,50,Outer Regional Australia,South East,Huon Valley,National or State Highway,No,No,Weekday,Day
+20222186,VIC,11,2022,Monday,15:11,Multiple,1,No,No,No,50,Major Cities of Australia,Melbourne - West,Brimbank,Local Road,No,No,Weekday,Day
+20221199,NSW,11,2022,Friday,5:15,Multiple,1,No,No,No,50,Major Cities of Australia,Sydney - Blacktown,Blacktown,Local Road,No,No,Weekday,Night
+20223053,QLD,11,2022,Saturday,1:00,Multiple,2,No,No,No,60,Major Cities of Australia,Gold Coast,Gold Coast,Collector Road,No,No,Weekend,Night
+20223141,QLD,11,2022,Saturday,13:00,Single,1,No,No,No,100,Outer Regional Australia,Logan - Beaudesert,Scenic Rim,National or State Highway,No,No,Weekend,Day
+20225091,WA,11,2022,Sunday,11:27,Multiple,1,No,No,No,80,Unknown,Unknown,Unknown,,No,No,Weekend,Day
+20224046,SA,11,2022,Friday,21:29,Single,1,No,No,No,60,Major Cities of Australia,Adelaide - Central and Hills,Campbelltown (SA),Sub-arterial Road,No,No,Weekend,Night
+20223108,QLD,11,2022,Thursday,17:00,Multiple,1,No,No,No,60,Outer Regional Australia,Central Queensland,Banana,Local Road,No,No,Weekday,Day
+20221076,NSW,11,2022,Saturday,22:20,Multiple,1,No,No,No,60,Major Cities of Australia,Sydney - Inner South West,Canterbury-Bankstown,Arterial Road,No,No,Weekend,Night
+20221190,NSW,11,2022,Thursday,6:40,Multiple,1,No,Yes,No,60,Major Cities of Australia,Sydney - Blacktown,Blacktown,Collector Road,No,No,Weekday,Day
+20223165,QLD,11,2022,Friday,19:00,Single,1,No,No,No,100,Inner Regional Australia,Darling Downs - Maranoa,Southern Downs,Sub-arterial Road,No,No,Weekend,Night
+20225156,WA,11,2022,Thursday,13:45,Single,1,No,No,No,80,Unknown,Unknown,Unknown,,No,No,Weekday,Day
+20221183,NSW,11,2022,Tuesday,7:20,Multiple,1,No,No,Yes,110,Inner Regional Australia,Capital Region,Yass Valley,National or State Highway,No,No,Weekday,Day
+20222163,VIC,11,2022,Wednesday,13:23,Multiple,1,No,No,No,100,Major Cities of Australia,Melbourne - Outer East,Yarra Ranges,Arterial Road,No,No,Weekday,Day
+20223080,QLD,11,2022,Tuesday,1:00,Multiple,2,No,No,Yes,60,Inner Regional Australia,Darling Downs - Maranoa,Western Downs,National or State Highway,No,No,Weekday,Night
+20222239,VIC,11,2022,Tuesday,4:55,Single,1,No,No,No,60,Major Cities of Australia,Melbourne - Inner,Yarra,Arterial Road,No,No,Weekday,Night
+20222050,VIC,11,2022,Thursday,5:00,Single,1,No,No,No,110,Inner Regional Australia,Hume,Mitchell,National or State Highway,No,No,Weekday,Night
+20222219,VIC,11,2022,Friday,1:10,Multiple,1,No,No,No,100,Outer Regional Australia,Warrnambool and South West,Glenelg,National or State Highway,No,No,Weekday,Night
+20223054,QLD,11,2022,Tuesday,19:00,Multiple,1,No,No,No,100,Inner Regional Australia,Darling Downs - Maranoa,Toowoomba,National or State Highway,No,No,Weekday,Night
+20223126,QLD,11,2022,Wednesday,18:00,Single,1,No,No,No,60,Major Cities of Australia,Logan - Beaudesert,Logan,Local Road,No,No,Weekday,Night
+20221084,NSW,11,2022,Tuesday,3:00,Single,1,No,No,No,60,Major Cities of Australia,Richmond - Tweed,Tweed,Local Road,No,No,Weekday,Night
+20224003,SA,11,2022,Tuesday,21:35,Multiple,1,No,No,No,60,Major Cities of Australia,Adelaide - West,Port Adelaide Enfield,National or State Highway,No,No,Weekday,Night
+20222081,VIC,11,2022,Thursday,22:00,Multiple,1,No,No,No,60,Major Cities of Australia,Melbourne - Outer East,Yarra Ranges,Arterial Road,No,No,Weekday,Night
+20223008,QLD,11,2022,Wednesday,4:00,Multiple,1,No,Yes,No,70,Major Cities of Australia,Sunshine Coast,Sunshine Coast,Sub-arterial Road,No,No,Weekday,Night
+20223204,QLD,11,2022,Thursday,23:00,Single,1,No,No,No,80,Major Cities of Australia,Brisbane - East,Brisbane,Local Road,No,No,Weekday,Night
+20225110,WA,11,2022,Tuesday,20:25,Single,1,No,No,No,70,Unknown,Unknown,Unknown,,No,No,Weekday,Night
+20221110,NSW,11,2022,Tuesday,20:20,Single,1,No,No,No,100,Inner Regional Australia,Hunter Valley exc Newcastle,Singleton,National or State Highway,No,No,Weekday,Night
+20222197,VIC,11,2022,Wednesday,21:33,Single,1,No,No,No,60,Inner Regional Australia,Latrobe - Gippsland,Latrobe (VIC.),Local Road,No,No,Weekday,Night
+20228003,ACT,10,2022,Saturday,22:00,Single,1,No,No,No,60,Major Cities of Australia,Australian Capital Territory,Unincorporated ACT,Collector Road,No,No,Weekend,Night
+20223010,QLD,10,2022,Tuesday,21:00,Single,1,No,No,No,100,Remote Australia,Queensland - Outback,Mareeba,Collector Road,No,No,Weekday,Night
+20225068,WA,10,2022,Tuesday,20:36,Single,1,No,No,No,100,Unknown,Unknown,Unknown,,No,No,Weekday,Night
+20225049,WA,10,2022,Tuesday,4:31,Single,1,No,No,Yes,110,Unknown,Unknown,Unknown,,No,No,Weekday,Night
+20225148,WA,10,2022,Thursday,19:18,Single,1,No,No,No,110,Unknown,Unknown,Unknown,,No,No,Weekday,Night
+20225143,WA,10,2022,Thursday,2:03,Single,1,No,No,No,60,Unknown,Unknown,Unknown,,No,No,Weekday,Night
+20226041,TAS,10,2022,Saturday,18:30,Single,1,No,No,No,80,Outer Regional Australia,South East,Southern Midlands,Local Road,No,No,Weekend,Night
+20225139,WA,10,2022,Sunday,4:30,Multiple,1,No,No,No,100,Unknown,Unknown,Unknown,,No,No,Weekend,Night
+20222067,VIC,10,2022,Friday,19:48,Single,1,No,No,No,100,Major Cities of Australia,Melbourne - West,Melton,National or State Highway,No,No,Weekend,Night
+20222200,VIC,10,2022,Sunday,11:48,Multiple,1,No,No,No,80,Inner Regional Australia,Bendigo,Macedon Ranges,Sub-arterial Road,No,No,Weekend,Day
+20221097,NSW,10,2022,Sunday,15:00,Multiple,1,No,No,No,100,Inner Regional Australia,Capital Region,Queanbeyan-Palerang Regional,Arterial Road,No,No,Weekend,Day
+20223168,QLD,10,2022,Sunday,15:00,Multiple,1,No,No,No,60,Major Cities of Australia,Moreton Bay - North,Moreton Bay,Local Road,No,No,Weekend,Day
+20223181,QLD,10,2022,Sunday,7:00,Multiple,1,No,No,No,40,Inner Regional Australia,Ipswich,Lockyer Valley,Sub-arterial Road,No,No,Weekend,Day
+20225028,WA,10,2022,Friday,21:05,Multiple,1,No,No,No,50,Unknown,Unknown,Unknown,,No,No,Weekend,Night
+20225140,WA,10,2022,Saturday,13:13,Single,1,No,No,No,110,Unknown,Unknown,Unknown,,No,No,Weekend,Day
+20222028,VIC,10,2022,Friday,19:38,Single,1,No,No,No,100,Outer Regional Australia,North West,Gannawarra,Sub-arterial Road,No,No,Weekend,Night
+20222193,VIC,10,2022,Saturday,15:15,Multiple,1,No,No,No,80,Inner Regional Australia,Hume,Wodonga,Sub-arterial Road,No,No,Weekend,Day
+20224043,SA,10,2022,Monday,3:45,Single,1,No,No,No,50,Major Cities of Australia,Adelaide - North,Salisbury,Collector Road,No,No,Weekend,Night
+20223056,QLD,10,2022,Sunday,3:00,Single,1,No,No,No,60,Outer Regional Australia,Cairns,Douglas,Local Road,No,No,Weekend,Night
+20223139,QLD,10,2022,Sunday,20:00,Multiple,1,No,No,No,60,Major Cities of Australia,Brisbane Inner City,Brisbane,Collector Road,No,No,Weekend,Night
+20228002,ACT,10,2022,Sunday,14:45,Multiple,3,No,No,No,60,Major Cities of Australia,Australian Capital Territory,Unincorporated ACT,Collector Road,No,No,Weekend,Day
+20221037,NSW,10,2022,Sunday,16:10,Multiple,1,No,No,No,110,Outer Regional Australia,Far West and Orana,Dubbo Regional,National or State Highway,No,No,Weekend,Day
+20221246,NSW,10,2022,Saturday,10:40,Single,1,No,No,No,100,Outer Regional Australia,Hunter Valley exc Newcastle,Upper Hunter,Sub-arterial Road,No,No,Weekend,Day
+20223222,QLD,10,2022,Sunday,13:00,Single,1,No,No,No,60,Major Cities of Australia,Brisbane - North,Brisbane,Sub-arterial Road,No,No,Weekend,Day
+20227035,NT,10,2022,Friday,19:28,Multiple,1,Yes,No,No,80,Outer Regional Australia,Darwin,Litchfield,Sub-arterial Road,No,No,Weekend,Night
+20221132,NSW,10,2022,Saturday,16:03,Single,1,No,No,No,70,Major Cities of Australia,Newcastle and Lake Macquarie,Lake Macquarie,Arterial Road,No,No,Weekend,Day
+20222079,VIC,10,2022,Wednesday,15:10,Multiple,1,No,No,No,70,Major Cities of Australia,Melbourne - Outer East,Manningham,Collector Road,No,No,Weekday,Day
+20225094,WA,10,2022,Tuesday,9:01,Multiple,1,No,No,No,100,Unknown,Unknown,Unknown,,No,No,Weekday,Day
+20223046,QLD,10,2022,Wednesday,12:00,Single,1,No,No,No,100,Outer Regional Australia,Cairns,Mareeba,National or State Highway,No,No,Weekday,Day
+20222063,VIC,10,2022,Thursday,17:11,Single,1,No,No,No,50,Major Cities of Australia,Mornington Peninsula,Mornington Peninsula,Local Road,No,No,Weekday,Day
+20228012,ACT,10,2022,Sunday,3:55,Single,2,No,No,No,80,Major Cities of Australia,Australian Capital Territory,Unincorporated ACT,National or State Highway,No,No,Weekend,Night
+20221145,NSW,10,2022,Monday,23:15,Single,2,No,No,No,100,Inner Regional Australia,Capital Region,Upper Lachlan,Arterial Road,No,No,Weekday,Night
+20221112,NSW,10,2022,Thursday,6:10,Multiple,1,No,No,No,100,Inner Regional Australia,Capital Region,Yass Valley,National or State Highway,No,No,Weekday,Day
+20222233,VIC,10,2022,Tuesday,16:30,Multiple,1,No,No,No,100,Inner Regional Australia,Latrobe - Gippsland,Latrobe (VIC.),Access road,No,No,Weekday,Day
+20227004,NT,10,2022,Friday,6:00,Single,2,No,No,No,130,Remote Australia,Northern Territory - Outback,Katherine,National or State Highway,No,No,Weekday,Day
+20221047,NSW,10,2022,Wednesday,16:30,Multiple,1,No,No,No,60,Major Cities of Australia,Newcastle and Lake Macquarie,Lake Macquarie,Arterial Road,No,No,Weekday,Day
+20222117,VIC,10,2022,Thursday,15:20,Multiple,1,No,No,Yes,80,Inner Regional Australia,Latrobe - Gippsland,Wellington,National or State Highway,No,No,Weekday,Day
+20223042,QLD,10,2022,Wednesday,6:00,Multiple,1,No,No,No,100,Outer Regional Australia,Central Queensland,Central Highlands (QLD),National or State Highway,No,No,Weekday,Day
+20223020,QLD,10,2022,Sunday,3:00,Single,1,No,No,No,60,Outer Regional Australia,Townsville,Townsville,Local Road,No,No,Weekend,Night
+20226020,TAS,10,2022,Wednesday,23:56,Single,1,No,No,No,60,Inner Regional Australia,Hobart,Brighton,National or State Highway,No,No,Weekday,Night
+20222112,VIC,10,2022,Saturday,20:24,Single,1,No,No,No,70,Major Cities of Australia,Melbourne - West,Brimbank,National or State Highway,No,No,Weekend,Night
+20221021,NSW,10,2022,Saturday,19:48,Single,1,No,No,No,50,Inner Regional Australia,Coffs Harbour - Grafton,Clarence Valley,Local Road,No,No,Weekend,Night
+20222188,VIC,10,2022,Monday,2:20,Single,1,No,No,No,60,Major Cities of Australia,Melbourne - West,Brimbank,Collector Road,No,No,Weekend,Night
+20221066,NSW,10,2022,Monday,13:25,Single,1,No,No,No,50,Major Cities of Australia,Sydney - Ryde,Parramatta,Pedestrian Thoroughfare,No,No,Weekday,Day
+20221139,NSW,10,2022,Saturday,5:23,Single,1,No,No,No,50,Major Cities of Australia,Sydney - Outer West and Blue Mountains,Penrith,Local Road,No,No,Weekend,Night
+20223197,QLD,10,2022,Wednesday,17:00,Single,1,No,No,No,70,Major Cities of Australia,Gold Coast,Gold Coast,Sub-arterial Road,No,No,Weekday,Day
+20222189,VIC,10,2022,Wednesday,10:13,Single,1,No,No,Yes,50,Major Cities of Australia,Melbourne - West,Maribyrnong,Local Road,No,No,Weekday,Day
+20224063,SA,10,2022,Thursday,21:45,Single,1,No,No,No,60,Inner Regional Australia,South Australia - South East,Murray Bridge,Arterial Road,No,No,Weekday,Night
+20226025,TAS,10,2022,Friday,0:14,Multiple,2,No,Yes,No,110,Outer Regional Australia,South East,Southern Midlands,National or State Highway,No,No,Weekday,Night
+20221031,NSW,10,2022,Sunday,1:00,Single,1,No,No,No,100,Inner Regional Australia,Murray,Greater Hume,Sub-arterial Road,No,No,Weekend,Night
+20225149,WA,10,2022,Thursday,20:13,Single,1,No,No,No,110,Unknown,Unknown,Unknown,,No,No,Weekday,Night
+20221159,NSW,10,2022,Wednesday,19:20,Single,1,No,No,No,50,Major Cities of Australia,Illawarra,Shellharbour,National or State Highway,No,No,Weekday,Night
+20221223,NSW,10,2022,Thursday,12:08,Single,1,No,No,No,50,Major Cities of Australia,Sydney - City and Inner South,Sydney,Arterial Road,No,No,Weekday,Day
+20227021,NT,10,2022,Friday,3:55,Single,1,No,No,No,110,Very Remote Australia,Northern Territory - Outback,MacDonnell,Arterial Road,No,No,Weekday,Night
+20221171,NSW,10,2022,Sunday,13:00,Single,1,No,No,No,100,Remote Australia,Murray,Balranald,Local Road,No,No,Weekend,Day
+20223012,QLD,10,2022,Saturday,0:00,Single,1,No,No,No,90,Major Cities of Australia,Brisbane - North,Brisbane,Sub-arterial Road,No,No,Weekend,Night
+20226036,TAS,10,2022,Saturday,9:41,Multiple,1,No,No,No,110,Outer Regional Australia,West and North West,Latrobe (TAS.),National or State Highway,No,No,Weekend,Day
+20225119,WA,10,2022,Friday,23:50,Single,1,No,No,No,50,Unknown,Unknown,Unknown,,No,No,Weekend,Night
+20225024,WA,10,2022,Sunday,19:51,Single,1,No,No,No,100,Unknown,Unknown,Unknown,,No,No,Weekend,Night
+20222087,VIC,10,2022,Saturday,12:48,Single,1,No,No,No,100,Inner Regional Australia,Hume,Mitchell,Sub-arterial Road,No,No,Weekend,Day
+20222075,VIC,10,2022,Saturday,6:20,Single,1,No,No,No,40,Inner Regional Australia,Bendigo,Macedon Ranges,Sub-arterial Road,No,No,Weekend,Day
+20223178,QLD,10,2022,Sunday,17:00,Single,1,No,No,No,70,Major Cities of Australia,Logan - Beaudesert,Logan,Local Road,No,No,Weekend,Day
+20223077,QLD,10,2022,Sunday,19:00,Multiple,1,No,No,No,100,Outer Regional Australia,Cairns,Douglas,Sub-arterial Road,No,No,Weekend,Night
+20223099,QLD,10,2022,Friday,21:00,Single,1,No,No,No,100,Major Cities of Australia,Moreton Bay - North,Moreton Bay,National or State Highway,No,No,Weekend,Night
+20224004,SA,10,2022,Sunday,10:50,Single,1,No,No,No,100,Outer Regional Australia,Barossa - Yorke - Mid North,Mount Remarkable,Local Road,No,No,Weekend,Day
+20225150,WA,10,2022,Sunday,15:05,Single,1,No,No,No,110,Unknown,Unknown,Unknown,,No,No,Weekend,Day
+20223130,QLD,10,2022,Saturday,23:00,Single,1,No,No,No,50,Inner Regional Australia,Logan - Beaudesert,Logan,Undetermined,No,No,Weekend,Night
+20223175,QLD,10,2022,Friday,16:00,Multiple,1,No,No,No,90,Major Cities of Australia,Gold Coast,Gold Coast,Sub-arterial Road,No,No,Weekday,Day
+20222089,VIC,10,2022,Saturday,22:52,Multiple,1,No,No,Yes,110,Outer Regional Australia,North West,Mildura,National or State Highway,No,No,Weekend,Night
+20221135,NSW,10,2022,Friday,21:03,Single,1,No,No,No,80,Inner Regional Australia,Sydney - Baulkham Hills and Hawkesbury,Hawkesbury,Sub-arterial Road,No,No,Weekend,Night
+20225025,WA,10,2022,Wednesday,6:19,Multiple,1,No,Yes,No,110,Unknown,Unknown,Unknown,,No,No,Weekday,Day
+20221215,NSW,10,2022,Wednesday,11:05,Single,1,No,No,No,100,Outer Regional Australia,Riverina,Griffith,Arterial Road,No,No,Weekday,Day
+20222065,VIC,10,2022,Tuesday,19:17,Single,1,No,No,No,50,Major Cities of Australia,Melbourne - South East,Monash,Local Road,No,No,Weekday,Night
+20222021,VIC,10,2022,Monday,19:03,Single,1,No,No,No,60,Major Cities of Australia,Melbourne - North East,Whittlesea,Arterial Road,No,No,Weekday,Night
+20225138,WA,10,2022,Monday,17:01,Multiple,1,No,No,No,100,Unknown,Unknown,Unknown,,No,No,Weekday,Day
+20222145,VIC,10,2022,Friday,13:20,Multiple,1,No,No,No,110,Unknown,Unknown,Unknown,National or State Highway,No,No,Weekday,Day
+20221030,NSW,10,2022,Tuesday,4:25,Single,1,No,No,No,70,Major Cities of Australia,Hunter Valley exc Newcastle,Maitland,Sub-arterial Road,No,No,Weekday,Night
+20221253,NSW,10,2022,Tuesday,1:30,Single,1,No,No,No,80,Major Cities of Australia,Illawarra,Wollongong,National or State Highway,No,No,Weekday,Night
+20222009,VIC,10,2022,Wednesday,13:42,Multiple,1,No,Yes,No,60,Inner Regional Australia,Latrobe - Gippsland,South Gippsland,National or State Highway,No,No,Weekday,Day
+20222045,VIC,10,2022,Tuesday,18:13,Multiple,1,No,No,Yes,60,Major Cities of Australia,Melbourne - West,Melton,,No,No,Weekday,Night
+20221020,NSW,10,2022,Monday,20:30,Multiple,1,No,No,No,80,Major Cities of Australia,Central Coast,Central Coast,National or State Highway,No,No,Weekday,Night
+20223200,QLD,10,2022,Friday,5:00,Multiple,1,No,No,No,80,Outer Regional Australia,Cairns,Tablelands,Local Road,No,No,Weekday,Night
+20223243,QLD,10,2022,Thursday,20:00,Single,1,No,No,No,50,Inner Regional Australia,Mackay - Isaac - Whitsunday,Mackay,Access road,No,No,Weekday,Night
+20225108,WA,9,2022,Friday,22:58,Single,1,No,No,No,80,Unknown,Unknown,Unknown,,No,No,Weekend,Night
+20226005,TAS,9,2022,Friday,23:30,Single,1,No,No,No,100,Outer Regional Australia,Launceston and North East,Launceston,National or State Highway,No,No,Weekend,Night
+20225113,WA,9,2022,Saturday,2:26,Single,1,No,No,No,110,Unknown,Unknown,Unknown,,No,No,Weekend,Night
+20225153,WA,9,2022,Friday,5:33,Single,1,No,No,No,110,Unknown,Unknown,Unknown,,No,No,Weekday,Night
+20225062,WA,9,2022,Friday,19:48,Single,1,No,No,No,110,Unknown,Unknown,Unknown,,No,No,Weekend,Night
+20225145,WA,9,2022,Wednesday,20:45,Single,1,No,No,No,80,Unknown,Unknown,Unknown,,No,No,Weekday,Night
+20225002,WA,9,2022,Tuesday,0:30,Single,1,No,No,No,110,Unknown,Unknown,Unknown,,No,No,Weekday,Night
+20226016,TAS,9,2022,Friday,4:30,Single,1,No,No,No,80,Inner Regional Australia,Launceston and North East,Northern Midlands,Sub-arterial Road,No,No,Weekday,Night
+20228001,ACT,9,2022,Sunday,15:10,Multiple,1,No,No,No,80,Major Cities of Australia,Australian Capital Territory,Unincorporated ACT,Arterial Road,No,No,Weekend,Day
+20223246,QLD,9,2022,Sunday,7:00,Multiple,1,No,No,Yes,100,Inner Regional Australia,Central Queensland,Gladstone,National or State Highway,No,No,Weekend,Day
+20221240,NSW,9,2022,Friday,18:13,Multiple,1,No,No,No,110,Outer Regional Australia,Central West,Parkes,National or State Highway,No,No,Weekend,Night
+20222052,VIC,9,2022,Sunday,11:45,Multiple,1,No,No,No,80,Major Cities of Australia,Melbourne - West,Hobsons Bay,Arterial Road,No,No,Weekend,Day
+20223116,QLD,9,2022,Saturday,8:00,Multiple,1,No,Yes,No,100,Outer Regional Australia,Mackay - Isaac - Whitsunday,Mackay,Sub-arterial Road,No,No,Weekend,Day
+20226044,TAS,9,2022,Sunday,15:40,Single,1,No,No,No,100,Outer Regional Australia,Launceston and North East,Dorset,National or State Highway,No,No,Weekend,Day
+20222212,VIC,9,2022,Sunday,20:09,Multiple,1,No,No,No,100,Outer Regional Australia,Latrobe - Gippsland,East Gippsland,National or State Highway,No,No,Weekend,Night
+20221254,NSW,9,2022,Sunday,14:40,Single,1,No,No,No,100,Outer Regional Australia,Mid North Coast,Nambucca Valley,Sub-arterial Road,No,No,Weekend,Day
+20223015,QLD,9,2022,Sunday,22:00,Single,1,No,No,No,60,Inner Regional Australia,Central Queensland,Rockhampton,Local Road,No,No,Weekend,Night
+20225081,WA,9,2022,Sunday,19:01,Single,1,No,No,No,60,Unknown,Unknown,Unknown,,No,No,Weekend,Night
+20225084,WA,9,2022,Sunday,8:40,Single,1,No,No,No,70,Unknown,Unknown,Unknown,,No,No,Weekend,Day
+20225060,WA,9,2022,Sunday,6:37,Single,2,No,No,No,60,Unknown,Unknown,Unknown,,No,No,Weekend,Day
+20221197,NSW,9,2022,Sunday,14:30,Single,1,No,No,No,100,Outer Regional Australia,Central West,Weddin,National or State Highway,No,No,Weekend,Day
+20221118,NSW,9,2022,Saturday,9:05,Multiple,2,No,No,No,110,Inner Regional Australia,Central Coast,Central Coast,National or State Highway,No,No,Weekend,Day
+20224042,SA,9,2022,Saturday,14:25,Single,1,No,No,No,100,Inner Regional Australia,South Australia - South East,Yankalilla,Arterial Road,No,No,Weekend,Day
+20225005,WA,9,2022,Sunday,18:51,Single,1,No,No,No,110,Unknown,Unknown,Unknown,,No,No,Weekend,Night
+20222072,VIC,9,2022,Friday,16:15,Multiple,1,No,No,No,100,Remote Australia,North West,Mildura,Local Road,No,No,Weekday,Day
+20222130,VIC,9,2022,Monday,14:05,Multiple,1,No,Yes,Yes,100,Inner Regional Australia,Hume,Strathbogie,National or State Highway,No,No,Weekday,Day
+20222142,VIC,9,2022,Thursday,16:50,Single,1,No,No,No,50,Major Cities of Australia,Melbourne - North East,Mitchell,Local Road,No,No,Weekday,Day
+20223263,QLD,9,2022,Monday,14:00,Multiple,1,No,No,No,100,Inner Regional Australia,Central Queensland,Livingstone,Sub-arterial Road,No,No,Weekday,Day
+20223001,QLD,9,2022,Monday,14:00,Single,1,No,No,No,100,Inner Regional Australia,Ipswich,Somerset,,No,No,Weekday,Day
+20223237,QLD,9,2022,Saturday,21:00,Single,1,No,No,No,70,Major Cities of Australia,Gold Coast,Gold Coast,Sub-arterial Road,No,No,Weekend,Night
+20221127,NSW,9,2022,Friday,15:45,Multiple,2,No,No,No,100,Outer Regional Australia,Central West,Mid-Western Regional,Arterial Road,No,No,Weekday,Day
+20222149,VIC,9,2022,Thursday,9:56,Multiple,1,No,No,Yes,60,Inner Regional Australia,Melbourne - Outer East,Yarra Ranges,Local Road,No,No,Weekday,Day
+20221209,NSW,9,2022,Friday,12:15,Single,1,No,No,No,110,Inner Regional Australia,Mid North Coast,Mid-Coast,National or State Highway,No,No,Weekday,Day
+20222211,VIC,9,2022,Tuesday,7:35,Multiple,1,No,Yes,No,60,Major Cities of Australia,Melbourne - South East,Monash,Arterial Road,No,No,Weekday,Day
+20222027,VIC,9,2022,Tuesday,10:25,Single,1,No,No,No,60,Major Cities of Australia,Geelong,Greater Geelong,Local Road,No,No,Weekday,Day
+20222133,VIC,9,2022,Monday,16:18,Multiple,1,No,No,No,100,Outer Regional Australia,Latrobe - Gippsland,Wellington,National or State Highway,No,No,Weekday,Day
+20225041,WA,9,2022,Tuesday,17:00,Single,1,No,Yes,No,70,Unknown,Unknown,Unknown,,No,No,Weekday,Day
+20223167,QLD,9,2022,Tuesday,10:00,Single,1,No,No,No,50,Major Cities of Australia,Ipswich,Ipswich,Local Road,No,No,Weekday,Day
+20225078,WA,9,2022,Tuesday,14:00,Single,1,No,Yes,No,40,Unknown,Unknown,Unknown,,No,No,Weekday,Day
+20225042,WA,9,2022,Tuesday,8:51,Single,1,No,Yes,No,50,Unknown,Unknown,Unknown,,No,No,Weekday,Day
+20224062,SA,9,2022,Friday,20:00,Single,1,No,No,No,100,Outer Regional Australia,South Australia - South East,Tatiara,Local Road,No,No,Weekend,Night
+20223261,QLD,9,2022,Wednesday,15:00,Single,1,No,No,No,100,Remote Australia,Queensland - Outback,Cook,Local Road,No,No,Weekday,Day
+20223078,QLD,9,2022,Wednesday,16:00,Multiple,1,No,No,No,100,Inner Regional Australia,Wide Bay,Gympie,Local Road,No,No,Weekday,Day
+20223103,QLD,9,2022,Thursday,9:00,Single,1,No,No,No,70,Major Cities of Australia,Brisbane - East,Brisbane,Sub-arterial Road,No,No,Weekday,Day
+20222182,VIC,9,2022,Thursday,9:00,Multiple,1,No,No,No,50,Major Cities of Australia,Melbourne - South East,Casey,Local Road,No,No,Weekday,Day
+20221226,NSW,9,2022,Tuesday,8:35,Multiple,1,No,No,No,100,Inner Regional Australia,Richmond - Tweed,Tweed,Local Road,No,No,Weekday,Day
+20221069,NSW,9,2022,Wednesday,15:55,Multiple,1,Yes,No,No,80,Inner Regional Australia,Richmond - Tweed,Tweed,Arterial Road,No,No,Weekday,Day
+20223212,QLD,9,2022,Monday,16:00,Multiple,1,No,No,No,80,Outer Regional Australia,Darling Downs - Maranoa,Southern Downs,National or State Highway,No,No,Weekday,Day
+20223104,QLD,9,2022,Thursday,13:00,Single,1,No,No,No,100,Very Remote Australia,Queensland - Outback,Northern Peninsula Area,Access road,No,No,Weekday,Day
+20225023,WA,9,2022,Friday,9:49,Single,1,No,Yes,No,110,Unknown,Unknown,Unknown,,No,No,Weekday,Day
+20222231,VIC,9,2022,Tuesday,10:00,Single,1,No,No,No,100,Inner Regional Australia,Shepparton,Campaspe,Local Road,No,No,Weekday,Day
+20222111,VIC,9,2022,Tuesday,14:49,Multiple,1,No,No,No,80,Major Cities of Australia,Melbourne - Outer East,Knox,Arterial Road,No,No,Weekday,Day
+20223169,QLD,9,2022,Thursday,15:00,Multiple,1,No,No,No,60,Major Cities of Australia,Brisbane - South,Brisbane,Sub-arterial Road,No,No,Weekday,Day
+20224039,SA,9,2022,Saturday,21:35,Single,1,No,No,No,80,Major Cities of Australia,Adelaide - South,Onkaparinga,Sub-arterial Road,No,No,Weekend,Night
+20222092,VIC,9,2022,Saturday,23:10,Single,1,No,No,No,50,Major Cities of Australia,Melbourne - Inner East,Boroondara,Arterial Road,No,No,Weekend,Night
+20221152,NSW,9,2022,Monday,5:45,Single,1,No,No,No,60,Major Cities of Australia,Sydney - South West,Fairfield,Collector Road,No,No,Weekend,Night
+20223156,QLD,9,2022,Tuesday,18:00,Single,1,No,No,No,80,Inner Regional Australia,Wide Bay,South Burnett,Collector Road,No,No,Weekday,Night
+20227001,NT,9,2022,Sunday,2:20,Single,1,No,No,No,80,Outer Regional Australia,Darwin,Litchfield,Sub-arterial Road,No,No,Weekend,Night
+20221130,NSW,9,2022,Friday,18:10,Single,1,No,No,No,100,Inner Regional Australia,Capital Region,Yass Valley,National or State Highway,No,No,Weekend,Night
+20222159,VIC,9,2022,Saturday,13:37,Single,1,No,No,No,60,Major Cities of Australia,Melbourne - Inner,Port Phillip,Local Road,No,No,Weekend,Day
+20223213,QLD,9,2022,Friday,19:00,Single,1,No,No,No,60,Major Cities of Australia,Logan - Beaudesert,Logan,Sub-arterial Road,No,No,Weekend,Night
+20221141,NSW,9,2022,Friday,18:50,Single,1,No,No,No,80,Major Cities of Australia,Sydney - Outer West and Blue Mountains,Penrith,Arterial Road,No,No,Weekend,Night
+20221113,NSW,9,2022,Friday,18:05,Single,1,No,No,No,80,Major Cities of Australia,Sydney - Outer West and Blue Mountains,Penrith,Local Road,No,No,Weekend,Night
+20222153,VIC,9,2022,Friday,19:35,Single,1,No,No,No,60,Major Cities of Australia,Melbourne - West,Wyndham,Local Road,No,No,Weekend,Night
+20222161,VIC,9,2022,Sunday,2:14,Single,1,No,No,No,80,Inner Regional Australia,Latrobe - Gippsland,Latrobe (VIC.),National or State Highway,No,No,Weekend,Night
+20221080,NSW,9,2022,Sunday,18:35,Single,1,No,No,No,110,Major Cities of Australia,Central Coast,Central Coast,National or State Highway,No,No,Weekend,Night
+20221163,NSW,9,2022,Sunday,3:30,Single,1,No,No,No,70,Major Cities of Australia,Sydney - South West,Liverpool,Arterial Road,No,No,Weekend,Night
+20221194,NSW,9,2022,Monday,15:00,Single,1,No,No,No,50,Inner Regional Australia,Capital Region,Eurobodalla,National or State Highway,No,No,Weekday,Day
+20221219,NSW,9,2022,Thursday,18:10,Multiple,1,No,No,No,110,Major Cities of Australia,Richmond - Tweed,Tweed,National or State Highway,No,No,Weekday,Night
+20222054,VIC,9,2022,Wednesday,1:06,Multiple,1,No,No,No,100,Major Cities of Australia,Melbourne - West,Brimbank,National or State Highway,No,No,Weekday,Night
+20221039,NSW,9,2022,Sunday,12:45,Multiple,1,No,No,No,80,Inner Regional Australia,Hunter Valley exc Newcastle,Cessnock,Arterial Road,No,No,Weekend,Day
+20222018,VIC,9,2022,Sunday,13:15,Single,1,No,No,No,100,Inner Regional Australia,Warrnambool and South West,Colac Otway,Access road,No,No,Weekend,Day
+20221052,NSW,9,2022,Sunday,13:15,Multiple,1,No,No,No,100,Outer Regional Australia,Capital Region,Bega Valley,National or State Highway,No,No,Weekend,Day
+20225157,WA,9,2022,Friday,18:50,Multiple,1,No,Yes,Yes,110,Unknown,Unknown,Unknown,,No,No,Weekend,Night
+20223189,QLD,9,2022,Friday,18:00,Single,1,Yes,No,No,80,Remote Australia,Queensland - Outback,Cook,Local Road,No,No,Weekend,Night
+20225124,WA,9,2022,Thursday,5:50,Multiple,1,No,No,No,110,Unknown,Unknown,Unknown,,No,No,Weekday,Night
+20221078,NSW,9,2022,Saturday,21:20,Single,1,No,No,No,80,Inner Regional Australia,Mid North Coast,Mid-Coast,Sub-arterial Road,No,No,Weekend,Night
+20222225,VIC,9,2022,Saturday,19:48,Multiple,1,No,No,No,80,Major Cities of Australia,Geelong,Greater Geelong,Local Road,No,No,Weekend,Night
+20223251,QLD,9,2022,Sunday,14:00,Single,1,No,No,No,70,Major Cities of Australia,Logan - Beaudesert,Logan,Local Road,No,No,Weekend,Day
+20222203,VIC,9,2022,Thursday,7:46,Single,1,No,No,No,80,Inner Regional Australia,Geelong,Greater Geelong,Sub-arterial Road,No,No,Weekday,Day
+20222035,VIC,9,2022,Thursday,8:20,Single,1,No,No,No,50,Major Cities of Australia,Melbourne - North West,Moreland,Local Road,No,No,Weekday,Day
+20223198,QLD,9,2022,Monday,9:00,Multiple,1,No,No,No,60,Major Cities of Australia,Brisbane - East,Brisbane,Collector Road,No,No,Weekday,Day
+20222032,VIC,9,2022,Friday,18:48,Multiple,1,No,No,No,50,Major Cities of Australia,Melbourne - North West,Hume,Local Road,No,No,Weekend,Night
+20223079,QLD,9,2022,Friday,23:00,Single,1,No,No,No,50,Remote Australia,Queensland - Outback,Cook,Local Road,No,No,Weekend,Night
+20221033,NSW,9,2022,Tuesday,12:10,Multiple,1,No,No,No,60,Major Cities of Australia,Hunter Valley exc Newcastle,Maitland,National or State Highway,No,No,Weekday,Day
+20221016,NSW,9,2022,Monday,8:52,Single,1,No,No,No,100,Outer Regional Australia,New England and North West,Gunnedah,Sub-arterial Road,No,No,Weekday,Day
+20223192,QLD,9,2022,Friday,12:00,Multiple,1,No,Yes,No,60,Inner Regional Australia,Central Queensland,Livingstone,Sub-arterial Road,No,No,Weekday,Day
+20223153,QLD,9,2022,Friday,6:00,Multiple,1,No,No,Yes,100,Inner Regional Australia,Wide Bay,Fraser Coast,Sub-arterial Road,No,No,Weekday,Day
+20225058,WA,9,2022,Friday,12:26,Single,1,No,No,No,110,Unknown,Unknown,Unknown,,No,No,Weekday,Day
+20221036,NSW,9,2022,Thursday,15:30,Single,1,No,No,No,50,Inner Regional Australia,Central West,Cowra,Sub-arterial Road,No,No,Weekday,Day
+20224033,SA,9,2022,Wednesday,13:39,Single,1,No,No,No,80,Major Cities of Australia,Adelaide - North,Salisbury,National or State Highway,No,No,Weekday,Day
+20224017,SA,9,2022,Thursday,12:35,Single,1,No,No,No,110,Outer Regional Australia,Barossa - Yorke - Mid North,Wakefield,National or State Highway,No,No,Weekday,Day
+20222229,VIC,9,2022,Tuesday,13:57,Multiple,1,No,No,No,100,Unknown,Unknown,Unknown,Local Road,No,No,Weekday,Day
+20222015,VIC,9,2022,Wednesday,3:55,Single,1,No,No,No,70,Unknown,Unknown,Unknown,Arterial Road,No,No,Weekday,Night
+20224037,SA,9,2022,Wednesday,3:02,Single,1,No,No,No,60,Major Cities of Australia,Adelaide - North,Tea Tree Gully,Sub-arterial Road,No,No,Weekday,Night
+20221099,NSW,9,2022,Thursday,18:00,Single,1,No,No,No,80,Inner Regional Australia,Southern Highlands and Shoalhaven,Wingecarribee,Sub-arterial Road,No,No,Weekday,Night
+20221111,NSW,9,2022,Tuesday,21:00,Single,1,No,No,No,100,Outer Regional Australia,Richmond - Tweed,Kyogle,Arterial Road,No,No,Weekday,Night
+20222017,VIC,9,2022,Thursday,18:55,Multiple,1,No,No,No,80,Inner Regional Australia,Warrnambool and South West,Corangamite,National or State Highway,No,No,Weekday,Night
+20223058,QLD,9,2022,Wednesday,18:00,Multiple,1,No,No,Yes,100,Major Cities of Australia,Ipswich,Ipswich,National or State Highway,No,No,Weekday,Night
+20223144,QLD,9,2022,Monday,18:00,Single,1,No,No,No,80,Inner Regional Australia,Sunshine Coast,Sunshine Coast,Local Road,No,No,Weekday,Night
+20221051,NSW,9,2022,Thursday,12:00,Multiple,1,No,Yes,No,80,Inner Regional Australia,Murray,Federation,Arterial Road,No,No,Weekday,Day
+20222226,VIC,9,2022,Thursday,3:46,Single,1,No,No,Yes,110,Inner Regional Australia,Ballarat,Ballarat,National or State Highway,No,No,Weekday,Night
+20223064,QLD,9,2022,Wednesday,21:00,Single,1,No,No,No,60,Major Cities of Australia,Brisbane Inner City,Brisbane,Collector Road,No,No,Weekday,Night
+20225017,WA,9,2022,Monday,21:47,Single,1,No,No,No,80,Unknown,Unknown,Unknown,,No,No,Weekday,Night
+20225120,WA,9,2022,Monday,20:54,Single,1,No,No,No,-9,Unknown,Unknown,Unknown,,No,No,Weekday,Night
+20221211,NSW,9,2022,Friday,4:15,Single,1,No,No,No,100,Inner Regional Australia,Capital Region,Yass Valley,Sub-arterial Road,No,No,Weekday,Night
+20222177,VIC,9,2022,Tuesday,0:20,Multiple,1,No,No,No,80,Major Cities of Australia,Melbourne - South East,Casey,Collector Road,No,No,Weekday,Night
+20221098,NSW,9,2022,Tuesday,19:50,Single,5,No,No,No,60,Inner Regional Australia,Sydney - Outer South West,Wingecarribee,Local Road,No,No,Weekday,Night
+20224060,SA,9,2022,Tuesday,21:46,Single,1,No,No,No,60,Major Cities of Australia,Adelaide - North,Salisbury,Local Road,No,No,Weekday,Night
+20222107,VIC,9,2022,Wednesday,22:05,Single,1,No,No,No,70,Major Cities of Australia,Melbourne - North East,Whittlesea,Sub-arterial Road,No,No,Weekday,Night
+20223119,QLD,9,2022,Friday,2:00,Single,1,No,No,No,60,Major Cities of Australia,Brisbane - South,Brisbane,Sub-arterial Road,No,No,Weekday,Night
