@@ -1,0 +1,68 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": "Australia Fatal Crashes on weekday versus weekend (From Sep 2022 to Aug 2023)",
+    "width": 400,
+    "height": 300,
+    "data": {
+      "url": "https://raw.githubusercontent.com/fuyudesuu/fit3179-s2-2023/main/Homework10/data/cleaned-with-ranged.csv"
+    },
+    "transform": [
+      {"calculate": "datetime(datum.Year, datum.Month, 1)", "as": "Date"},
+      {"aggregate": [{"op": "count", "field": "Crash ID", "as": "CrashCases"}], "groupby": ["Date", "Day of week"]},
+      {"calculate": "datum.CrashCases / 12", "as": "AvgCrashCases"}
+    ],
+    "encoding": {
+      "x": {"field": "Date", "type": "temporal", "title": "Period"},
+      "y": {"field": "CrashCases", "type": "quantitative", "title": "Crash Cases"},
+      "color": {"field": "Day of week", "type": "nominal", "title": "Day of Week"}
+    },
+    "layer": [
+      
+      {
+      "params": [{
+        "name": "legendSelect",
+        "select": {"type": "point", "fields": ["Day of week"]},
+        "bind": "legend"
+      }],
+      "mark": "line",
+      "encoding": {
+        "opacity": {
+          "condition": {"param": "legendSelect", "value": 1}, 
+          "value": 0.2
+        }
+      }
+    },
+    
+    {
+      "params": [{
+        "name": "hover",
+        "select": {"type": "point", "on": "mouseover", "clear": "mouseout"}
+      }
+    ],
+      "mark": {"type": "circle", "tooltip": true},
+      "encoding": {
+        "opacity": {
+          "condition": {"test": {"param": "hover", "empty": false}, "value": 1}, 
+          "value": 0
+        },
+        "tooltip": [
+          {"field": "CrashCases", "type": "quantitative", "title": "Crash Cases"},
+          {"field": "Day of week", "type": "nominal", "title": "Day of Week"},
+          {"field": "Date", "type": "temporal", "title": "Period", "timeUnit": "utcmonthyear"}
+        ],
+        "size": {
+          "condition": {"test": {"param": "hover", "empty": false}, "value": 48},
+          "value": 100
+        }
+      }
+    },
+    {
+      "mark": { "type": "rule", "strokeDash": [2, 2], "size": 2 },
+      "encoding": {
+        "y": { "value": 75 },
+        "color": {"value": "red"}
+      }
+    }
+  ]
+}
+
