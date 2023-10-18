@@ -1,0 +1,114 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {
+      "url": "vctchamp2023.csv"
+    },
+    "title": "Team ",
+    "params": [{
+        "name": "org",
+        "select": {"type": "point", "fields": ["Team"]},
+        "bind": {
+            "input": "select", 
+            "options": [
+                "Bilibili Gaming",
+                "DRX",
+                "EDward Gaming",
+                "Evil Geniuses",
+                "Fnatic",
+                "FUT Esports",
+                "FunPlus Phoenix",
+                "Giants",
+                "KRU Esports",
+                "LOUD",
+                "Natus Vincere",
+                "NRG",
+                "Paper Rex",
+                "T1",
+                "Team Liquid",
+                "ZETA DIVISION"
+            ],
+            "name": "Team"},
+        "value": [{"Team": "Evil Geniuses"}]
+    }],
+
+    "hconcat": [
+      {
+        "transform": [{"filter": {"param": "org"}}],
+        "mark": "bar",
+        "width": "container",
+        "encoding": {
+          "x": {
+            "field": "Name",
+            "type": "nominal",
+            "axis": {"labelAngle": -45},
+            "title": "Player Name"
+          },
+          "y": {
+            "field": "ACS",
+            "type": "quantitative",
+            "scale": {"domain": [0, 400]},
+            "title": "Average Combat Score (ACS)"
+          },
+          "tooltip":[{
+            "field": "Name",
+            "type": "nominal",
+            "title": "Player Name"
+          }, {
+            "field": "ACS",
+            "type":  "quantitative",
+            "title": "Average Combat Score"
+          }, {
+            "field": "HS%",
+            "type":  "quantitative",
+            "title": "Headshot %"
+          }, {
+            "field": "Team",
+            "type": "nominal",
+            "title": "Team"
+          }],
+          "color": {"value":"#6c71c4"}
+        }
+      },
+
+      {
+        "transform": [
+            {"filter": {"param": "org"}}],
+        "mark": "bar",
+        "width": "container",
+        "encoding": {
+          "x": {
+            "field": "Name",
+            "type": "nominal",
+            "axis": {"labelAngle": -45},
+            "title": "Player Name"
+          },
+          "y": {
+            "field": "Clutch%",
+            "type": "quantitative",
+            "scale": {"domain": [0, 6]}
+          },
+          "color": {"value":"#d33682"},
+          "tooltip":[{
+            "field": "Name",
+            "type": "nominal",
+            "title": "Player Name"
+          }, {
+            "field": "Clutch%",
+            "type":  "quantitative",
+            "title": "Clutch per Round Played %"
+          }, {
+            "field": "Team",
+            "type": "nominal",
+            "title": "Team"
+          }]
+          }
+        }
+    ],
+    "config": {
+        "legend": {
+            "disable": true
+        },
+        "axis": {"titleFontSize": 13},
+        "background": "transparent" }
+
+  }
