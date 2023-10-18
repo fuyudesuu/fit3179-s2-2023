@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Valorant Champions 2023 Infographics</title>
+    <!-- Import Vega & Vega-Lite (does not have to be from CDN) -->
+    <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
+
+    <!-- Import pure.css -->
+    <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/pure-min.css"
+        integrity="sha384-cg6SkqEOCV1NbJoCu11+bm0NvBRc8IYLRGXkmNrqUBfTjmMYwNKPWBTIKyw9mHNJ" crossorigin="anonymous">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Google font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css?family=Roboto|Anton&display=swap" rel="stylesheet">
+
+
+    <!-- CSS file -->
+    <link rel="stylesheet" type="text/css" href="css/styles.css" media="all">
+
+
+    <style>
+        body {
+            background-image: url(https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltbded518020183769/5eb26f5389bac8148a8006cc/agent-background-generic.JPG); /* Replace 'path/to/your/image.jpg' with the actual path to your image */
+            background-size: cover; 
+            background-position: center; 
+        }
+        .highlight{
+             color: #dc322f;
+        }
+        .highlight2{
+            color: #2aa198;
+        }
+    </style>
+
+</head>
+
+<body>
+
+    <div class="page">
+        <h1 id="main">Beyond the Stage: Unveiling the statistics of Valorant Champions 2023 </h1>
+        <!-- pure grid group -->
+        <div class="pure-g">
+
+            <div class="pure-u-1-2">
+                <div class="pure-g">
+                    <div class="pure-u-1-1">
+                        <h3 style="font-size: 35px; padding: 0px;"> What is VALORANT ? </h3>
+                    </div>
+                    <div class="pure-u-1-1" style="padding-top: 10px;text-align: justify;">
+                        <span> <span class="highlight">Valorant</span> is a 5v5 competitive tactical shooter developed by Riot Games and released in June 2020.
+                            The release has taken the gaming community by storm and been growing ever since. Players will play as both <span class="highlight2">Defenders</span> and <span class="highlight">Attackers</span>,
+                            with different objectives on each side and swap after half game.
+                            Its diverse character (also known as Agents) system with unique abilities is the core factor of the game and
+                            it has pushed players to develop sophisticated strategies other than just mechanical skill to lead themselves to victory. </span>
+
+                    </div>
+                    <div class="pure-u-1-2" style="padding-top: 35px;">
+                        <h3 style="font-size: 35px;"> About VALORANT Champions Tour </h3>
+                    </div>
+                    <div class="pure-u-1-2" style="padding-top: 50px;">
+                        <img id="valorantcover"
+                            src="Valorant_Champions_Tour_logo.png" />
+                    </div>
+
+                    <div class="pure-u-1-1" style="padding-top: 5px;text-align: justify;">
+                        <p><span> <span class="highlight">Valorant Champions Tour</span> is a global competitive tournament series organized by Riot Games.
+                            During the year, franchise teams from different regions will compete in their respective domestic league
+                            and accumulate circuit points to qualify for one international tournament, VALORANT Masters,
+                            and one final international tournament, VALORANT Champions. </span></p>
+                        <p><span> At Champions, 16 qualified teams from 4 major regions: Americas, EMEA, Pacific, China will
+                            then compete to prove that they are the best. 
+                            Viewership during international tournaments period can peak <span class="highlight">above 1 million viewers</span> concurrent on Twitch.tv platform alone. </span></p>
+    
+                    </div>
+
+                </div>
+            </div>
+            <div class="pure-u-1-2">
+                <div id="vis1" class="vis-container" style="padding-left: 30px; padding-top: 150px;"></div>
+            </div>
+
+        </div>
+        <!-- end pure grid group -->
+        <br>
+
+
+        <hr class="hr3">
+
+        <h2 id="sect2">Players at Valorant Champions 2023 Los Angeles</h2>
+        <!-- pure grid group -->
+        <div class="pure-g">
+            <div class="pure-u-1-2">
+                <div id="vis2" class="vis-container"></div>
+            </div>
+            <div class="pure-u-1-2" style="width: 40%; text-align: justify; padding-left: 80px; align-self: center;">
+                <p><span> Although this is <span class="highlight">China's</span> first year at Valorant Champions, they have the most players at VCT Champions at 13 players.</p></span>
+                <p><span> Following up to that, we find <span class="highlight">Korea</span> with 9 skilled competitors and <span class="highlight">USA</span> with 8 formidable players.</p></span>
+                <p><span> Remaining players hail from diverse corners of the globe, such as Indonesia, Singapore, Brazil, Turkey, Finland,...</p></span>
+                <p><span> The international representation underscores the game's universal allure, uniting talents from every continent to compete at the very top level of competition </p></span>
+                <p><span> You can use the Regions below the map to filter and see where players are from by each region. </p></span>
+            </div>
+        </div>
+       
+        <!-- end pure grid group -->
+        <br>
+
+        <hr class="hr3">
+
+        <h2 id="sect3">Which maps are being played at Champions 2023?</h2>
+        <!-- pure grid group -->
+        <div class="pure-g">
+            <div class = "pure-u-1-2" style="padding-left: 70px;" >
+                <div class="pure-u-1-1" style="padding-left: 100px;">
+                    <div id="vis3" class="vis-container"></div>
+                </div>
+                <div class="pure-u-1-1" style="padding-top: 20px;">
+                    <div id="vis4" class="vis-container"></div>
+                </div>
+            </div>
+
+            <div class="pure-u-1-3" style="width: 40%; text-align: justify;">
+                <p><span> At top level competition, <span class="highlight">every decisions matter</span>, from Agent selections to Map Ban/Pick decisions. 
+                    These decisions can become a huge counterplay to opponents' pregame planning and strategies</p></span>
+                <p><span> Here we can see in terms of most ban maps, <span class="highlight">Fracture</span> tops the rank, following up by <span class="highlight">Haven</span>.
+                    Therefore, because of its popular ban, these 2 maps are less likely to be picked or played. </p></span>
+                <p><span> However, these 2 maps also have one of the more balanced Win Rate for both Defender and Attackers. </p></span>
+                <p><span> On the other hand, <span class="highlight2">Split</span> takes the cake for most picked map throughout the tournament, while other maps are almost equally picked. </p></span>
+                <p><span> Furthermore, it is important for developers to address the issue unbalanced advantages of two sides on a map to <span class="highlight">maintain highest competitive integrity</span>, which can be seen happening on <span class="highlight">Split and Lotus</span> 
+                     with higher win rate on Attackers, while <span class="highlight2">Defenders side of Bind</span> has a huge advantage over Attackers  </p></span>
+            </div>  
+        </div>
+
+        <!-- end pure grid group -->
+        <br>
+
+        <hr class="hr3">
+
+        <h2 id="sect4">Player Performance throughout tournament</h2>
+        <!-- pure grid group -->
+        <div class="pure-g">
+            <div class = "pure-u-1-1" >
+                <div class="pure-u-1-2" style="padding-top: 1px;">
+                    <div id="vis5" class="vis-container"></div>
+                </div>
+                <div class="pure-u-1-2" style="width: 40%; text-align: justify; padding-left: 60px;">
+                    <p><span> Evil Geniuses  emerged victorious against Paper Rex ultimately at the Grand Finals. However, how are players in each team perform throughout the tournament?
+                        <span class="highlight">Are they underperforming?</span> Or perhaps Evil Geniuses players stepped up their game despite coming in as a dark horse of the tournament?
+                    </p></span>
+                    <p><span> Most Evil Geniuses players have great performance statistics but not necessarily significantly excel than other players, showing how low the skill difference are at the highest level of competition </p></span>
+
+                    
+                </div>
+            </div>
+            <div class="pure-u-1-1" style="padding-top: 30px;">
+                <div class="pure-u-1-2" style="text-align: justify;">
+                    <p><span>Note on statistics used:</span></p>
+                    <p style="text-indent: 0px;"><span> <span class="highlight">Impact Score:</span> This is calculated from various factors in game
+                    such as Economy management, Kills, Assists, Clutch Rounds,... </p></span>
+                    <p style="text-indent: 0px;"><span> <span class="highlight">Clutch%:</span> Percentage of rounds won as the last standing of the team.
+                    </p></span>
+                </div>
+                <div class="pure-u-1-2" style="text-align: justify; width: 40%; padding-left: 60px;">
+                    <p><span> Select a Team to compare team members performance throughout the tournament. </p></span>
+                    <p><span> To discover a specific player, you can use the FBSR%/Impact plot to search for that specific player.</span></p>
+                </div>
+            </div>
+
+            <div class="pure-u-1-1" style="padding-top: 30px;">
+                <div id="vis6" class="vis-container"></div>
+            </div>
+
+
+        </div>
+ 
+        <hr class="hr3">
+
+    
+        <p id="cred" style="font-size: 15px;">For more information about upcoming tournaments within circuit, visit <a href="https://valorantesports.com/" style="font-size: 15px;">here</a> </p>
+        <p id="cred" style="font-size: 15px;">This visualization is not affiliated with or endorsed by Riot Games, Inc. or its licensors. Valorant and the Valorant logo are trademarks or registered trademarks of Riot Games, Inc. This is a personal project.</p>
+        <p id="cred" style="font-size: 15px;">Data source for this visualization is shown on my <a href="https://github.com/fuyudesuu/fit3179-s2-2023/Assignment2" style="font-size: 15px;">Github</a></p>
+        <!-- end pure grid group -->
+        
+
+
+
+    </div>
+
+
+    <script type="text/javascript">
+        var specVis1 = "viewerchart.vg.json";
+        vegaEmbed('#vis1', specVis1, { "actions": false });
+
+        var specVis2 = "symbol_map_with_graticules.vg.json";
+        vegaEmbed('#vis2', specVis2, { "actions": false });
+
+        var specVis3 = "radar_chart.vg.json";
+        vegaEmbed('#vis3', specVis3, { "actions": false });
+
+        var specVis4 = "stacked_bar.vg.json";
+        vegaEmbed('#vis4', specVis4, { "actions": false });
+
+        var specVis5 = "concatBar.vg.json";
+        vegaEmbed('#vis5', specVis5, { "actions": false });
+
+        var specVis6 = "searchPlayer_scatter.vg.json";
+        vegaEmbed('#vis6', specVis6, { "actions": false });
+
+        print(brush)
+    </script>
+</body>
+
+</html>
