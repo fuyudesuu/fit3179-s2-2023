@@ -1,0 +1,51 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {"url": "vctchamp2023.csv"},
+  "width": 800,
+  "height": 600,
+  "mark": {"type":"point", "size": 50},
+  "encoding": {
+    "opacity": {
+      "condition": {
+        "test": "test(regexp(search_input,'i'),datum.Name)",
+        "value": 1
+      },
+      "value": 0.1
+    },
+
+    "tooltip": [
+        {"field": "Name", "type": "nominal", "title": "Player"},
+        {"field": "Team", "type": "nominal", "title": "Team"},
+        {"field": "ACS", "type": "quantitative", "title":"Average Combat Score"},
+        {"field": "Impact", "type": "quantitative", "title": "Impact Score"},
+        {"field": "FBSR%", "type": "quantitative", "title":"First Blood Success Rate(%)"}
+    ],
+
+    "x": {"field": "Impact", "type": "quantitative", "title":"Impact Score"},
+    "y": {"field": "FBSR%", "type": "quantitative", "title":"First Blood Success Rate(%)"},
+    "color": {"field": "Team", "type": "nominal"},
+    "shape": {"field": "FinalWin", "type": "nominal", "title": "Champions 2023 Winner"}
+  },
+  "params": [
+    {
+      "name": "search_input",
+      "value": "",
+      "bind": {
+        "input": "search",
+        "placeholder": "e.g. Demon1",
+        "name": "Player Search"
+      }
+    }
+  ],
+  "config": {
+    "axis": {"titleFontSize": 13},
+    "background": "transparent",
+    "legend": {
+        "titleFontSize": 15,
+        "labelFontSize": 13,
+        "labelOffset": 8,
+        "direction": "horizontal",
+        "columns": 2
+
+    }}
+}

@@ -1,0 +1,102 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": { "url": "MapSideStats.csv"},
+    "width": 300,
+    "height": 200,
+    "transform": [
+      {"fold": ["Attackers", "Defenders"], "as": ["Side", "Wins"]}
+    ],
+    "encoding": {
+      "y": {
+        "field": "Map",
+        "type": "ordinal",
+        "axis": {"title": "Map"}
+      }
+    },
+    "layer": [{
+    "params": [
+      {
+        "name": "highlight",
+        "select": {"type": "point", "on": "mouseover"}
+      },
+        {"name": "select", "select": "point"}
+      ],
+    "mark": {"type": "bar", "cursor": "pointer"},
+    
+    "encoding": {
+      "x": {
+        "field": "Wins",
+        "type": "quantitative",
+        "stack": "normalize",
+        "axis": {"title": "Win Rate"}
+      },
+      "color": {
+        "field": "Side",
+        "type": "nominal",
+        "scale": {"domain": ["Attackers", "Defenders"], "range": ["#dc322f", "#2aa198"]}
+      },
+      "tooltip": [
+        {
+          "field": "Map", 
+          "type": "nominal", 
+          "title": "Map"
+        },
+        {
+          "field": "Wins", 
+          "type": "quantitative", 
+          "title": "Wins"
+        },
+        {
+          "field": "Side", 
+          "type": "nominal", 
+          "title": "Side"
+        }
+      ],
+      "fillOpacity": {
+        "condition": {"param": "select", "value": 1},
+        "value": 0.3
+      },
+      "strokeWidth": {
+        "condition": [
+          {
+            "param": "select",
+            "empty": false,
+            "value": 2
+          },
+          {
+            "param": "highlight",
+            "empty": false,
+            "value": 1
+          }
+        ],
+        "value": 0 } }
+  },
+  
+  {
+    "mark": {"type": "text", "opacity": 0.9, "color": "white"},
+    "encoding": {
+      "x": {
+        "aggregate": "sum",
+        "field": "Wins",
+        "type": "quantitative",
+        "stack": "normalize",
+        "bandPosition": 0.5,
+        "axis": {"grid": false}
+        },
+      "text": {
+        "aggregate": "sum",
+        "field": "Wins",
+        "title": "Wins"
+        },
+      "detail": {
+        "field": "Side"
+        }
+      }
+    }
+  ],
+"config": {
+  "axis": {"titleFontSize": 13, "labelFontSize": 12},
+  "legend": {"titleFontSize": 14, "labelFontSize": 11},
+  "background": "transparent" }
+}
+  
