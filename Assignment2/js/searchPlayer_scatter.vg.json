@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "data": {"url": "vctchamp2023.csv"},
+  "data": {"url": "https://raw.githubusercontent.com/fuyudesuu/fit3179-s2-2023/main/Assignment2/data/vctchamp2023.csv"},
   "width": 800,
   "height": 600,
   "mark": {"type":"point", "size": 50},
