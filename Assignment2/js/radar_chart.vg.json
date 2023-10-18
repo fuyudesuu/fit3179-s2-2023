@@ -1,6 +1,7 @@
 {
     "$schema": "https://vega.github.io/schema/vega/v5.json",
     "description": "A radar chart example, showing multiple dimensions in a radial layout.",
+    "title": "VCT Champions 2023 Map Ban/Pick",
     "width": 250,
     "height": 250,
     "padding": 40,
