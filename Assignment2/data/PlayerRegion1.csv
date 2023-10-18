@@ -1,0 +1,25 @@
+﻿ID,Country,Player,Code,Region,lat,long
+1,Argentina,2,AR,Americas,-38.416097,-63.616672
+2,Brazil,4,BR,Americas,-14.235004,-51.92528
+3,Cambodia,1,KH,Asia,12.565679,104.990963
+4,Canada,1,CA,Americas,56.130366,-106.346771
+5,Chile,3,CL,Americas,-35.675147,-71.542969
+6,China,13,CN,Asia,35.86166,104.195397
+7,Colombia,1,CO,Americas,4.570868,-74.297333
+8,Finland,3,FI,Europe,61.92411,25.748151
+9,Indonesia,2,ID,Asia,-0.789275,113.921327
+10,Japan,5,JP,Asia,36.204824,138.252924
+11,Latvia,1,LV,Europe,56.879635,24.603189
+12,Lithuania,1,LT,Europe,55.169438,23.881275
+13,Malaysia,1,MY,Asia,4.210484,101.975766
+14,Norway,1,NO,Europe,60.472024,8.468946
+15,Russia,5,RU,Europe,61.52401,105.318756
+16,Singapore,1,SG,Asia,1.352083,103.819836
+17,South Korea,9,KR,Asia,35.907757,127.766922
+18,Spain,1,ES,Europe,40.463667,-3.74922
+19,Sweden,3,SE,Europe,60.128161,18.643501
+20,Taiwan,2,TW,Asia,23.69781,120.960515
+21,Turkey,7,TR,Asia,38.963745,35.243322
+22,Ukraine,1,UA,Europe,48.379433,31.16558
+23,United Kingdom,2,GB,Europe,55.378051,-3.435973
+24,United States,8,US,Americas,37.09024,-95.712891
