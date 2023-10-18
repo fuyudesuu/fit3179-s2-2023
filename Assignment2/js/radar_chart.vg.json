@@ -15,7 +15,7 @@
     "data": [
       {
         "name": "table",
-        "url": "MapPickBan.csv",
+        "url": "https://raw.githubusercontent.com/fuyudesuu/fit3179-s2-2023/main/Assignment2/data/MapPickBan.csv",
         "format": {"type": "csv", "parse": {"Total": "number"}}
       },
       {
