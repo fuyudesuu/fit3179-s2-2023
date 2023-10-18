@@ -2,7 +2,7 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": "VALORANT viewers on Twitch as of Sep 2023",
   "data": {
-    "url": "val_twitch_viewer.csv"
+    "url": "https://raw.githubusercontent.com/fuyudesuu/fit3179-s2-2023/main/Assignment2/data/val_twitch_viewer.csv"
   },
   "transform": [
     {"calculate": "datum.Avg_viewers", "as": "Average"},
